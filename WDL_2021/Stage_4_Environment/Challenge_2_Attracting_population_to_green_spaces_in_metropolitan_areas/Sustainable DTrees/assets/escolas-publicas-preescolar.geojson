@@ -1,0 +1,2111 @@
+{
+  "type" : "FeatureCollection", 
+  "features" : [
+    {
+      "type" : "Feature", 
+      "id" : 1, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.19752350557704, 38.7041658311317
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 1, 
+        "COD_SIG" : "0101901045001001", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "JI Alexandre Rodrigues Ferreira ", 
+        "INF_MORADA" : "Rua Coronel Pereira da Silva, 18 ", 
+        "INF_TELEFONE" : "+351 213 634 446; +351 213 616 480", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "mariafelicidade.silva@aefarruda.pt; geral@aefarruda.pt", 
+        "INF_SITE" : "https://aefarruda.pt/portal/", 
+        "INF_DESCRICAO" : "Agrupamento: Francisco de Arruda.GUAS: Sudoeste\nAno de Construção - 1934. Património Municipal. Construído de base para o Ensino. \n\n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "28844c4c-50de-45a0-adb7-e570753af10b"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 2, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.16595674512063, 38.7136982428513
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 2, 
+        "COD_SIG" : "3503002130001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Engenheiro Ressano Garcia", 
+        "INF_MORADA" : "Rua Professor Gomes Teixeira", 
+        "INF_TELEFONE" : "+351 213 969 870; +351 925 259 860", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "isabel-mendes@e-josefadeobidos.edu.pt; geral@e-josefadeobidos.edu.pt; direcao@e-josefadeobidos.edu.p", 
+        "INF_SITE" : "https://e-josefadeobidos.edu.pt/Portal/index.php/escolas/eb-1-ji-engenheiro-ressano-garcia; https://e-josefadeobidos.edu.pt/Portal/", 
+        "INF_DESCRICAO" : "Agrupamento: Padre Bartolomeu de Gusmão \nAno de construção - 1750. Propriedade Particular. Parte Edifício adaptada p/ o Ensino.\n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "e1f9f434-2104-4ad2-87f0-57487150670c"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 3, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.14204123687471, 38.7192137854104
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 3, 
+        "COD_SIG" : "4501101073001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica São José", 
+        "INF_MORADA" : "Rua do Telhal, 10", 
+        "INF_TELEFONE" : "+351 218 851 455; +351 927 591 013", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "info@aepassosmanuel.pt", 
+        "INF_SITE" : "http://aepassosmanuel.pt/escolas/eb1-ji-sao-jose/", 
+        "INF_DESCRICAO" : "Agrupamento: Passos Manuel\nAno de Construção - 1948. Património Municipal. Construído de base para o Ensino.\n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "304178a7-4332-4566-9d0e-91ef2654541c"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.19697582340956, 38.7474311484488
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 4, 
+        "COD_SIG" : "0806703069001001", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Jardim de Infância Benfica Nº 1", 
+        "INF_MORADA" : "Estrada de Benfica, 547/549", 
+        "INF_TELEFONE" : "+351 217 169 692; +351 938 329 934", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "jin1.benfica@aebenfica.pt", 
+        "INF_SITE" : "https://sites.google.com/a/aebenfica.pt/aeb-ji1/", 
+        "INF_DESCRICAO" : "Agrupamento: Benfica", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "2e959766-8b43-44af-ae56-b4af199f813e"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 5, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.17453628939625, 38.7175414358825
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 5, 
+        "COD_SIG" : "3503305038001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Vale de Alcântara", 
+        "INF_MORADA" : "Avenida de Ceuta Norte - Bairro Quinta do Loureiro", 
+        "INF_TELEFONE" : "+351 213 622 608", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "escola.valedealcantara@gmail.com; geral@agescolasmanuelmaia.net ", 
+        "INF_SITE" : "https://agescolasmanuelmaia.net/", 
+        "INF_DESCRICAO" : "Agrupamento: Manuel da Maia ", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "c561437a-edbf-4b3c-9b24-291034cda967"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 6, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.11650766786764, 38.7761240356757
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 6, 
+        "COD_SIG" : "3301301047001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Santa Maria dos Olivais", 
+        "INF_MORADA" : "Rua General Silva Freire", 
+        "INF_TELEFONE" : "+351 218 517 319; +351 211 358 418; +351 218 517 080 ", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "eb1ji.stmolivais@gmail.com; eb23-piscinassa@mail.telepac.pt (Sede Agrupamento)", 
+        "INF_SITE" : "https://agpiscinasolivais.com/; http://santamariaolivais175.blogspot.com/", 
+        "INF_DESCRICAO" : "Agrupamento: Piscinas - Olivais. GUAS: Nordeste.\nAno de construção - 1959. Património Municipal. Construído de base para o Ensino. ", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "9bd6355b-4937-483b-b291-88af61c4e808"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 7, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.14382648488996, 38.7221127412498
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 7, 
+        "COD_SIG" : "1401203002001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Luísa Ducla Soares ", 
+        "INF_MORADA" : "Rua do Passadiço, 86", 
+        "INF_TELEFONE" : "+351 213 533 477", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "info@aepassosmanuel.pt", 
+        "INF_SITE" : "http://aepassosmanuel.pt/escolas/eb1-ji-luisa-ducla-soares-2/", 
+        "INF_DESCRICAO" : "Agrupamento: Passos Manuel \nPatrimónio Municipal. Construído de base para o Ensino. \n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "420476c0-4984-413d-9021-a090c2925b11"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.14534997191629, 38.7137524863399
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 8, 
+        "COD_SIG" : "1500802013001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Padre Abel Varzim", 
+        "INF_MORADA" : "Rua da Rosa, 168", 
+        "INF_TELEFONE" : "+351 213 460 886; +351 927 591 277", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "info@aepassosmanuel.pt", 
+        "INF_SITE" : "http://aepassosmanuel.pt/escolas/ebs-passos-manuel/", 
+        "INF_DESCRICAO" : "Agrupamento: Passos Manuel\nPropriedade Particular com Renda. Edifício adaptado para o Ensino. \n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "be1862e3-22be-4eae-9234-76ba3529d4e6"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 9, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.17020731253365, 38.7600503620137
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 9, 
+        "COD_SIG" : "1807707004001001", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Jardim de Infância Telheiras", 
+        "INF_MORADA" : "Rua Hermano Neves, 13", 
+        "INF_TELEFONE" : "+351 217 586 091; +351 933 096 158  ", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "jit@aevf.pt", 
+        "INF_SITE" : "https://www.aevf.pt/", 
+        "INF_DESCRICAO" : "Agrupamento: Vergílio Ferreira.", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "56846a3c-42dc-425e-98db-b28bf3e6912a"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 10, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.11357277391804, 38.7606801912772
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 10, 
+        "COD_SIG" : "3309102010001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Alice Vieira", 
+        "INF_MORADA" : "Rua Vila de Catió", 
+        "INF_TELEFONE" : "+351 218 518 800; +351 218 536 433 (Sede Agrupamento)", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "alicevieira.eb1ji@gmail.com", 
+        "INF_SITE" : "https://aeolivais.edu.pt/; https://aeolivais.edu.pt/docs/Agrupamento.pdf; http://eb1alicevieira.blogspot.com/  ", 
+        "INF_DESCRICAO" : "Agrupamento: Santa Maria dos Olivais\nPatrimónio Municipal. Edifício pré-fabricado. \n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "b0664593-5552-415d-a2a1-14f79c7e5717"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 11, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.18530142667328, 38.704006691846
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 11, 
+        "COD_SIG" : "0203502001001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Santo Amaro", 
+        "INF_MORADA" : "Rua Filinto Elísio", 
+        "INF_TELEFONE" : "+351 213 641 420;+351 213 646 097", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "eb1santoamaro@aefarruda.pt; geral@aefarruda.pt", 
+        "INF_SITE" : "https://aefarruda.pt/portal/; https://sites.google.com/site/eb1santoamaro76/jardim-de-infancia-de-santo-amaro", 
+        "INF_DESCRICAO" : "Agrupamento: Francisco Arruda. GUAS: Sudoeste\nAno de Construção - 1940. Património Municipal. Construído de base para o Ensino.\n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "58f2cf7f-95a6-4a61-bb2e-c84073127738"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 12, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.20369164733826, 38.7334965805642
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 12, 
+        "COD_SIG" : "0807609001001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Arquitecto Gonçalo Ribeiro Telles", 
+        "INF_MORADA" : "Rua 4 - Bairro da Boavista", 
+        "INF_TELEFONE" : "+351 217 647 435; +351 938 329 929", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "jiarquitecto.grtelles@aebenfica.pt", 
+        "INF_SITE" : "https://sites.google.com/a/aebenfica.pt/aeb-jiarq/", 
+        "INF_DESCRICAO" : "Agrupamento: Benfica\nPatrimónio Municipal. Construído de base para o Ensino. \n ", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "98034760-6ce4-4a87-8640-ec82a8a5990b"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 13, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.16738078505174, 38.7563240532079
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 13, 
+        "COD_SIG" : "0901407006001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Dom Luís da Cunha", 
+        "INF_MORADA" : "Rua Dom Luís da Cunha", 
+        "INF_TELEFONE" : "+351 217 276 952; +351 933 096 138", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "ebdlc@aevf.pt", 
+        "INF_SITE" : "https://www.aevf.pt/", 
+        "INF_DESCRICAO" : "Agrupamento: Vergílio Ferreira.", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "95d35856-e364-4cf7-a55b-381ffb747bdf"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 14, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.12111175468431, 38.7350133488458
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 14, 
+        "COD_SIG" : "0703001034001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Engenheiro Duarte Pacheco", 
+        "INF_MORADA" : "Rua da Fábrica de Estamparia\n", 
+        "INF_TELEFONE" : "+351 939 430 744/5; +351 218 490 430", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "eb23.olaias@gmail.com", 
+        "INF_SITE" : "https://www.agrupamentoolaias.edu.pt/portal/", 
+        "INF_DESCRICAO" : "Agrupamento: Olaias.\n\nA Escola funciona em edifício próprio, construído de base para o Ensino em 1956 pela Câmara Municipal de Lisboa, no âmbito dos Planos Centenários Urbanos da autoria do Eng.º Duarte Pacheco, que dá nome à Escola. Património Municipal.\n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "dec724e8-dad6-474b-9f6e-b037211c1c8b"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 15, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.20987817761335, 38.7498388809585
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 15, 
+        "COD_SIG" : "0807402005001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Professor José Salvado Sampaio", 
+        "INF_MORADA" : "Rua Dr. Cunha Seixas", 
+        "INF_TELEFONE" : "+351 217 605 771; +351 217 112 330/9", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "eb1jss.ji3@gmail.com; aeqmarrocos@gmail.com (Sede Agrupamento)", 
+        "INF_SITE" : "https://agrupamentoeqta.wixsite.com/qtmarrocos; https://agrupamentoeqta.wixsite.com/qtmarrocos/eb1-professor-jos-salvado-sampaio-n17", 
+        "INF_DESCRICAO" : "Agrupamento: Quinta de Marrocos.\nAno de construção - 1983.  Património Municipal. Construído de base para o Ensino. \n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "466f40a5-81f7-45d9-9213-307f9403d54c"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 16, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15050406035051, 38.7910881723357
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 16, 
+        "COD_SIG" : "1300203011001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Maria da Luz de Deus Ramos", 
+        "INF_MORADA" : "Estrada Militar às Galinheiras", 
+        "INF_TELEFONE" : "+351 217 525 225; +351 217 571 510 (Agrupamento)", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "eb1mldr@gmail.com", 
+        "INF_SITE" : "http://aelumiar.com; https://www.aelumiar.com/site/eb1-maria-da-luz-de-deus-ramos/", 
+        "INF_DESCRICAO" : "Agrupamento: Alto do Lumiar \nPatrimónio Municipal. Construído de base para o Ensino. ", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "80f532da-d64e-44f0-b9d5-11549c350bb5"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 17, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.19272737422399, 38.7094425433618
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 17, 
+        "COD_SIG" : "0103103001001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Homero Serpa", 
+        "INF_MORADA" : "Rua do Casalinho da Ajuda", 
+        "INF_TELEFONE" : "+351 213 631 921; +351 213 616 480", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "ana.nunes@aefarruda.pt; geral@aefarruda.pt", 
+        "INF_SITE" : "https://aefarruda.pt/portal/; https://homeromaisfuturo.blogspot.com/", 
+        "INF_DESCRICAO" : "Agrupamento: Francisco Arruda. GUAS: Sudoeste.\nAno de construção - 1983.  Património Municipal. Construído de base para o Ensino. ", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "a59c7395-eeef-41e1-8dcb-b38730d97d64"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 18, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.11135668670601, 38.7534991675768
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 18, 
+        "COD_SIG" : "2109203014001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Manuel Teixeira Gomes", 
+        "INF_MORADA" : "Rua Manuel Teixeira Gomes", 
+        "INF_TELEFONE" : "+351 218 594 529; +351 967 862 223; +351 218 536 433 (Sede Agrupamento)", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "eb1mtgomes@gmail.com", 
+        "INF_SITE" : "https://aeolivais.edu.pt/; https://aeolivais.edu.pt/docs/Agrupamento.pdf; http://eb1mtgomes.blogspot.com/          ", 
+        "INF_DESCRICAO" : "Agrupamento: Santa Maria dos Olivais. GUAS: Nordeste.\nAno de Construção - 1972. Património Municipal. Construído de base para o Ensino.\n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "1607d559-6d21-408c-be7a-d1fa0e80f6bf"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 19, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.14999043151883, 38.7826904599254
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 19, 
+        "COD_SIG" : "1301209001001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Alta de Lisboa ", 
+        "INF_MORADA" : "Rua Raul Rego, 1A", 
+        "INF_TELEFONE" : "+351 217 551 205", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "sec.eb23almadanegreiros@gmail.com; cordenador.altadelisboa@gmail.com", 
+        "INF_SITE" : "https://eb23pan.webnode.pt/", 
+        "INF_DESCRICAO" : "Agrupamento: Pintor Almada Negreiros. GUAS: Noroeste.", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "3a914f79-4db6-4e82-a81d-ab14cd269691"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 20, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.1188541572213, 38.7741389376334
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 20, 
+        "COD_SIG" : "3306401006001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Paulino Montez", 
+        "INF_MORADA" : "Alameda da Encarnação", 
+        "INF_TELEFONE" : "+351 218 519 867; +351 218 517 080", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "eb1.n113.lisboa@gmail.com; eb23-piscinassa@mail.telepac.pt (Sede Agrupamento)     ", 
+        "INF_SITE" : "https://agpiscinasolivais.com/; https://paulinomontez.blogspot.com/", 
+        "INF_DESCRICAO" : "Agrupamento: Piscinas - Olivais. GUAS: Nordeste.\nPatrimónio Municipal. Construído de base para o Ensino. \n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "8d3c6753-6c84-46f6-b5f3-c7ed4c8c0cdf"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 21, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.20700771981909, 38.7073451769652
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 21, 
+        "COD_SIG" : "4001601008001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Moinhos do Restelo", 
+        "INF_MORADA" : "Rua Capitão-Mor Pedro Teixeira", 
+        "INF_TELEFONE" : "+351 213 019 101; +351 213 016 528 (Sede Agrupamento)", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "geral@aerestelo.pt", 
+        "INF_SITE" : "https://aerestelo.pt/", 
+        "INF_DESCRICAO" : "Agrupamento: Restelo.\nAno de construção - 1984.  Património Municipal. Construído de base para o Ensino. \n\n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "f783e8fe-e1ef-415e-b112-a892400ce81b"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 22, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15542815132591, 38.775647440729
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 22, 
+        "COD_SIG" : "1804903001001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Dr. Nuno Cordeiro Ferreira", 
+        "INF_MORADA" : "Rua Maria Margarida", 
+        "INF_TELEFONE" : "+351 217 581 034; +351 217 571 510 (Agrupamento)", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "eb1n91@gmail.com", 
+        "INF_SITE" : "http://aelumiar.com; https://www.aelumiar.com/site/eb1-dr-nuno-cordeiro-ferreira/", 
+        "INF_DESCRICAO" : "Agrupamento: Alto do Lumiar\nAno de construção - 1967. Património Municipal. Construído de base para o Ensino. \n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "827525bd-dac2-44be-9335-204da031ecce"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 23, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.10736843544079, 38.7451552410114
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 23, 
+        "COD_SIG" : "2108003001001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica João dos Santos", 
+        "INF_MORADA" : "Rua Pedro de Azevedo", 
+        "INF_TELEFONE" : "+351 926 734 195; +351 218 594 072", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "servicos.administrativos@aeddinis.pt; sa@aeddinis.pt; info@esecddinis.pt", 
+        "INF_SITE" : "http://www.esecddinis.pt/", 
+        "INF_DESCRICAO" : "Agrupamento: D. Dinis\nAno de Construção -  1974. Património Municipal. Construído de base para o Ensino. ", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "f036ae9b-716c-4342-99ec-08d6b53594e1"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 24, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.20168692562771, 38.7127354486009
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 24, 
+        "COD_SIG" : "0103608004001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Professor Manuel Sérgio", 
+        "INF_MORADA" : "Estrada de Queluz (Bairro do Alto da Ajuda)", 
+        "INF_TELEFONE" : "+351 213 642 659; +351 213 016 528 (Sede Agrupamento)", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "geral@aerestelo.pt", 
+        "INF_SITE" : "https://aerestelo.pt/", 
+        "INF_DESCRICAO" : "Agrupamento: Restelo.\nAno de Construção - 1941. Património Municipal. Construído de base para o Ensino. \n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "b66e82ad-b072-409f-b344-94b28e75090e"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 25, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.16837820068136, 38.7674810712348
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 25, 
+        "COD_SIG" : "1807204001001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Lumiar", 
+        "INF_MORADA" : "Rua Abel Salazar, 31", 
+        "INF_TELEFONE" : "+351 217 581 945; +351 933 096 146 ", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "ebl@aevf.pt", 
+        "INF_SITE" : "https://www.aevf.pt/", 
+        "INF_DESCRICAO" : "Agrupamento: Vergílio Ferreira.", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "c4d6dd83-252d-4425-b971-ee3dd85c248e"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 26, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.1475874390321, 38.754316522151
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 26, 
+        "COD_SIG" : "0900803001001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Santo António", 
+        "INF_MORADA" : "Rua Eugénio de Castro", 
+        "INF_TELEFONE" : "+351 217 933 436; +351 218 428 880 (Sede Agrupamento)", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "ebsantoantonio@aerdl.eu; informacoes@aerdl.eu (Sede Agrupamento)", 
+        "INF_SITE" : "https://nsite.aerdl.eu/; https://nsite.aerdl.eu/index.php/agrupamento/eb-santo-antonio", 
+        "INF_DESCRICAO" : "Agrupamento: Rainha Dona Leonor.\nAno de Construção - 1945. Património Municipal. Construído de base para o Ensino. \n ", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "12b43284-d3ff-438d-b678-77028ae54d21"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 27, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.11719759556541, 38.7534690300036
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 27, 
+        "COD_SIG" : "2105206013001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Lisboa Nº 195", 
+        "INF_MORADA" : "Rua Aquilino Ribeiro", 
+        "INF_TELEFONE" : "+351 926 734 195; +351 218 592 625", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "servicos.administrativos@aeddinis.pt; sa@aeddinis.pt; info@esecddinis.pt", 
+        "INF_SITE" : "http://www.esecddinis.pt/", 
+        "INF_DESCRICAO" : "Agrupamento: D. Dinis\nPatrimónio Municipal. Construído de base para o Ensino.", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "a4865a0b-696a-42ec-9b3b-b9a51e856656"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 28, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.17343321661786, 38.7554940553726
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 28, 
+        "COD_SIG" : "3904812016001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Laranjeiras", 
+        "INF_MORADA" : "Rua Virgílio Correia, 30", 
+        "INF_TELEFONE" : "+351 217 271 260", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "direcao@ael.edu.pt; secretaria.funcionarios@ael.edu.pt", 
+        "INF_SITE" : "https://ael.edu.pt/escola-eb1-ji-laranjeiras/; https://ael.edu.pt/", 
+        "INF_DESCRICAO" : "Agrupamento: Laranjeiras\nAno de Construção - 1974. Património Municipal. Construído de base para o Ensino. \n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "7ee1868c-ccd2-4e5d-b5fd-f35df61b6c7b"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 29, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.17989824349564, 38.7065527741667
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 29, 
+        "COD_SIG" : "0202631086001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Raúl Lino", 
+        "INF_MORADA" : "Calçada da Tapada", 
+        "INF_TELEFONE" : "+351 213 634 321; +351 213 616 480", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "eb1raullino@gmail.com; geral@aefarruda.pt", 
+        "INF_SITE" : "https://aefarruda.pt/portal/; https://sites.google.com/site/escolabasica1raullino/escola/contactos", 
+        "INF_DESCRICAO" : "Agrupamento: Francisco Arruda. GUAS: Sudoeste.\nEscola constituída por dois edifícios, o primeiro construído em 1918 e o segundo na década de 50. Património Municipal. Construídos de origem para o Ensino.\n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "52f93fbb-e8ca-44a9-a386-9d2e0058646a"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 30, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.12143046167576, 38.7640032911203
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 30, 
+        "COD_SIG" : "3309902014001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Arco Íris", 
+        "INF_MORADA" : "Rua Cidade de Nampula", 
+        "INF_TELEFONE" : "+351 218 522 922; +351 218 514 924", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "secretariapessoa@gmail.com", 
+        "INF_SITE" : "https://aefernandopessoa.edu.pt/index.php/agrupamento/escolas-do-agrupamento/eb1-c-ji-arco-iris", 
+        "INF_DESCRICAO" : "Agrupamento: Fernando Pessoa\nAno de construção - 1970. Património Municipal. Construído de base para o Ensino. ", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "dc61480c-d4c8-4388-b8d9-b4b365cf2345"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 31, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13021357317791, 38.7353781089957
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 31, 
+        "COD_SIG" : "4100501067001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Actor Vale", 
+        "INF_MORADA" : "Rua Actor Vale", 
+        "INF_TELEFONE" : "+351 933 140 187; +351 218 154 682", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "eb23.olaias@gmail.com", 
+        "INF_SITE" : "https://www.agrupamentoolaias.edu.pt/portal/", 
+        "INF_DESCRICAO" : "Agrupamento: Olaias.\n\nO Jardim de Infância funciona em instalações cedidas pela EB1 Actor Vale. \n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "d9a6ed45-da4f-4e08-b15c-151029f2fa72"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 32, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13621961843768, 38.7471167060654
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 32, 
+        "COD_SIG" : "0401807026001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Teixeira de Pascoais", 
+        "INF_MORADA" : "Rua Teixeira de Pascoais, 14", 
+        "INF_TELEFONE" : "+351 218 495 221", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "ebtp@aealvalade.edu.pt; espav@mail.telepac.pt (Sede Agrupamento)", 
+        "INF_SITE" : "http://aealvalade.edu.pt/ (Agrupamento); http://aealvalade.edu.pt/index.php/agrupamento/escolas/ebtp/ebtp-contactos", 
+        "INF_DESCRICAO" : "Agrupamento: Alvalade\nAno de construção - 1960. Património Municipal. Construído de base para o Ensino. \n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "89053916-7d97-4bfb-a63b-0ae11aadf946"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 33, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.11164012404276, 38.744883308594
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 33, 
+        "COD_SIG" : "2103202001001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Condado", 
+        "INF_MORADA" : "Rua Engenheiro Cunha Leal, Bairro do Condado", 
+        "INF_TELEFONE" : "+351 218 595 383", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "eb154ji3@gmail.com; escola.laverney@gmail.com", 
+        "INF_SITE" : "http://aelaverney.pt/", 
+        "INF_DESCRICAO" : "Agrupamento: Luis António Verney \nAno de construção - 1980.  Património Municipal. Construído de base para o Ensino. \n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "36246741-86ed-47af-a078-2988debb39f2"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 34, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.09352161859841, 38.7781216748756
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 34, 
+        "COD_SIG" : "3307901010001001", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Vasco da Gama", 
+        "INF_MORADA" : "Rua da Ilha dos Amores", 
+        "INF_TELEFONE" : "+351 218 930 300", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "coord.ebvg@queiroz.pt; agrupamento@queiroz.pt", 
+        "INF_SITE" : "http://www.queiroz.pt/ ", 
+        "INF_DESCRICAO" : "Agrupamento: Eça de Queirós", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "563d4b12-aeb4-46ef-b1dc-66dea6e58acb"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 35, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.18656428009634, 38.7593562810499
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 35, 
+        "COD_SIG" : "1101301015001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Luz/Carnide", 
+        "INF_MORADA" : "Rua Maria Brown, 1", 
+        "INF_TELEFONE" : "+351 210 101 336; +351 933 096 142", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "eblc@aevf.pt", 
+        "INF_SITE" : "https://www.aevf.pt/", 
+        "INF_DESCRICAO" : "Agrupamento: Vergílio Ferreira.\n\nAno de construção - 1981.  Património Municipal. Construído de base para o Ensino. \n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "5c066931-684f-4111-801e-f9493684f470"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 36, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.10882232998204, 38.7591844680791
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 36, 
+        "COD_SIG" : "3308802043001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Sarah Afonso", 
+        "INF_MORADA" : "Rua Almada Negreiros", 
+        "INF_TELEFONE" : "+351 218 535 905; +351 218 536 433 (Sede Agrupamento)", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "eb1183olivais@gmail.com", 
+        "INF_SITE" : "https://aeolivais.edu.pt/; https://aeolivais.edu.pt/docs/Agrupamento.pdf; http://eb1sarahafonso.blogspot.com/           ", 
+        "INF_DESCRICAO" : "Agrupamento: Santa Maria dos Olivais. GUAS: Nordeste.\nAno de construção - 1970. Património Municipal. Construído de base para o Ensino. \n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "da8e19a4-e1c7-4587-bf8c-09a49bf102ee"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 37, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15555376904029, 38.7168836089304
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 37, 
+        "COD_SIG" : "3001101138001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Rainha Santa Isabel ", 
+        "INF_MORADA" : "Travessa de Santa Quitéria, 7", 
+        "INF_TELEFONE" : "+351 213 955 414; +351 925 259 753", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "mafalda-ribeiro@e-josefadeobidos.edu.pt; geral@e-josefadeobidos.edu.pt; direcao@e-josefadeobidos.edu", 
+        "INF_SITE" : "https://e-josefadeobidos.edu.pt/Portal/index.php/escolas/eb-1-ji-rainha-santa-isabel; https://e-josefadeobidos.edu.pt/Portal/", 
+        "INF_DESCRICAO" : "Agrupamento: Padre Bartolomeu Gusmão\nAno de construção - 1961. Património Municipal. Construído de base para o Ensino.  \n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "01774440-307a-4153-ba3e-63fcba30a282"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 38, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.11645983617202, 38.7218910651409
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 38, 
+        "COD_SIG" : "4103305005001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Professor Oliveira Marques", 
+        "INF_MORADA" : "Calçada das Lajes", 
+        "INF_TELEFONE" : "+351 218 122 111; +351 218 140 564; +351 218 140 209", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "direcao.aepp@gmail.com; secretaria@aepp.pt; diretor@aepp.pt", 
+        "INF_SITE" : "https://aepp.pt/", 
+        "INF_DESCRICAO" : "Agrupamento: Patrício Prazeres\nAno de construção - 1955. Património Municipal. Construído de base para o Ensino. \n\n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "6192b243-0152-418a-99d5-3c3cc2bb990a"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 39, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.2138886118762, 38.7143955959157
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 39, 
+        "COD_SIG" : "4001110014001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Caselas", 
+        "INF_MORADA" : "Rua Padre Luís Fróis", 
+        "INF_TELEFONE" : "+351 213 011 101; +351 213 016 528 (Sede Agrupamento)", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "geral@aerestelo.pt; jieb1caselas@gmail.com", 
+        "INF_SITE" : "https://aerestelo.pt/", 
+        "INF_DESCRICAO" : "Agrupamento: Restelo.", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "98a4c257-1bf9-45f4-8e1e-49151e1f1145"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 40, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15901635854058, 38.7808176959233
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 40, 
+        "COD_SIG" : "0501105023001001", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Jardim de Infância da Ameixoeira", 
+        "INF_MORADA" : "Azinhaga de Santa Susana", 
+        "INF_TELEFONE" : "+351 217 593 531", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "eb1euricogoncalves@gmail.com; celindley@gmail.com; aelindleycintra@gmail.com (Sede Agrupamento)", 
+        "INF_SITE" : "http://www.aelindleycintra.edu.pt/; http://www.aelindleycintra.edu.pt/index.php/escs/jia", 
+        "INF_DESCRICAO" : "Agrupamento: Professor Lindley Cintra.", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "a5d02810-e65b-46e8-a09f-f3fbeef5158e"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 41, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.10627210182362, 38.7696874382648
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 41, 
+        "COD_SIG" : "3307203002001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Lisboa Nº 36", 
+        "INF_MORADA" : "Calçadinha dos Olivais", 
+        "INF_TELEFONE" : "+351 211 324 120; +351 218 517 080", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "eb1.n36.lisboa@gmail.com; eb23-piscinassa@mail.telepac.pt (Sede Agrupamento)", 
+        "INF_SITE" : "https://agpiscinasolivais.com/; http://olivaisvelho-36.blogspot.com/", 
+        "INF_DESCRICAO" : "Agrupamento: Piscinas - Olivais\nAno de construção - 1984.  Património Municipal. Construído de base para o Ensino.\n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "642fd932-b982-4eb7-89fb-4ed8fe1913fc"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 42, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.20530627024678, 38.7473138267458
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 42, 
+        "COD_SIG" : "0808506027001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Parque Silva Porto", 
+        "INF_MORADA" : "Rua Doutor José Alberto de Faria", 
+        "INF_TELEFONE" : "+351 217 601 467; +351 217 112 330/9", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "eb1.parquesilvaporto@gmail.com; isabel.n.teixeira@gmail.com; aeqmarrocos@gmail.com (Sede Agrupamento", 
+        "INF_SITE" : "https://agrupamentoeqta.wixsite.com/qtmarrocos; https://agrupamentoeqta.wixsite.com/qtmarrocos/eb1-p-silva-porto-n124--ji-n2", 
+        "INF_DESCRICAO" : "Agrupamento: Quinta de Marrocos. GUAS: Noroeste.\nAno de construção - 1960. Património Municipal. Construído de base para o Ensino. ", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "d7507ef2-243a-49db-a30c-f99f40ae6b1b"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 43, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.16222933856278, 38.7325618547239
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 43, 
+        "COD_SIG" : "1003204001001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Mestre Querubim Lapa", 
+        "INF_MORADA" : "Rua de Campolide c/ Travessa de Estêvão Pinto", 
+        "INF_TELEFONE" : "+351 213 889 904", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "ebquerubimlapa@gmail.com; agrupamentomarquesaalorna@gmail.com; secretaria.agrupalorna@gmail.com", 
+        "INF_SITE" : "https://agmarquesadealorna.wixsite.com/marquesadealorna", 
+        "INF_DESCRICAO" : "Agrupamento: Marquesa de Alorna\nPatrimónio Municipal. Construído de base para o Ensino. \n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "273c1ba8-9c7c-465a-8370-500148cc9cd1"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 44, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.12380871905111, 38.7521817332292
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 44, 
+        "COD_SIG" : "2105702001001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Luíza Neto Jorge", 
+        "INF_MORADA" : "Rua Luíza Neto Jorge", 
+        "INF_TELEFONE" : "+351 926 734 195; +351 218 376 677", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "servicos.administrativos@aeddinis.pt; sa@aeddinis.pt; info@esecddinis.pt", 
+        "INF_SITE" : "http://www.esecddinis.pt/", 
+        "INF_DESCRICAO" : "Agrupamento: D. Dinis\nAno de construção - 1967. Património Municipal. Construído de base para o Ensino. \n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "9d571408-1e1d-4887-8ef5-abf588021ac4"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 45, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15002601648218, 38.7748093924504
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 45, 
+        "COD_SIG" : "1805004027001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Padre José Manuel Rocha e Melo", 
+        "INF_MORADA" : "Rua José Cardoso Pires", 
+        "INF_TELEFONE" : "+351 217 585 351; +351 217 571 510 (Agrupamento)", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "eb1n34@gmail.com", 
+        "INF_SITE" : "http://aelumiar.com; https://www.aelumiar.com/site/eb1-padre-jose-manuel-rocha-e-melo/", 
+        "INF_DESCRICAO" : "Agrupamento: Alto do Lumiar\nPatrimónio Municipal. Construído de base para o Ensino. \n ", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "48e239d3-3541-4959-a34a-d5b4f746283b"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 46, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.14460725202589, 38.777332507479
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 46, 
+        "COD_SIG" : "1301602001001003", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Pintor Almada Negreiros", 
+        "INF_MORADA" : "Rua Vasco da Gama Fernandes", 
+        "INF_TELEFONE" : "+351 217 567 190", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "sec.eb23almadanegreiros@gmail.com", 
+        "INF_SITE" : "https://eb23pan.webnode.pt/", 
+        "INF_DESCRICAO" : "Agrupamento: PintorAlmada Negreiros (Sede)", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "159debb5-8e5e-4646-b190-451c2dd56360"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 47, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.17798492806019, 38.746009551519
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 47, 
+        "COD_SIG" : "3902502097001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica António Nobre", 
+        "INF_MORADA" : "Rua António Nobre, 49\n", 
+        "INF_TELEFONE" : "+351 217 781 679", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "direcao@ael.edu.pt; secretaria.funcionarios@ael.edu.pt", 
+        "INF_SITE" : "https://ael.edu.pt/eb1-ji-antonio-nobre/; https://ael.edu.pt/", 
+        "INF_DESCRICAO" : "Agrupamento: Laranjeiras\nAno de construção - 1956. Património Municipal. Construído de base para o Ensino. \n ", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "04388093-4fea-47d1-a66a-62d3dd699c1e"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 48, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.18973021624541, 38.7687092719154
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 48, 
+        "COD_SIG" : "1102301001001001", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Jardim de Infância Bairro Padre Cruz", 
+        "INF_MORADA" : "Rua Rio Tejo", 
+        "INF_TELEFONE" : "+351 217 153 601; +351 217 121 760 (Agrupamento)", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "eb23bpc@gmail.com (Agrupamento)", 
+        "INF_SITE" : " http://aebpc.pt (Agrupamento)", 
+        "INF_DESCRICAO" : "Agrupamento: Bairro do Padre Cruz.", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "0ace9bb8-7743-4c69-9429-6e57cb961922"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 49, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13809316276057, 38.720364137345
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 49, 
+        "COD_SIG" : "2400408007001009", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Lisboa Nº 1", 
+        "INF_MORADA" : "Largo da Escola Municipal", 
+        "INF_TELEFONE" : "+351 910 265 896; +351 218 147 488", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "eb1.n1@aenunogoncalves.com; sa.alunos.aeng@aenunogoncalves.com", 
+        "INF_SITE" : "http://aenunogoncalves.com/", 
+        "INF_DESCRICAO" : "Agrupamento: Nuno Gonçalves\nAno de construção - 1875. Património Municipal. Construído de base para o Ensino. ", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "434a98b1-7224-4df5-aac2-3fa975a605d1"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 50, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.17193672486414, 38.740926348271
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 50, 
+        "COD_SIG" : "3907102009001001", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Frei Luís de Sousa", 
+        "INF_MORADA" : "Rua Raul Carapinha", 
+        "INF_TELEFONE" : "+351 217 269 610", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "direcao@ael.edu.pt; secretaria.funcionarios@ael.edu.pt", 
+        "INF_SITE" : "https://ael.edu.pt/eb1-ji-frei-luis-de-sousa/; https://ael.edu.pt/", 
+        "INF_DESCRICAO" : "Agrupamento: Laranjeiras\nAno de construção - 1961. Património Municipal. Construído de base para o Ensino.\n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "d22dc205-26f1-48c9-8cd0-0e4898e399e1"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 51, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.14029726195517, 38.7382879291845
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 51, 
+        "COD_SIG" : "4302509008001", 
+        "IDTIPO" : "2", 
+        "INF_NOME" : "Jardim de Infância  António José de Almeida", 
+        "INF_MORADA" : "Av. Antº José de Almeida, 24", 
+        "INF_TELEFONE" : "+351 218 490 140; 351 218 407 045", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "direcao@aedfl.edu.pt", 
+        "INF_SITE" : "http://www.aedfl.pt/jardim-infancia/", 
+        "INF_DESCRICAO" : "Agrupamento: D. Filipa de Lencastre ", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "52487bf9-8c32-4d3f-8daa-f3b0102a4bec"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 52, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.20429152162374, 38.6992410924603
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 52, 
+        "COD_SIG" : "3202707009001", 
+        "IDTIPO" : "2", 
+        "INF_NOME" : "Jardim de Infância de Belém", 
+        "INF_MORADA" : "Largo das Escolas", 
+        "INF_TELEFONE" : "+351 961 761 473; +351 213 016 528 (Sede Agrupamento)", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "geral@aerestelo.pt", 
+        "INF_SITE" : "https://aerestelo.pt/", 
+        "INF_DESCRICAO" : "Agrupamento: Restelo.\n\nAno de Construção: Antigo edifício datado de 1941 (antiga escola 107), reaberta como Jardim de Infância em 2015\n \n\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "fb7d50c0-6336-4a73-83e3-3fda3d090504"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 53, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13937934273659, 38.7094681347346
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 53, 
+        "COD_SIG" : "2000106022001", 
+        "IDTIPO" : "2", 
+        "INF_NOME" : "Escola Básica Maria Barroso", 
+        "INF_MORADA" : "Largo da Boa-Hora, 12-17", 
+        "INF_TELEFONE" : "+351 927 591 533; +351 964 788 513", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "info@aepassosmanuel.pt", 
+        "INF_SITE" : "http://aepassosmanuel.pt/escolas/eb1-maria-barroso/", 
+        "INF_DESCRICAO" : "Agrupamento: Passos Manuel", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "e164dd13-4a7d-4370-8b0d-d955781dcb01"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 54, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.12533038339573, 38.7151253353991
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 54, 
+        "COD_SIG" : "5100905006001", 
+        "IDTIPO" : "2", 
+        "INF_NOME" : "Escola Básica Santa Clara", 
+        "INF_MORADA" : "Campo de Santa Clara, 200-200E", 
+        "INF_TELEFONE" : "+351 939 016 311; +351 939 016 400/02; +351 218 860 041", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "geral@aegv.pt", 
+        "INF_SITE" : "https://www.aegv.site/santa-clara; https://www.aegv.site/", 
+        "INF_DESCRICAO" : "Agrupamento: Gil Vicente.\nAno de Construção: Adaptação do edifício de um antigo convento (1780 a 1783) à função de ensino, em 2015\n \n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "720afa94-0877-4619-8fdd-bd7aae3dd145"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 55, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.1618556528793, 38.7685134185112
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 55, 
+        "COD_SIG" : "1802401078001", 
+        "IDTIPO" : "2", 
+        "INF_NOME" : "Jardim de Infância do Lumiar", 
+        "INF_MORADA" : "Rua Mário Sampaio Ribeiro", 
+        "INF_TELEFONE" : "+351 217 594 132", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "celindley@gmail.com; aelindleycintra@gmail.com (Sede Agrupamento)", 
+        "INF_SITE" : "http://www.aelindleycintra.edu.pt/; http://www.aelindleycintra.edu.pt/index.php/escs/jil", 
+        "INF_DESCRICAO" : "Agrupamento: Professor Lindley Cintra. ", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "4e3899e6-2b53-480e-b5b3-58c720c5b3c4"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 56, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.09742104983823, 38.7546626012778
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 56, 
+        "COD_SIG" : "3308619010001", 
+        "IDTIPO" : "2", 
+        "INF_NOME" : "Escola Básica Parque das Nações", 
+        "INF_MORADA" : "Rua das Gaivotas em Terra, Lote 3.12.01", 
+        "INF_TELEFONE" : "+351 218 988 020", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "coord.ebpn@queiroz.pt; agrupamento@queiroz.pt", 
+        "INF_SITE" : "http://www.queiroz.pt/", 
+        "INF_DESCRICAO" : "Agrupamento: Eça de Queirós ", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "f0342ce4-1a0e-4f62-a602-5baa477171be"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 57, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.12065685231601, 38.7446038314032
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 57, 
+        "COD_SIG" : "2106602010001", 
+        "IDTIPO" : "2", 
+        "INF_NOME" : "Escola Básica Bairro do Armador", 
+        "INF_MORADA" : "Rua Gilberto Freyre", 
+        "INF_TELEFONE" : "+351 967 862 317; +351 932 216 103", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "eb23.olaias@gmail.com", 
+        "INF_SITE" : "https://www.agrupamentoolaias.edu.pt/portal/", 
+        "INF_DESCRICAO" : "Agrupamento: Olaias ", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "05f1b0c9-482c-4b09-9a05-7320df44fb6a"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 58, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15194317401209, 38.7907351980511
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 58, 
+        "COD_SIG" : "0501610030001", 
+        "IDTIPO" : "2", 
+        "INF_NOME" : "Escola Básica das Galinheiras", 
+        "INF_MORADA" : "Rua Maluda ", 
+        "INF_TELEFONE" : "+351 217 595 418; +351 217 571 510 (Agrupamento)", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "eb1galinheiras@gmail.com", 
+        "INF_SITE" : "http://aelumiar.com; https://www.aelumiar.com/site/eb1-galinheiras/", 
+        "INF_DESCRICAO" : "Agrupamento: Alto do Lumiar", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "1d469c5e-bacd-4a93-b554-548a1dbab8f7"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 59, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.19261340855713, 38.7676799476351
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 59, 
+        "COD_SIG" : "1102208003001", 
+        "IDTIPO" : "2", 
+        "INF_NOME" : "Escola Básica Professora Aida Vieira", 
+        "INF_MORADA" : "Rua Professor Sedas Nunes", 
+        "INF_TELEFONE" : "+351 217 169 300; +351 217 121 760 (Agrupamento)", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "eb23bpc@gmail.com", 
+        "INF_SITE" : "http://aebpc.pt Agrupamento)", 
+        "INF_DESCRICAO" : "Agrupamento: Bairro do Padre Cruz", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "23d07c8b-046b-40c9-8f34-4f64b942cdf4"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 60, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.10691011498283, 38.7320472645324
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 60, 
+        "COD_SIG" : "0702801080002", 
+        "IDTIPO" : "2", 
+        "INF_NOME" : "Escola Básica do Beato", 
+        "INF_MORADA" : "Rua do Grilo, 74", 
+        "INF_TELEFONE" : "+351 218 611 000", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "eb1beato@gmail.com; escola.laverney@gmail.com", 
+        "INF_SITE" : "http://aelaverney.pt/", 
+        "INF_DESCRICAO" : "Agrupamento: António Luís Verney", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "a9570f07-91fc-4e38-a646-9b73e0e94734"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 61, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.18209732829431, 38.7659723961381
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 61, 
+        "COD_SIG" : "1103301005001", 
+        "IDTIPO" : "2", 
+        "INF_NOME" : "Escola Básica Prista Monteiro", 
+        "INF_MORADA" : "Estrada do Paço do Lumiar; Rua Prista Monteiro; Rua da Horta Nova", 
+        "INF_TELEFONE" : "+351 217 166 929; +351 933 096 139 ", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "ebpm@aevf.pt", 
+        "INF_SITE" : "https://www.aevf.pt/", 
+        "INF_DESCRICAO" : "Agrupamento: Vergílio Ferreira.\n\nPatrimónio Municipal. Parte Edifício adaptada para o Ensino.\n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "78b5d7d7-7e55-4cdd-8ce6-ff7e75c953b8"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 62, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.14488722366231, 38.7467023645462
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 62, 
+        "COD_SIG" : "0401501008001", 
+        "IDTIPO" : "2", 
+        "INF_NOME" : "Escola Básica Bairro de São Miguel", 
+        "INF_MORADA" : "Rua Jorge Ferreira de Vasconcelos; Rua António Ferreira", 
+        "INF_TELEFONE" : "+351 217 975 040; +351 218 428 880 (Sede Agrupamento)", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "eb1saomiguel@live.com.pt; ebsaomiguel@aerdl.eu; informacoes@aerdl.eu (Sede Agrupamento)", 
+        "INF_SITE" : "https://nsite.aerdl.eu/; https://nsite.aerdl.eu/index.php/agrupamento/eb-sao-miguel", 
+        "INF_DESCRICAO" : "Agrupamento: Rainha Dona Leonor.\n\nAno de construção - 1955. Património Municipal. Construído de base para o Ensino.\n\nPrimeira escola em Portugal a ser desenvolvida segundo o racionalismo do Movimento Moderno, em continuidade com o Bairro de Alvalade. Este equipamento educativo, projetado e construído nos anos 50 do século XX, pelo arqº Ruy Jervis de Athouguia, no âmbito da segunda fase do Plano dos Centenários em Lisboa (programa implementado pelo Estado Novo a partir de 1941, em sucessivas fazes, com o objetivo de criar uma rede escolar alargada a todo o país), traduz uma arquitetura funcional e produzida à escala humana, cada vez mais adequada ao universo infantil. De desenho minimalista, racional e depurado, implantada de forma a tirar o máximo partido da topografia do terreno e da exposição solar, a escola desenvolve-se numa estrutura modular articulada entre si de forma harmoniosa. Dois blocos letivos, de dois pisos cada, interligam-se interiormente a um terceiro bloco, de um só piso, que funciona como cantina, através de dois pátios unidos por percurso coberto, que favorecem a existência de amplos recreios. A nível interno, cada sala de aula é servida por um pequeno espaço privativo ao ar livre, que funciona como alpendre e varanda, servido de placas pivotantes apropriadas para assegurar uma boa iluminação e as melhores condições térmicas. Originalmente, este estabelecimento de ensino foi concebido com separação de sexos, revogada pelo Decreto-Lei nº 482/71, de 28 de novembro, tendo sido adotada a coeducação a partir do ano letivo de 1973/1974. Esta Escola Primária do Bairro de São Miguel, atual Escola Básica do 1º Ciclo nº 24 encontra-se Em Vias de Classificação.\n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "96e9dacb-cfc9-45d3-a830-ee9d585fd8cd"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 63, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.12499503601197, 38.7266175899207
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 63, 
+        "COD_SIG" : "2502402006001", 
+        "IDTIPO" : "2", 
+        "INF_NOME" : "Escola Básica Arquitecto Victor Palla", 
+        "INF_MORADA" : "Rua Francisco Pedro Curado", 
+        "INF_TELEFONE" : "+351 910 289 947; +351 218 147 488", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "eb1.victorpalla@aenunogoncalves.com; sa.alunos.aeng@aenunogoncalves.com", 
+        "INF_SITE" : "http://aenunogoncalves.com/", 
+        "INF_DESCRICAO" : "Agrupamento: Nuno Gonçalves\nAno de construção - 1955.  Património Municipal. Construído de base para o Ensino.\n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "fcd016c6-03d0-49d2-aa98-6a4860497def"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 64, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.10568390204358, 38.7476159228918
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 64, 
+        "COD_SIG" : "2107307004001", 
+        "IDTIPO" : "2", 
+        "INF_NOME" : "Escola Básica Professor Agostinho da Silva", 
+        "INF_MORADA" : "Rua Lino Ferreira", 
+        "INF_TELEFONE" : "+351 926 734 195; +351 218 593 084", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "servicos.administrativos@aeddinis.pt; sa@aeddinis.pt; info@esecddinis.pt", 
+        "INF_SITE" : "http://www.esecddinis.pt/", 
+        "INF_DESCRICAO" : "Agrupamento: D. Dinis\nPatrimónio Municipal. Construído de base para o Ensino.\n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "97485d70-0214-4be4-a8ea-d446b28e6b7e"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 65, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.10241360231975, 38.7715548810718
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 65, 
+        "COD_SIG" : "3307602011001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Infante D. Henrique", 
+        "INF_MORADA" : "Rua Padre Joaquim Alves Correia Escola Básica nº 55 - Jardim de Infância", 
+        "INF_TELEFONE" : "+351 218 549 583; +351 218 535 477", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "secretariapessoa@gmail.com", 
+        "INF_SITE" : "https://aefernandopessoa.edu.pt/index.php/agrupamento/escolas-do-agrupamento/eb1-c-ji-infante-d-henrique", 
+        "INF_DESCRICAO" : "Agrupamento: Fernando Pessoa\nAno de Construção - 1975. Património Municipal. Construído de base para o Ensino. \n ", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "106da60f-6527-43f4-9899-a9f1689818eb"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 66, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.12032365729566, 38.7203923446698
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 66, 
+        "COD_SIG" : "2901703128001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Rosa Lobato Faria", 
+        "INF_MORADA" : "Rua do Barão de Monte Pedral", 
+        "INF_TELEFONE" : "+351 218 142 004; +351 218 140 564; +351 218 140 209", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "direcao.aepp@gmail.com; secretaria@aepp.pt; diretor@aepp.pt", 
+        "INF_SITE" : "https://aepp.pt/", 
+        "INF_DESCRICAO" : "Agrupamento: Patrício Prazeres\nPatrimónio Municipal. Construído de base para o Ensino.", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "99750ece-7c58-4a59-a92c-63f2e03c27da"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 67, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.18204423247113, 38.7655921082715
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 67, 
+        "COD_SIG" : "1103302052001001", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Jardim de Infância Horta Nova", 
+        "INF_MORADA" : "Rua da Horta Nova", 
+        "INF_TELEFONE" : "+351 217 169 951; +351 933 096 158 ", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "jihn@aevf.pt", 
+        "INF_SITE" : "https://www.aevf.pt/", 
+        "INF_DESCRICAO" : "Agrupamento: Vergílio Ferreira.", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "36b329b6-ee93-4dc9-b91e-a2e61cce955e"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 68, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.21810771040651, 38.7014277605094
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 68, 
+        "COD_SIG" : "3202102051001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Bairro do Restelo", 
+        "INF_MORADA" : "Praça de Goa", 
+        "INF_TELEFONE" : "+351 213 019 564; +351 213 016 528 (Sede Agrupamento)", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "geral@aerestelo.pt; escolabairrorestelo@gmail.com", 
+        "INF_SITE" : "https://aerestelo.pt/", 
+        "INF_DESCRICAO" : "Agrupamento: Restelo.\n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "1d45a3d1-1c79-43f9-b7a5-ad5bc8942c41"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 69, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.12180339636764, 38.767164032489
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 69, 
+        "COD_SIG" : "3308102045001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Adriano Correia de Oliveira", 
+        "INF_MORADA" : "Rua Cidade de Vila Cabral", 
+        "INF_TELEFONE" : "+351 218 520 696; +351 218 513 613", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "secretariapessoa@gmail.com", 
+        "INF_SITE" : "https://aefernandopessoa.edu.pt/index.php/agrupamento/escolas-do-agrupamento/eb1-c-ji-adriano-correia-de-oliveira", 
+        "INF_DESCRICAO" : "Agrupamento: Fernando Pessoa. GUAS: Nordeste.\nAno de construção - 1966. Património Municipal. \n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "9ec9c513-c111-4313-967a-3f9360bed938"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 70, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.17362162567226, 38.7594926993084
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 70, 
+        "COD_SIG" : "1808305055001", 
+        "IDTIPO" : "2", 
+        "INF_NOME" : "Escola Básica São Vicente/Telheiras", 
+        "INF_MORADA" : "Rua Fernando Namora", 
+        "INF_TELEFONE" : "+351 211 552 270; +351 933 096 391", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "ebsv@aevf.pt", 
+        "INF_SITE" : "https://www.aevf.pt/", 
+        "INF_DESCRICAO" : "Agrupamento: Vergílio Ferreira.", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "92d2a463-a1c1-48fc-9364-edf94457b424"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 71, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.17362162567226, 38.7594926993084
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 71, 
+        "COD_SIG" : "1808305055001", 
+        "IDTIPO" : "2", 
+        "INF_NOME" : "Escola Básica de São Vicente- JI", 
+        "INF_MORADA" : "Rua Fernando Namora, Escola;", 
+        "INF_TELEFONE" : "217 121 260", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://aevf.pt/", 
+        "INF_DESCRICAO" : null, 
+        "INF_FONTE" : "departamento educação", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "bfeb7fe1-52c8-4980-ad6d-7fd9acb5d8f3"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 72, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13210438940873, 38.726112359767
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 72, 
+        "COD_SIG" : "0601901097001", 
+        "IDTIPO" : "2", 
+        "INF_NOME" : "Escola Básica Sampaio Garrido", 
+        "INF_MORADA" : "Praça das Novas Nações", 
+        "INF_TELEFONE" : "+351 910 268 756; +351 218 147 488", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "eb1.sampaiogarrido@aenunogoncalves.com; sa.alunos.aeng@aenunogoncalves.com", 
+        "INF_SITE" : "http://aenunogoncalves.com/", 
+        "INF_DESCRICAO" : "Agrupamento: Nuno Gonçalves\nPatrimónio Municipal. Construído de base para o Ensino.\n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "f93ca2fc-430f-490e-9b14-f3eb3583f60b"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 73, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.12475814308502, 38.7586100300968
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 73, 
+        "COD_SIG" : "2105402028001", 
+        "IDTIPO" : "2", 
+        "INF_NOME" : "Escola Básica Lóios", 
+        "INF_MORADA" : "Rua Cassiano Branco", 
+        "INF_TELEFONE" : "+351 926 734 195; +351 218 370 588", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "servicos.administrativos@aeddinis.pt; sa@aeddinis.pt; info@esecddinis.pt", 
+        "INF_SITE" : "http://www.esecddinis.pt/", 
+        "INF_DESCRICAO" : "Agrupamento: D. Dinis\nAno de construção - 1983.  Património Municipal. Construído de base para o Ensino.", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "5b91c48e-3fde-46c5-9e05-84d595712325"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 74, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.19467287360109, 38.7488093496271
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 74, 
+        "COD_SIG" : "0806601020001", 
+        "IDTIPO" : "2", 
+        "INF_NOME" : "Escola Básica Pedro de Santarém", 
+        "INF_MORADA" : "Estrada de Benfica, 535", 
+        "INF_TELEFONE" : "+351 217 142 154; +351 217 162 450", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "jipedro.santarem@aebenfica.pt; coordenacao.epsantarem@aebenfica.pt", 
+        "INF_SITE" : "https://sites.google.com/a/aebenfica.pt/aeb-jips/", 
+        "INF_DESCRICAO" : "Agrupamento: Benfica\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "2fbf863b-52ea-4f1e-b771-d5d92b0b55f5"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 75, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.17114905417525, 38.7092339440303
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 75, 
+        "COD_SIG" : "2601801077001", 
+        "IDTIPO" : "2", 
+        "INF_NOME" : "Escola Básica Fernanda de Castro", 
+        "INF_MORADA" : "Tapada das Necessidades", 
+        "INF_TELEFONE" : "+351 213 979 247", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "eb1fernanda.de.castro@gmail.com; geral@agescolasmanuelmaia.net ", 
+        "INF_SITE" : "https://agescolasmanuelmaia.net/", 
+        "INF_DESCRICAO" : "Agrupamento: Manuel da Maia\nAno de Construção: 1943. Propriedade Particular\n", 
+        "INF_FONTE" : "Ministério da Educação/DEJ", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "ebe6924f-34a1-468f-8e74-4a004ec69c79"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 76, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15605384678589, 38.7453311836237
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 76, 
+        "COD_SIG" : "2304101001001", 
+        "IDTIPO" : "2", 
+        "INF_NOME" : "Escola Básica Mestre Arnaldo Louro de Almeida", 
+        "INF_MORADA" : "Rua Diogo de Macedo", 
+        "INF_TELEFONE" : "+351 217 960 352", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "eb1mestrearnaldolourodealmeida@gmail.com; agrupamentomarquesaalorna@gmail.com; secretaria.agrupalorn", 
+        "INF_SITE" : "https://agmarquesadealorna.wixsite.com/marquesadealorna", 
+        "INF_DESCRICAO" : "Agrupamento: Marquesa de Alorna", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "b0b55924-5baa-45dc-912b-8598cbdb90ab"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 77, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13752911867848, 38.7560454046882
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 77, 
+        "COD_SIG" : "4201103017001", 
+        "IDTIPO" : "2", 
+        "INF_NOME" : "Escola Básica São João de Brito", 
+        "INF_MORADA" : "Rua Lopes de Mendonça, 4", 
+        "INF_TELEFONE" : "+351 218 409 972", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "eb1sjbrito@agrupalvalade.edu.pt", 
+        "INF_SITE" : null, 
+        "INF_DESCRICAO" : "Agrupamento: Alvalade\nPatrimónio Municipal. Construído de base para o Ensino.\n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "85c14e86-6d93-4cad-a3e2-3b0d23641ba7"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 78, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.14522425628555, 38.7104755168348
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 78, 
+        "COD_SIG" : "1501103001001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Gaivotas", 
+        "INF_MORADA" : "Rua das Chagas, 28", 
+        "INF_TELEFONE" : "+351 213 429 303; +351 927 591 563", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "info@aepassosmanuel.pt", 
+        "INF_SITE" : "http://aepassosmanuel.pt/escolas/eb1-ji-gaivotas/; http://escolajigaivotas.blogspot.com/", 
+        "INF_DESCRICAO" : "Agrupamento: Passos Manuel\nPropriedade: Ministério da Educação e Ciência\n\n ", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "2bdd5c84-9009-4fb1-b3e7-937fc63ee5fe"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 79, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.11480698365996, 38.7333710309402
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 79, 
+        "COD_SIG" : "0702105022001001", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Bairro Madre de Deus", 
+        "INF_MORADA" : "Rua José da Bateira", 
+        "INF_TELEFONE" : "+351 218 683 318", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "eb1madrededeus@gmail.com; escola.laverney@gmail.com", 
+        "INF_SITE" : "http://aelaverney.pt/", 
+        "INF_DESCRICAO" : "Agrupamento: Luís António Verney\nAno de Construção: 1960. Construído de base para Ensino. Património Municipal\n\n", 
+        "INF_FONTE" : "Ministéio da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "59dfefb2-3ffa-41a4-98f9-5304b3967736"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 80, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.1328381728587, 38.7133442975928
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 80, 
+        "COD_SIG" : "1200104015001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Castelo", 
+        "INF_MORADA" : "Rua das Flores de Santa Cruz ao Castelo, 14", 
+        "INF_TELEFONE" : "+351 218 860 326", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "geral@aegv.pt", 
+        "INF_SITE" : "https://www.aegv.site/castelo; https://www.aegv.site/", 
+        "INF_DESCRICAO" : "Agrupamento: Gil Vicente.\nA escola funciona num edifício construído de raiz para o ensino e foi inaugurada no ano letivo 1972/73.\n ", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "9985d8d9-bf0a-4227-86ad-39491190386e"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 81, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.16775620628032, 38.7199373857814
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 81, 
+        "COD_SIG" : "3504301111001002", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica Santo Condestável", 
+        "INF_MORADA" : "Rua Pereira e Sousa, 60", 
+        "INF_TELEFONE" : "+351 213 859 730", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "eb1scondestavel@gmail.com; geral@agescolasmanuelmaia.net", 
+        "INF_SITE" : "http://agescolasmanuelmaia.net/; http://ebsantocondestavel.blogspot.com/", 
+        "INF_DESCRICAO" : "Agrupamento: Manuel da Maia\nAno de Construção - 1915. Património Municipal. Edifício adaptado para o Ensino.\n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "2c81e1d0-0815-45b6-b1a9-d87179423e5e"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1025 @@
+X,Y,gid,Estado de Conservação,Tipo de Abrigo,Abrigo com Publicidade?,Tem Bolsa?,Operadora,Carreira,Código de Rua,Nome da Rua,Freguesia,Observações,Data da Observação
+-9.28148703163653,38.7081267299578,298,Bom,Aberto dos Lados,Não,Não,LT,158,890,Rua Fernando Vaz,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.28166604469389,38.7084007905094,297,Bom,Aberto dos Lados,Não,Não,LT,158,890,Rua Fernando Vaz,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.23486221722999,38.7143479704522,18,Bom,Fechado dos Lados,Não,Não,Vimeca,11,443,Rua Doutor Agostinho de Campos,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.2692316250577,38.7382258345448,733,Bom,Sem Abrigo,Não,Não,LT,"101,102,171",993,Rua do Trabalho,Barcarena,n/a,2012/07
+-9.2692316250577,38.7382258345448,149,Bom,Sem Abrigo,Não,Não,Vimeca,12,993,Rua do Trabalho,Barcarena,n/a,2012/07
+-9.26924275826137,38.7382969777886,148,Bom,Sem Abrigo,Não,Não,LT,"101,171",993,Rua do Trabalho,Barcarena,n/a,2012/07
+-9.31920569878768,38.6809884418723,587,Razoável,Fechado dos Lados,Sim,Não,SCoTTURB,471,491,Rua de Aljubarrota,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.32415849912691,38.6919004289457,927,Bom,Sem Abrigo,Não,Não,SCoTTURB,"470,485,489",550,Alameda Conde de Oeiras,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.32354434079236,38.6908369109995,515,Bom,Sem Abrigo,Não,Não,SCoTTURB,"470,485,489",550,Alameda Conde de Oeiras,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31096360870795,38.6948372215041,920,Bom,Fechado dos Lados,Sim,Não,LT,111,551,Avenida Copacabana,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31045788148657,38.6937372371975,517,Bom,Fechado dos Lados,Sim,Não,LT,111,551,Avenida Copacabana,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.23168408791049,38.7149002413122,13,Bom,Fechado dos Lados,Sim,Não,Carris,"201,748,751",124,Avenida José Gomes Ferreira,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23137041799585,38.7149664232968,23,Bom,Sem Abrigo,Não,Não,Carris,"201,748,751",124,Avenida José Gomes Ferreira,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23137041799585,38.7149664232968,646,Bom,Sem Abrigo,Não,Não,Vimeca,10,124,Avenida José Gomes Ferreira,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23168408791049,38.7149002413122,642,Bom,Fechado dos Lados,Sim,Não,Vimeca,10,124,Avenida José Gomes Ferreira,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.31405771723418,38.6917139033131,918,Bom,Fechado dos Lados,Sim,Não,SCoTTURB,471,559,Rua Desembargador Faria,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31405771723418,38.6917139033131,917,Razoável,Fechado dos Lados,Sim,Não,COMBUS,n/a,559,Rua Desembargador Faria,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31405771723418,38.6917139033131,501,Bom,Fechado dos Lados,Sim,Não,LT,"106,111,112,115,122",559,Rua Desembargador Faria,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.27633355094108,38.7265108911612,787,Bom,Sem Abrigo,Não,Não,LT,117,201,Estrada do Cacém,Barcarena,n/a,2012/07
+-9.2807138307572,38.7333897255632,770,Bom,Fechado dos Lados,Sim,Não,LT,"117,171",201,Estrada do Cacém,Barcarena,n/a,2012/07
+-9.27526899398754,38.7225193182123,218,Bom,Sem Abrigo,Não,Não,LT,117,201,Estrada do Cacém,Barcarena,n/a,2012/07
+-9.2753456771001,38.7226485513706,217,Bom,Sem Abrigo,Não,Não,LT,117,201,Estrada do Cacém,Barcarena,n/a,2012/07
+-9.27643326136795,38.720602519761,216,Bom,Sem Abrigo,Não,Não,LT,117,201,Estrada do Cacém,Barcarena,n/a,2012/07
+-9.27656440573859,38.7201376061129,215,Bom,Sem Abrigo,Não,Não,LT,117,201,Estrada do Cacém,Barcarena,n/a,2012/07
+-9.28215630021355,38.7365183645132,138,Mau,Fechado dos Lados,Não,Não,LT,"117,171",201,Estrada do Cacém,Barcarena,n/a,2012/07
+-9.28232570323109,38.7367118973612,137,Bom,Sem Abrigo,Não,Não,LT,"117,171",201,Estrada do Cacém,Barcarena,n/a,2012/07
+-9.27173974275434,38.7025692986099,450,Bom,Sem Abrigo,Não,Não,LT,"117,158",882,Rua Doutor Jorge Rivotti,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.27159003343082,38.7026900199904,449,Bom,Fechado dos Lados,Não,Não,LT,"117,158",882,Rua Doutor Jorge Rivotti,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30244342133852,38.6961943706362,561,Bom,Fechado dos Lados,Sim,Não,SCoTTURB,471,1440,Rua São Salvador da Baía,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.2977278976696,38.7001194283877,875,Bom,Fechado dos Lados,Sim,Não,LT,111,51,Rua A Gazeta D´Oeiras,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29783192529306,38.7002055193151,874,Bom,Fechado dos Lados,Sim,Não,LT,111,51,Rua A Gazeta D´Oeiras,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30031138369039,38.6982263958784,549,Bom,Fechado dos Lados,Sim,Não,LT,111,51,Rua A Gazeta D´Oeiras,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30020539095216,38.6983105058861,548,Bom,Fechado dos Lados,Sim,Não,LT,111,51,Rua A Gazeta D´Oeiras,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29826564973826,38.7012914380555,404,Bom,Sem Abrigo,Não,Não,LT,111,51,Rua A Gazeta D´Oeiras,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29866462621749,38.7014531149796,403,Bom,Fechado dos Lados,Sim,Não,LT,111,51,Rua A Gazeta D´Oeiras,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29944127446987,38.6998844078791,399,Bom,Sem Abrigo,Não,Não,LT,111,51,Rua A Gazeta D´Oeiras,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29975045012707,38.699988246024,398,Bom,Sem Abrigo,Não,Não,LT,111,51,Rua A Gazeta D´Oeiras,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.28289348974967,38.7435892310221,141,Bom,Sem Abrigo,Não,Não,LT,"117,171",978,Avenida de Santo António de Tercena,Barcarena,n/a,2012/07
+-9.28292664399318,38.7436555622454,122,Bom,Sem Abrigo,Não,Não,LT,"117,171",978,Avenida de Santo António de Tercena,Barcarena,n/a,2012/07
+-9.28396449344365,38.7447823063275,121,Bom,Sem Abrigo,Não,Não,LT,"117,171",978,Avenida de Santo António de Tercena,Barcarena,n/a,2012/07
+-9.28415753730516,38.7448706630698,120,Bom,Fechado dos Lados,Sim,Não,LT,"117,171",978,Avenida de Santo António de Tercena,Barcarena,n/a,2012/07
+-9.28355103410133,38.7464547917735,119,Bom,Fechado dos Lados,Sim,Não,LT,"117,171",978,Avenida de Santo António de Tercena,Barcarena,n/a,2012/07
+-9.28361955778165,38.7462808983086,118,Bom,Fechado dos Lados,Não,Não,LT,"117,171",978,Avenida de Santo António de Tercena,Barcarena,n/a,2012/07
+-9.23972665309595,38.7009960147008,494,Bom,Sem Abrigo,Não,Não,Vimeca,01,389,Rua São João de Deus,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23943856090085,38.7014122010381,480,Bom,Sem Abrigo,Não,Não,Vimeca,01,389,Rua São João de Deus,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.27453919991997,38.7042680807593,423,Bom,Fechado dos Lados,Sim,Não,LT,"108,117,158",1786,Rua de São João de Deus,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.24349767416058,38.7158102133008,368,Bom,Fechado dos Lados,Não,Não,COMBUS,n/a,438,Rua Dona Joana Pedroso Simões Alves,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",Placa pouco legível,2012/07
+-9.26866906804855,38.7110113813386,325,Bom,Fechado dos Lados,Não,Não,LT,"108,115",1796,Rua das Tílias,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.26890699908785,38.7110299682433,324,Bom,Fechado dos Lados,Sim,Não,LT,"108,115",1796,Rua das Tílias,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.28186531253357,38.7020382382641,427,Bom,Aberto dos Lados,Não,Não,LT,"115,158",1785,Rua de São Gabriel,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.28198347276839,38.7020734688488,426,Bom,Aberto dos Lados,Não,Não,LT,"115,158",1785,Rua de São Gabriel,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.23022469782726,38.7059479951121,663,Bom,Fechado dos Lados,Sim,Não,COMBUS,n/a,142,Avenida da República,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23039042000701,38.7042751244333,662,Bom,Fechado dos Lados,Sim,Não,COMBUS,n/a,142,Avenida da República,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23190735232261,38.7019745068377,661,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,142,Avenida da República,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23055577496306,38.7038947024845,660,Bom,Fechado dos Lados,Sim,Não,COMBUS,n/a,142,Avenida da República,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23174090283662,38.7022150491628,659,Bom,Fechado dos Lados,Não,Não,COMBUS,n/a,142,Avenida da República,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23022469782726,38.7059479951121,64,Bom,Fechado dos Lados,Sim,Não,LT,114,142,Avenida da República,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23017575723701,38.705784601659,63,Bom,Sem Abrigo,Não,Não,LT,114,142,Avenida da República,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23039042000701,38.7042751244333,62,Bom,Fechado dos Lados,Sim,Não,LT,114,142,Avenida da República,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23190735232261,38.7019745068377,59,Bom,Sem Abrigo,Não,Não,LT,114,142,Avenida da República,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23055577496306,38.7038947024845,58,Bom,Fechado dos Lados,Sim,Não,LT,114,142,Avenida da República,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23174090283662,38.7022150491628,57,Bom,Fechado dos Lados,Não,Não,LT,114,142,Avenida da República,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.3082384142355,38.7385799095883,725,Bom,Sem Abrigo,Não,Não,LT,119,1671,Rua Professor Dr. José Pinto Peixoto,Porto Salvo,n/a,2012/07
+-9.3082384142355,38.7385799095883,131,Bom,Sem Abrigo,Não,Não,Vimeca,23,1671,Rua Professor Dr. José Pinto Peixoto,Porto Salvo,n/a,2012/07
+-9.2693494344078,38.7444186986285,126,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,963,Rua Professor Dr. Jorge Mineiro,Barcarena,n/a,2012/07
+-9.30465077594421,38.7390382056772,995,Bom,Fechado dos Lados,Sim,Sim,n/a,Shuttle TAGUSPARK,1667,Avenida Professor Dr. Cavaco Silva,Porto Salvo,n/a,2012/07
+-9.30486019266369,38.7389807089299,994,Bom,Fechado dos Lados,Sim,Não,n/a,Shuttle TAGUSPARK,1667,Avenida Professor Dr. Cavaco Silva,Porto Salvo,n/a,2012/07
+-9.29956383873294,38.7360283370724,993,Bom,Fechado dos Lados,Sim,Sim,n/a,Shuttle TAGUSPARK,1667,Avenida Professor Dr. Cavaco Silva,Porto Salvo,n/a,2012/07
+-9.3050938050257,38.7415784513879,992,Bom,Fechado dos Lados,Sim,Não,n/a,Shuttle TAGUSPARK,1667,Avenida Professor Dr. Cavaco Silva,Porto Salvo,n/a,2012/07
+-9.30538872345939,38.7415725213841,991,Bom,Fechado dos Lados,Sim,Sim,n/a,Shuttle TAGUSPARK,1667,Avenida Professor Dr. Cavaco Silva,Porto Salvo,n/a,2012/07
+-9.3043615006247,38.7446690502722,990,Bom,Fechado dos Lados,Não,Não,n/a,Shuttle TAGUSPARK,1667,Avenida Professor Dr. Cavaco Silva,Porto Salvo,n/a,2012/07
+-9.29930425626165,38.7358861725896,755,Bom,Fechado dos Lados,Sim,Não,n/a,Shuttle TAGUSPARK,1667,Avenida Professor Dr. Cavaco Silva,Porto Salvo,n/a,2012/07
+-9.30486019266369,38.7389807089299,729,Bom,Fechado dos Lados,Sim,Não,Vimeca,"15,23",1667,Avenida Professor Dr. Cavaco Silva,Porto Salvo,n/a,2012/07
+-9.30465077594421,38.7390382056772,728,Bom,Fechado dos Lados,Sim,Sim,Vimeca,15,1667,Avenida Professor Dr. Cavaco Silva,Porto Salvo,n/a,2012/07
+-9.30486019266369,38.7389807089299,727,Bom,Fechado dos Lados,Sim,Não,LT,"112,119,125",1667,Avenida Professor Dr. Cavaco Silva,Porto Salvo,n/a,2012/07
+-9.30465077594421,38.7390382056772,726,Bom,Fechado dos Lados,Sim,Sim,LT,"112,119,125",1667,Avenida Professor Dr. Cavaco Silva,Porto Salvo,n/a,2012/07
+-9.29956383873294,38.7360283370724,724,Bom,Fechado dos Lados,Sim,Sim,Vimeca,15,1667,Avenida Professor Dr. Cavaco Silva,Porto Salvo,n/a,2012/07
+-9.29930425626165,38.7358861725896,723,Bom,Fechado dos Lados,Sim,Não,LT,"112,119,125",1667,Avenida Professor Dr. Cavaco Silva,Porto Salvo,n/a,2012/07
+-9.29956383873294,38.7360283370724,722,Bom,Fechado dos Lados,Sim,Sim,LT,"112,119,125",1667,Avenida Professor Dr. Cavaco Silva,Porto Salvo,n/a,2012/07
+-9.3050938050257,38.7415784513879,719,Bom,Fechado dos Lados,Sim,Não,Vimeca,"15,",1667,Avenida Professor Dr. Cavaco Silva,Porto Salvo,n/a,2012/07
+-9.30538872345939,38.7415725213841,718,Bom,Fechado dos Lados,Sim,Sim,Vimeca,"15,23",1667,Avenida Professor Dr. Cavaco Silva,Porto Salvo,n/a,2012/07
+-9.3050938050257,38.7415784513879,717,Bom,Fechado dos Lados,Sim,Não,LT,"112,119,125",1667,Avenida Professor Dr. Cavaco Silva,Porto Salvo,n/a,2012/07
+-9.30538872345939,38.7415725213841,716,Bom,Fechado dos Lados,Sim,Sim,LT,"112,119,125",1667,Avenida Professor Dr. Cavaco Silva,Porto Salvo,n/a,2012/07
+-9.30431243663424,38.7449255417551,706,Bom,Fechado dos Lados,Sim,Não,Vimeca,"15,23",1667,Avenida Professor Dr. Cavaco Silva,Porto Salvo,n/a,2012/07
+-9.3043615006247,38.7446690502722,705,Bom,Fechado dos Lados,Sim,Não,LT,112,1667,Avenida Professor Dr. Cavaco Silva,Porto Salvo,n/a,2012/07
+-9.30431243663424,38.7449255417551,704,Bom,Fechado dos Lados,Sim,Não,LT,112,1667,Avenida Professor Dr. Cavaco Silva,Porto Salvo,n/a,2012/07
+-9.3043615006247,38.7446690502722,703,Bom,Fechado dos Lados,Sim,Não,Vimeca,"15,23",1667,Avenida Professor Dr. Cavaco Silva,Porto Salvo,n/a,2012/07
+-9.30431243663424,38.7449255417551,150,Bom,Fechado dos Lados,Sim,Não,n/a,Shuttle TAGUSPARK,1667,Avenida Professor Dr. Cavaco Silva,Porto Salvo,n/a,2012/07
+-9.29930425626165,38.7358861725896,129,Bom,Fechado dos Lados,Sim,Não,Vimeca,"15,23",1667,Avenida Professor Dr. Cavaco Silva,Porto Salvo,n/a,2012/07
+-9.30385042827748,38.7439062609525,98,Bom,Sem Abrigo,Não,Não,LT,"119,125",1667,Avenida Professor Dr. Cavaco Silva,Porto Salvo,n/a,2012/07
+-9.30399184456201,38.7440013172591,97,Bom,Sem Abrigo,Não,Não,LT,"119,125",1667,Avenida Professor Dr. Cavaco Silva,Porto Salvo,n/a,2012/07
+-9.22980202399776,38.7230258531242,985,Bom,Sem Abrigo,Não,Não,Vimeca,"01,13,15",1237,Avenida Professor Dr. Bernardino Machado,Carnaxide e Queijas,n/a,2012/07
+-9.22980202399776,38.7230258531242,984,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,1237,Avenida Professor Dr. Bernardino Machado,Carnaxide e Queijas,n/a,2012/07
+-9.22962359174677,38.7229774443193,608,Bom,Fechado dos Lados,Sim,Não,Vimeca,"01,13,15",1237,Avenida Professor Dr. Bernardino Machado,Carnaxide e Queijas,n/a,2012/07
+-9.31499781124104,38.687217795159,972,Razoável,Fechado dos Lados,Sim,Sim,COMBUS,n/a,494,Largo Almirante Gago Coutinho,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31499781124104,38.687217795159,577,Bom,Fechado dos Lados,Sim,Sim,LT,"106,112,115",494,Largo Almirante Gago Coutinho,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.28096224471952,38.7059206467617,434,Bom,Aberto dos Lados,Não,Não,LT,158,933,Rua Pêro de Alenquer,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.28260544841225,38.7034068174071,430,Bom,Aberto dos Lados,Não,Não,LT,158,933,Rua Pêro de Alenquer,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29672478983069,38.7125065002355,1004,Bom,Fechado dos Lados,Sim,Não,LT,"119,125,129,184",1540,Estrada de Paço de Arcos,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29352248679879,38.700890380154,868,Bom,Fechado dos Lados,Sim,Sim,COMBUS,n/a,1540,Estrada de Paço de Arcos,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.3016113295099,38.7162146751464,828,Bom,Fechado dos Lados,Sim,Sim,LT,"106,112,125,129",1540,Estrada de Paço de Arcos,Porto Salvo,n/a,2012/07
+-9.29352248679879,38.700890380154,389,Bom,Fechado dos Lados,Sim,Sim,LT,"119,125,129,158,184",1540,Estrada de Paço de Arcos,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29520678676334,38.706105654062,388,Bom,Fechado dos Lados,Sim,Sim,LT,"119,125,129,158,184",1540,Estrada de Paço de Arcos,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29522332012055,38.7042864545358,387,Bom,Fechado dos Lados,Sim,Sim,LT,"119,125,129,158,184",1540,Estrada de Paço de Arcos,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29504425124403,38.704224549087,386,Bom,Sem Abrigo,Não,Não,LT,"119,125,129,158,184",1540,Estrada de Paço de Arcos,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.2940977043226,38.7016299758533,385,Bom,Fechado dos Lados,Sim,Sim,LT,"119,125,129,158,184",1540,Estrada de Paço de Arcos,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29540765219225,38.709842072916,290,Bom,Fechado dos Lados,Sim,Sim,LT,"119,125,129,184",1540,Estrada de Paço de Arcos,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29549031094092,38.7073857262079,288,Bom,Fechado dos Lados,Sim,Não,LT,"119,125,129,184",1540,Estrada de Paço de Arcos,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29700473502639,38.7126488657799,287,Bom,Fechado dos Lados,Sim,Não,LT,"119,125,129,184",1540,Estrada de Paço de Arcos,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.3016113295099,38.7162146751464,286,Bom,Fechado dos Lados,Sim,Sim,SCoTTURB,15,1540,Estrada de Paço de Arcos,Porto Salvo,n/a,2012/07
+-9.24148967484756,38.7180024817251,988,Razoável,Sem Abrigo,Não,Não,COMBUS,n/a,487,Rua de Moçambique,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.30255023345803,38.6951798337868,560,Bom,Fechado dos Lados,Sim,Não,SCoTTURB,471,1398,Avenida de Moçambique,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30413378547128,38.6943413020222,559,Bom,Fechado dos Lados,Sim,Não,SCoTTURB,471,1398,Avenida de Moçambique,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.32707234025644,38.6911951215309,520,Bom,Fechado dos Lados,Sim,Não,SCoTTURB,"470,485,489",557,Avenida Dom José I,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.32721563356536,38.6911379900951,519,Bom,Sem Abrigo,Não,Não,SCoTTURB,"470,485,489",557,Avenida Dom José I,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.32847760813065,38.6944728428197,265,Bom,Fechado dos Lados,Sim,Não,SCoTTURB,"470,485,489",557,Avenida Dom José I,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.32847597485794,38.6923099980877,264,Bom,Fechado dos Lados,Sim,Não,SCoTTURB,"470,485,489",557,Avenida Dom José I,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.2328108566745,38.7189458718759,613,Bom,Fechado dos Lados,Não,Não,Vimeca,"01,13,15",1197,Rua Mário Moreira,Carnaxide e Queijas,n/a,2012/07
+-9.23295790150635,38.7190349271321,612,Bom,Sem Abrigo,Não,Não,Vimeca,"01,13,15",1197,Rua Mário Moreira,Carnaxide e Queijas,n/a,2012/07
+-9.26834852279673,38.740300166149,737,Bom,Fechado dos Lados,Sim,Não,LT,"101,101,171",269,Rua Mário Castelhano,Barcarena,n/a,2012/07
+-9.26813075563638,38.7397814518379,160,Bom,Sem Abrigo,Não,Não,LT,"101,171",269,Rua Mário Castelhano,Barcarena,n/a,2012/07
+-9.26834852279673,38.740300166149,153,Bom,Fechado dos Lados,Sim,Não,Vimeca,12,269,Rua Mário Castelhano,Barcarena,n/a,2012/07
+-9.29635760775362,38.6976039938498,961,Bom,Fechado dos Lados,Não,Não,COMBUS,n/a,1527,Rua Manuel Pinhanços,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29495924060971,38.6976786100013,562,Bom,Fechado dos Lados,Não,Não,LT,115,1527,Rua Manuel Pinhanços,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29635760775362,38.6976039938498,558,Bom,Fechado dos Lados,Não,Não,LT,"129,115,125,158",1527,Rua Manuel Pinhanços,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.32059045374029,38.6848812579713,975,Bom,Fechado dos Lados,Sim,Não,COMBUS,n/a,556,Avenida Dom João I,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31929784332851,38.6839315320058,974,Bom,Fechado dos Lados,Sim,Não,SCoTTURB,471,556,Avenida Dom João I,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31929784332851,38.6839315320058,973,Bom,Fechado dos Lados,Sim,Não,COMBUS,n/a,556,Avenida Dom João I,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31786020401848,38.6837394670448,971,Bom,Fechado dos Lados,Sim,Não,SCoTTURB,471,556,Avenida Dom João I,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31786020401848,38.6837394670448,970,Bom,Fechado dos Lados,Sim,Não,COMBUS,n/a,556,Avenida Dom João I,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.32059045374029,38.6848812579713,582,Bom,Fechado dos Lados,Sim,Não,SCoTTURB,47,556,Avenida Dom João I,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31929784332851,38.6839315320058,581,Bom,Fechado dos Lados,Sim,Não,LT,106,556,Avenida Dom João I,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31786020401848,38.6837394670448,576,Bom,Fechado dos Lados,Sim,Não,LT,106,556,Avenida Dom João I,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.24178990004618,38.7152934280825,350,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,475,Rua Luís de Camões,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",Placa pouco legível,2012/07
+-9.30248093988859,38.7231317871435,798,Bom,Fechado dos Lados,Sim,Não,Vimeca,15,735,Estrada de Leião,Porto Salvo,n/a,2012/07
+-9.30127325294551,38.7297488948368,763,Bom,Fechado dos Lados,Não,Sim,Vimeca,15,735,Estrada de Leião,Porto Salvo,n/a,2012/07
+-9.30127325294551,38.7297488948368,762,Bom,Fechado dos Lados,Sim,Sim,LT,"106,112,119",735,Estrada de Leião,Porto Salvo,n/a,2012/07
+-9.30127105718672,38.7293740138099,756,Bom,Fechado dos Lados,Sim,Não,LT,"106,112,119",735,Estrada de Leião,Porto Salvo,n/a,2012/07
+-9.30127105718672,38.7293740138099,754,Bom,Fechado dos Lados,Sim,Não,Vimeca,15,735,Estrada de Leião,Porto Salvo,n/a,2012/07
+-9.30248093988859,38.7231317871435,208,Bom,Fechado dos Lados,Sim,Não,LT,"106,112",735,Estrada de Leião,Porto Salvo,n/a,2012/07
+-9.28143923348257,38.7457184427232,1013,Bom,Sem Abrigo,Não,Não,LT,101,217,Rua da Constituição,Barcarena,n/a,2012/07
+-9.28105995318814,38.7441413226773,102,Bom,Sem Abrigo,Não,Não,LT,101,217,Rua da Constituição,Barcarena,n/a,2012/07
+-9.28109630188789,38.7439116283003,101,Bom,Sem Abrigo,Não,Não,LT,101,217,Rua da Constituição,Barcarena,n/a,2012/07
+-9.2909245008212,38.698275045012,570,Bom,Fechado dos Lados,Sim,Não,LT,111,605,Rua Conde das Alcáçovas,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29107438465775,38.6985455066155,441,Bom,Fechado dos Lados,Sim,Não,LT,"119,115",605,Rua Conde das Alcáçovas,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29116976202548,38.6987290420119,440,Bom,Fechado dos Lados,Sim,Não,LT,"125,129,158,184",605,Rua Conde das Alcáçovas,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30961582466224,38.6974126998904,543,Bom,Fechado dos Lados,Sim,Não,LT,"106,112,122",545,Praça Comandante Henrique Moreira Rato,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.3093473612943,38.6973805406827,10,Bom,Fechado dos Lados,Sim,Não,LT,"106,112,122",545,Praça Comandante Henrique Moreira Rato,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30831236675843,38.6947658934945,566,Bom,Fechado dos Lados,Sim,Não,LT,111,547,Rua Comandante Germano Dias,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30795828089694,38.6946914441626,531,Bom,Fechado dos Lados,Sim,Não,LT,111,547,Rua Comandante Germano Dias,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31036319613567,38.6939981558351,504,Bom,Fechado dos Lados,Sim,Não,LT,111,547,Rua Comandante Germano Dias,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29352460659471,38.7200003034023,259,Bom,Fechado dos Lados,Sim,Não,LT,"119,184",685,Rua Carlos Paião,Porto Salvo,n/a,2012/07
+-9.30779863966048,38.6933218795454,933,Bom,Fechado dos Lados,Sim,Não,SCoTTURB,471,533,Rua Cândido dos Reis,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30779863966048,38.6933218795454,535,Bom,Fechado dos Lados,Sim,Não,LT,115,533,Rua Cândido dos Reis,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31130473121277,38.6926149819986,506,Bom,Fechado dos Lados,Sim,Sim,SCoTTURB,471,533,Rua Cândido dos Reis,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31125430312119,38.6926237772909,505,Bom,Fechado dos Lados,Sim,Sim,LT,"106,111,112,115,122",533,Rua Cândido dos Reis,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.27739829124259,38.7082499610643,305,Bom,Sem Abrigo,Não,Não,LT,158,858,Rua Calvet de Magalhães,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.28186912830116,38.7095107186163,304,Bom,Sem Abrigo,Não,Não,LT,158,858,Rua Calvet de Magalhães,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.28225255033964,38.709447048745,303,Bom,Sem Abrigo,Não,Não,LT,158,858,Rua Calvet de Magalhães,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29308554409381,38.7089144522438,279,Bom,Fechado dos Lados,Sim,Não,LT,"129,184",858,Rua Calvet de Magalhães,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.27380861727828,38.7077817726098,274,Bom,Fechado dos Lados,Não,Não,LT,"108,115,117,158",858,Rua Calvet de Magalhães,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.27381699616063,38.7078605092097,273,Bom,Sem Abrigo,Não,Não,LT,"108,115,117,158",858,Rua Calvet de Magalhães,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31159668360594,38.6898348421701,510,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,538,Avenida Carlos Silva,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.32130366672151,38.6837411005459,942,Bom,Fechado dos Lados,Sim,Não,SCoTTURB,476,561,Rua Dona Filipa de Lencastre,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.32130366672151,38.6837411005459,941,Bom,Fechado dos Lados,Sim,Não,LT,106,561,Rua Dona Filipa de Lencastre,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31978687204492,38.6832536527326,940,Razoável,Sem Abrigo,Não,Não,COMBUS,n/a,561,Rua Dona Filipa de Lencastre,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31959669605746,38.683301466116,939,Razoável,Fechado dos Lados,Sim,Sim,SCoTTURB,471,561,Rua Dona Filipa de Lencastre,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31959669605746,38.683301466116,938,Razoável,Fechado dos Lados,Sim,Não,COMBUS,n/a,561,Rua Dona Filipa de Lencastre,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.32130366672151,38.6837411005459,586,Bom,Fechado dos Lados,Sim,Não,COMBUS,n/a,561,Rua Dona Filipa de Lencastre,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31959669605746,38.683301466116,585,Razoável,Fechado dos Lados,Sim,Sim,LT,106,561,Rua Dona Filipa de Lencastre,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31110682027105,38.6888525219381,496,Razoável,Sem Abrigo,Não,Não,COMBUS,n/a,1363,Rua José Falcão,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30958571570134,38.6891759031174,588,Razoável,Sem Abrigo,Não,Não,COMBUS,n/a,574,Avenida Duarte Pacheco,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.312031441924,38.6956374324469,919,Bom,Fechado dos Lados,Sim,Não,LT,111,578,Avenida Embaixador Augusto de Castro,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30940090773876,38.6957094148467,557,Bom,Fechado dos Lados,Sim,Sim,n/a,n/a,578,Avenida Embaixador Augusto de Castro,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",Paragem sem placas de operadora,2012/07
+-9.30998656441422,38.6958232353357,518,Bom,Fechado dos Lados,Sim,Não,LT,"106,112,115,122",578,Avenida Embaixador Augusto de Castro,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.312031441924,38.6956374324469,502,Bom,Fechado dos Lados,Sim,Não,SCoTTURB,471,578,Avenida Embaixador Augusto de Castro,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.324342691967,38.6979612430969,376,Bom,Sem Abrigo,Não,Não,SCoTTURB,479,1315,Rua das Escolas,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.32421617206943,38.6979910867197,375,Bom,Fechado dos Lados,Sim,Não,SCoTTURB,479,1315,Rua das Escolas,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.22669175869732,38.7213919663878,47,Razoável,Sem Abrigo,Não,Não,COMBUS,n/a,1183,Rua João Pedro de Andrade,Carnaxide e Queijas,n/a,2012/07
+-9.27252640283019,38.7097995042668,319,Bom,Fechado dos Lados,Sim,Sim,LT,"108,117,115,158",909,Avenida João de Freitas Branco,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.27247687659649,38.7095620005977,318,Bom,Fechado dos Lados,Sim,Sim,LT,"108,117,115,158",909,Avenida João de Freitas Branco,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.27180880625651,38.7107860046917,317,Bom,Fechado dos Lados,Sim,Não,LT,"108,117,115,158",909,Avenida João de Freitas Branco,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30307476447071,38.6976805586599,960,Bom,Fechado dos Lados,Sim,Não,SCoTTURB,471,527,Avenida de Brasília,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30515698964787,38.6974686495868,554,Bom,Fechado dos Lados,Sim,Não,LT,"111,115",527,Avenida de Brasília,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30522069660133,38.6975618723003,553,Bom,Fechado dos Lados,Sim,Não,LT,"111,115",527,Avenida de Brasília,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30310112192319,38.6975768853088,552,Bom,Fechado dos Lados,Sim,Não,LT,"111,115",527,Avenida de Brasília,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30307476447071,38.6976805586599,551,Bom,Fechado dos Lados,Sim,Não,LT,"111,115",527,Avenida de Brasília,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.23870593247272,38.7051345053417,892,Bom,Fechado dos Lados,Sim,Não,COMBUS,n/a,121,Rua João Chagas,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23321881219447,38.7003180310933,655,Bom,Sem Abrigo,Não,Não,Vimeca,02,121,Rua João Chagas,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23155490581518,38.6997804434794,654,Bom,Aberto dos Lados,Não,Não,Vimeca,"02,114",121,Rua João Chagas,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23645605306834,38.7014818195828,491,Bom,Fechado dos Lados,Sim,Sim,Vimeca,02,121,Rua João Chagas,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.2369486437985,38.701729930362,490,Bom,Fechado dos Lados,Sim,Sim,Vimeca,02,121,Rua João Chagas,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23870593247272,38.7051345053417,458,Bom,Fechado dos Lados,Sim,Não,Vimeca,02,121,Rua João Chagas,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23869683991594,38.705977274613,457,Bom,Fechado dos Lados,Sim,Sim,Vimeca,02,121,Rua João Chagas,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24101045481211,38.7081040130272,363,Bom,Fechado dos Lados,Sim,Sim,Vimeca,"02,11,13",121,Rua João Chagas,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24081861453923,38.7080837615446,335,Bom,Fechado dos Lados,Sim,Não,Vimeca,"02,11",121,Rua João Chagas,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.2331926386891,38.7003913622534,56,Bom,Sem Abrigo,Não,Não,Vimeca,02,121,Rua João Chagas,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.29142097075694,38.698226169674,911,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,648,Rua João Augusto Moreira,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",(Placa - só descida) possivel terminal,2012/07
+-9.29117181666562,38.6983005199957,910,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,648,Rua João Augusto Moreira,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",(Placa - só descida) possivel terminal,2012/07
+-9.23124338269223,38.7116009393932,34,Bom,Fechado dos Lados,Sim,Não,Vimeca,12,120,Avenida Jaime Cortesão,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23113898813613,38.7121192398018,22,Bom,Fechado dos Lados,Sim,Sim,Vimeca,12,120,Avenida Jaime Cortesão,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.26727197754039,38.7222643383692,227,Bom,Sem Abrigo,Não,Não,Vimeca,"02,06,13",805,Rua Ilha de São Jorge,Carnaxide e Queijas,n/a,2012/07
+-9.22566280764922,38.7114642380183,641,Bom,Fechado dos Lados,Sim,Sim,Vimeca,"10,12",116,Avenida General Norton de Matos,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22566280764922,38.7114642380183,640,Bom,Fechado dos Lados,Sim,Sim,Carris,"201,751",116,Avenida General Norton de Matos,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22528934815465,38.7132670428501,639,Bom,Fechado dos Lados,Sim,Não,LT,162,116,Avenida General Norton de Matos,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22528934815465,38.7132670428501,638,Bom,Fechado dos Lados,Sim,Não,Vimeca,"10,12",116,Avenida General Norton de Matos,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22508754946336,38.7132125387872,637,Bom,Fechado dos Lados,Sim,Não,Vimeca,"10,12",116,Avenida General Norton de Matos,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22508754946336,38.7132125387872,636,Bom,Fechado dos Lados,Sim,Não,LT,162,116,Avenida General Norton de Matos,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22619457371135,38.7110893156013,635,Bom,Fechado dos Lados,Sim,Sim,Vimeca,"10,12",116,Avenida General Norton de Matos,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22619457371135,38.7110893156013,634,Bom,Fechado dos Lados,Sim,Sim,LT,162,116,Avenida General Norton de Matos,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22619457371135,38.7110893156013,633,Bom,Fechado dos Lados,Sim,Sim,Carris,"201,202,748,750,751",116,Avenida General Norton de Matos,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22528934815465,38.7132670428501,54,Bom,Fechado dos Lados,Sim,Não,Carris,"201,748,750,751",116,Avenida General Norton de Matos,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22508754946336,38.7132125387872,53,Bom,Fechado dos Lados,Sim,Não,Carris,"201,751",116,Avenida General Norton de Matos,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22566280764922,38.7114642380183,12,Bom,Fechado dos Lados,Sim,Sim,LT,162,116,Avenida General Norton de Matos,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.28431235040205,38.7283509758637,786,Bom,Sem Abrigo,Não,Não,LT,119,242,Largo General Humberto Delgado,Barcarena,n/a,2012/07
+-9.28444196423759,38.7283733898085,785,Bom,Fechado dos Lados,Sim,Não,LT,"106,117",242,Largo General Humberto Delgado,Barcarena,n/a,2012/07
+-9.28453431972621,38.7281665624557,784,Bom,Sem Abrigo,Não,Não,LT,119,242,Largo General Humberto Delgado,Barcarena,n/a,2012/07
+-9.30426847470845,38.7226503530482,210,Bom,Sem Abrigo,Não,Não,LT,"125,129,184",705,Avenida Engenheiro Arantes e Oliveira,Porto Salvo,n/a,2012/07
+-9.30457586086775,38.7227437463653,209,Bom,Aberto dos Lados,Não,Não,LT,"125,129,184",705,Avenida Engenheiro Arantes e Oliveira,Porto Salvo,n/a,2012/07
+-9.30780079629145,38.7225783404578,207,Bom,Aberto dos Lados,Não,Não,LT,"122,125,129,184",705,Avenida Engenheiro Arantes e Oliveira,Porto Salvo,n/a,2012/07
+-9.30982821529698,38.7227745871415,199,Bom,Fechado dos Lados,Não,Não,LT,"122,125,184",705,Avenida Engenheiro Arantes e Oliveira,Porto Salvo,n/a,2012/07
+-9.23860104875969,38.7108347542541,843,Bom,Fechado dos Lados,Sim,Não,COMBUS,n/a,450,Rua Engenheiro José Frederico Ulrich,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23860104875969,38.7108347542541,333,Bom,Fechado dos Lados,Sim,Não,LT,114,450,Rua Engenheiro José Frederico Ulrich,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24002593132934,38.7061667449638,489,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,447,Avenida Duque de Loulé,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.2322037833505,38.7042362228977,665,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,158,Rua Doutor Mário Charrua,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23309206705113,38.7038489206169,664,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,158,Rua Doutor Mário Charrua,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23546381856272,38.7021277630803,65,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,158,Rua Doutor Mário Charrua,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22806562780206,38.7011379561914,666,Bom,Sem Abrigo,Não,Não,LT,162,155,Praça Doutor Manuel Martins,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22690104278536,38.7012639004492,658,Bom,Fechado dos Lados,Sim,Sim,LT,162,155,Praça Doutor Manuel Martins,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22690104278536,38.7012639004492,657,Bom,Fechado dos Lados,Sim,Sim,Vimeca,"10,12",155,Praça Doutor Manuel Martins,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22690104278536,38.7012639004492,656,Bom,Fechado dos Lados,Sim,Sim,Carris,"201,750,751",155,Praça Doutor Manuel Martins,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22806562780206,38.7011379561914,70,Bom,Sem Abrigo,Não,Não,Vimeca,"10,12",155,Praça Doutor Manuel Martins,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22807617986121,38.7011364161178,69,Bom,Sem Abrigo,Não,Não,Carris,"201,750,751",155,Praça Doutor Manuel Martins,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.32517755121257,38.6908504484978,512,Bom,Fechado dos Lados,Sim,Não,SCoTTURB,"470,485,489",569,Rua Doutor José Carlos Moreira,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.32514795111448,38.690971364701,511,Bom,Sem Abrigo,Não,Não,SCoTTURB,"470,485,489",569,Rua Doutor José Carlos Moreira,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31365964968558,38.6934592219217,834,Bom,Fechado dos Lados,Sim,Não,SCoTTURB,471,514,Largo Avião Lusitânia,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31365964968558,38.6934592219217,310,Bom,Fechado dos Lados,Sim,Não,LT,"106,111,112,115,122",514,Largo Avião Lusitânia,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.23568198575862,38.7158465189777,11,Bom,Fechado dos Lados,Sim,Não,Carris,"201,748,751",416,Alameda António Sérgio,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23736330318038,38.7164157206706,861,Bom,Fechado dos Lados,Sim,Sim,Vimeca,"10,12,13",416,Alameda António Sérgio,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23730094894144,38.7168018444352,860,Bom,Fechado dos Lados,Sim,Sim,Vimeca,"10,12",416,Alameda António Sérgio,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23265443838005,38.7139026427135,36,Bom,Sem Abrigo,Não,Não,Vimeca,10,416,Alameda António Sérgio,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23572011841383,38.7160449740371,21,Bom,Fechado dos Lados,Sim,Não,Carris,"748,751",416,Alameda António Sérgio,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23264858687377,38.7143802652375,17,Bom,Sem Abrigo,Não,Não,Vimeca,10,416,Alameda António Sérgio,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.30878977736016,38.6951027959637,932,Bom,Aberto dos Lados,Não,Não,COMBUS,n/a,507,Rua António Sérgio,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29642348627519,38.701003335628,879,Bom,Fechado dos Lados,Sim,Não,COMBUS,n/a,587,Avenida António Bernardo Cabral de Macedo,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.2988501745354,38.7023957332624,878,Mau,Sem Abrigo,Não,Não,COMBUS,n/a,587,Avenida António Bernardo Cabral de Macedo,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30231261100137,38.704304772904,872,Bom,Sem Abrigo,Sim,Sim,LT,"111,158",587,Avenida António Bernardo Cabral de Macedo,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29903374318393,38.7027772749076,871,Bom,Fechado dos Lados,Sim,Sim,LT,111,587,Avenida António Bernardo Cabral de Macedo,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29624097797251,38.7007499602035,870,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,587,Avenida António Bernardo Cabral de Macedo,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29642348627519,38.701003335628,408,Bom,Fechado dos Lados,Sim,Não,LT,111,587,Avenida António Bernardo Cabral de Macedo,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.2988501745354,38.7023957332624,407,Bom,Sem Abrigo,Não,Não,LT,111,587,Avenida António Bernardo Cabral de Macedo,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30231261100137,38.704304772904,393,Bom,Sem Abrigo,Sim,Sim,Vimeca,30,587,Avenida António Bernardo Cabral de Macedo,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29903374318393,38.7027772749076,392,Bom,Fechado dos Lados,Sim,Sim,COMBUS,n/a,587,Avenida António Bernardo Cabral de Macedo,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30121838264862,38.7038408190886,391,Bom,Fechado dos Lados,Sim,Sim,LT,"111,158",587,Avenida António Bernardo Cabral de Macedo,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29624097797251,38.7007499602035,390,Bom,Sem Abrigo,Não,Não,LT,111,587,Avenida António Bernardo Cabral de Macedo,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.28090970742959,38.7156040993385,301,Bom,Sem Abrigo,Não,Não,LT,158,1018,Rua do Alto da Peça,Barcarena,n/a,2012/07
+-9.28079950245394,38.7157729064021,300,Bom,Sem Abrigo,Não,Não,LT,158,1018,Rua do Alto da Peça,Barcarena,n/a,2012/07
+-9.29909833367063,38.7180765419727,114,Bom,Sem Abrigo,Não,Não,LT,184,756,Pateo das Padeiras,Porto Salvo,n/a,2012/07
+-9.29224754397158,38.7003903921405,384,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,62,Rua Adriano José da Silva,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29235174716126,38.7006218506119,383,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,62,Rua Adriano José da Silva,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.26326084070078,38.7175927351146,804,Bom,Fechado dos Lados,Sim,Não,LT,"102,108",813,Rua João XXI,Carnaxide e Queijas,n/a,2012/07
+-9.2630137995978,38.7190997864267,803,Bom,Fechado dos Lados,Sim,Não,LT,"102,108",813,Rua João XXI,Carnaxide e Queijas,n/a,2012/07
+-9.26340606982308,38.7175278260766,802,Bom,Fechado dos Lados,Sim,Não,LT,"102,108",813,Rua João XXI,Carnaxide e Queijas,n/a,2012/07
+-9.26315128195731,38.7188056139333,632,Bom,Fechado dos Lados,Sim,Sim,LT,"102,108",813,Rua João XXI,Carnaxide e Queijas,n/a,2012/07
+-9.26326084070078,38.7175927351146,233,Bom,Fechado dos Lados,Sim,Não,Vimeca,"02,06,13,15",813,Rua João XXI,Carnaxide e Queijas,n/a,2012/07
+-9.2630137995978,38.7190997864267,232,Bom,Fechado dos Lados,Não,Não,SCoTTURB,"02,06,13,15",813,Rua João XXI,Carnaxide e Queijas,n/a,2012/07
+-9.26340606982308,38.7175278260766,231,Bom,Fechado dos Lados,Sim,Não,Vimeca,"02,06,13,15",813,Rua João XXI,Carnaxide e Queijas,n/a,2012/07
+-9.26315128195731,38.7188056139333,52,Bom,Fechado dos Lados,Sim,Sim,Vimeca,"02,06,13,15",813,Rua João XXI,Carnaxide e Queijas,n/a,2012/07
+-9.22735585719762,38.7141731845024,645,Bom,Fechado dos Lados,Sim,Não,Carris,"201,748,751",113,Alameda Fernão Lopes,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.2292515074275,38.7146313104324,651,Bom,Fechado dos Lados,Sim,Não,Carris,"201,748,751",113,Alameda Fernão Lopes,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22942110237436,38.7150019613252,650,Bom,Sem Abrigo,Não,Não,Carris,"201,748,751",113,Alameda Fernão Lopes,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22693715496418,38.7144239172522,643,Bom,Fechado dos Lados,Sim,Não,Vimeca,"10,12",113,Alameda Fernão Lopes,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.2292515074275,38.7146313104324,30,Bom,Fechado dos Lados,Sim,Não,Vimeca,10,113,Alameda Fernão Lopes,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22940930009895,38.7150259052164,29,Bom,Fechado dos Lados,Sim,Não,Vimeca,10,113,Alameda Fernão Lopes,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22735585719762,38.7141731845024,20,Bom,Fechado dos Lados,Sim,Não,Vimeca,10,113,Alameda Fernão Lopes,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22693715496418,38.7144239172522,15,Bom,Fechado dos Lados,Sim,Não,Carris,"201,202,748,751",113,Alameda Fernão Lopes,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.2255181829689,38.7140629090142,14,Bom,Sem Abrigo,Não,Não,Carris,748,113,Alameda Fernão Lopes,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23100835120744,38.7348382857996,946,Bom,Fechado dos Lados,Não,Não,Carris,"108,114",25,Estrada de Alfragide,,n/a,2012/07
+-9.2268426955244,38.7344742227027,592,Razoável,Fechado dos Lados,Sim,Não,LT,"108,114",25,Estrada de Alfragide,Carnaxide e Queijas,n/a,2012/07
+-9.22739287340202,38.7344888907689,591,Razoável,Fechado dos Lados,Sim,Não,LT,"108,114",25,Estrada de Alfragide,Carnaxide e Queijas,n/a,2012/07
+-9.23265319404783,38.7348183067575,590,Bom,Sem Abrigo,Não,Não,LT,"108,114",25,Estrada de Alfragide,Carnaxide e Queijas,n/a,2012/07
+-9.31752384936356,38.6881393176155,967,Bom,Fechado dos Lados,Sim,Não,LT,106,1332,Rua da Fundição de Oeiras,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31752384936356,38.6881393176155,966,Razoável,Fechado dos Lados,Sim,Não,COMBUS,n/a,1332,Rua da Fundição de Oeiras,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31752384936356,38.6881393176155,574,Bom,Fechado dos Lados,Sim,Não,SCoTTURB,471,1332,Rua da Fundição de Oeiras,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30941562614372,38.6942010899154,530,Bom,Fechado dos Lados,Sim,Não,LT,111,1321,Rua Fernando Pessoa,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29991844424976,38.7018020753168,873,Bom,Sem Abrigo,Não,Não,LT,111,1359,Rua José de Azambuja Proença,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.2997485145026,38.7016730849188,394,Bom,Sem Abrigo,Não,Não,LT,111,1359,Rua José de Azambuja Proença,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.32935958211639,38.6978406218424,825,Bom,Sem Abrigo,Não,Não,SCoTTURB,"470,485,489,467,475,479",1338,Avenida Gonçalves Zarco,,n/a,2012/07
+-9.32881110052249,38.6977824980648,824,Bom,Fechado dos Lados,Não,Não,SCoTTURB,"470,485,489,467,479",1338,Avenida Gonçalves Zarco,,n/a,2012/07
+-9.32679919053797,38.6981338211424,372,Bom,Sem Abrigo,Não,Sim,SCoTTURB,"470,479,485,489",1338,Avenida Gonçalves Zarco,,n/a,2012/07
+-9.3177745131335,38.6885214644042,1026,Bom,Sem Abrigo,Não,Não,SCoTTURB,471,1342,Rua Henrique de Paiva Couceiro,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias","Terminal só descidas de todas os autocarros da ScoTTURB, á excepção da 471",2014.07.24
+-9.31779080161666,38.688524481201,1025,Bom,Sem Abrigo,Não,Não,LT,"111, 122",1342,Rua Henrique de Paiva Couceiro,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias","Terminal, só descidas",2014.07.24
+-9.3190725028589,38.6865162883308,944,Bom,Sem Abrigo,Não,Não,LT,106,1344,Avenida Infante Dom Henrique,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.3190725028589,38.6865162883308,943,Razoável,Sem Abrigo,Não,Não,COMBUS,n/a,1344,Avenida Infante Dom Henrique,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.32190571118082,38.6835096962276,580,Bom,Fechado dos Lados,Sim,Não,SCoTTURB,471,1344,Avenida Infante Dom Henrique,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.32162641920746,38.6841400194691,579,Bom,Sem Abrigo,Não,Não,LT,106,1344,Avenida Infante Dom Henrique,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31944717384139,38.6858132806235,497,Bom,Sem Abrigo,Não,Não,SCoTTURB,471,1344,Avenida Infante Dom Henrique,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31635643557369,38.685406996488,969,Bom,Fechado dos Lados,Sim,Não,LT,106,1346,Rua Infanta Dona Isabel,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31635643557369,38.685406996488,968,Bom,Fechado dos Lados,Sim,Não,COMBUS,n/a,1346,Rua Infanta Dona Isabel,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31662725477094,38.6874631090098,914,Bom,Aberto dos Lados,Não,Não,SCoTTURB,471,1346,Rua Infanta Dona Isabel,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31662976682895,38.6874810717203,913,Bom,Aberto dos Lados,Não,Não,LT,106,1346,Rua Infanta Dona Isabel,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31662976682895,38.6874810717203,912,Bom,Aberto dos Lados,Não,Não,COMBUS,n/a,1346,Rua Infanta Dona Isabel,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31635643557369,38.685406996488,575,Bom,Fechado dos Lados,Sim,Não,SCoTTURB,471,1346,Rua Infanta Dona Isabel,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31925400941189,38.6812925388317,976,Razoável,Sem Abrigo,Não,Não,COMBUS,n/a,1349,Rua Infante Santo,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31937334156092,38.6813185120497,937,Razoável,Sem Abrigo,Não,Não,COMBUS,n/a,1349,Rua Infante Santo,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31720721744929,38.6925732842841,929,Razoável,Fechado dos Lados,Sim,Não,COMBUS,n/a,1372,Rua dos Lagares da Quinta,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31720721744929,38.6925732842841,928,Bom,Fechado dos Lados,Sim,Não,SCoTTURB,471,1372,Rua dos Lagares da Quinta,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31720721744929,38.6925732842841,521,Bom,Fechado dos Lados,Sim,Não,LT,"106,111,112,115,122",1372,Rua dos Lagares da Quinta,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.32313753435424,38.6828625664654,584,Bom,Fechado dos Lados,Não,Não,LT,106,1392,Rua da Medrosa,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.32322066259797,38.6827817310899,583,Bom,Fechado dos Lados,Não,Não,LT,106,1392,Rua da Medrosa,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.3268897741177,38.697493645982,921,Bom,Sem Abrigo,Não,Não,SCoTTURB,467,1404,Rua Norton de Matos,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.32697916745133,38.6978417526582,523,Bom,Sem Abrigo,Não,Não,SCoTTURB,467,1404,Rua Norton de Matos,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31138939558738,38.6869302897839,578,Razoável,Sem Abrigo,Não,Não,COMBUS,n/a,1410,Avenida Pedro Álvares Cabral,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30749904733688,38.7027611571229,989,Bom,Aberto dos Lados,Não,Não,LT,"112,122,106",1407,Estrada de Oeiras,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30818414680311,38.7018190659335,869,Bom,Sem Abrigo,Não,Não,LT,"106,112,122",1407,Estrada de Oeiras,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.32579771339849,38.6970916609741,495,Bom,Fechado dos Lados,Sim,Não,SCoTTURB,"467,479",1421,Rotunda da Quinta do Marquês,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31599437558573,38.6907782338772,922,Razoável,Fechado dos Lados,Sim,Não,COMBUS,n/a,1422,Rua da Quinta Grande,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31873587338697,38.6910173636205,556,Bom,Sem Abrigo,Não,Não,SCoTTURB,"470,485,489",1422,Rua da Quinta Grande,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31896926279986,38.6911359778085,522,Bom,Fechado dos Lados,Sim,Não,SCoTTURB,"470,485,489",1422,Rua da Quinta Grande,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.3162322751982,38.6907145739308,514,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,1422,Rua da Quinta Grande,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31599437558573,38.6907782338772,513,Bom,Fechado dos Lados,Sim,Não,SCoTTURB,"467,468,470,479,485,489",1422,Rua da Quinta Grande,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.32484726869229,38.6948978658113,509,Bom,Fechado dos Lados,Sim,Sim,SCoTTURB,"467,468,479",1426,Avenida da República,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31841105275258,38.6940278276087,508,Bom,Fechado dos Lados,Sim,Sim,SCoTTURB,"467,468,479",1426,Avenida da República,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.3247229797542,38.6950687492871,507,Bom,Fechado dos Lados,Não,Sim,SCoTTURB,"467,468,479",1426,Avenida da República,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.32869132534219,38.6955110576749,263,Bom,Fechado dos Lados,Sim,Sim,SCoTTURB,"468,470,485,489",1426,Avenida da República,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.32906290131299,38.6957783921719,262,Bom,Fechado dos Lados,Sim,Sim,SCoTTURB,"468,470,485,489",1426,Avenida da República,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.3067245797376,38.698127880374,542,Bom,Fechado dos Lados,Sim,Não,LT,"106,112,122",1427,Avenida Rio de Janeiro,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30684982147576,38.6981951725853,541,Bom,Fechado dos Lados,Sim,Não,LT,"106,112,122",1427,Avenida Rio de Janeiro,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31136769182419,38.6976643926035,516,Bom,Fechado dos Lados,Sim,Não,LT,"106,112,122",1427,Avenida Rio de Janeiro,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31138891214303,38.697787765778,503,Bom,Fechado dos Lados,Sim,Não,LT,"106,112,122",1427,Avenida Rio de Janeiro,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31835529198746,38.6928220680949,926,Razoável,Fechado dos Lados,Não,Não,COMBUS,n/a,1431,Avenida Salvador Allende,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31835529198746,38.6928220680949,925,Bom,Fechado dos Lados,Não,Não,LT,"111,122",1431,Avenida Salvador Allende,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31835529198746,38.6928220680949,924,Bom,Fechado dos Lados,Não,Não,SCoTTURB,"467,468,479,471",1431,Avenida Salvador Allende,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31835529198746,38.6928220680949,923,Bom,Fechado dos Lados,Não,Não,Vimeca,30,1431,Avenida Salvador Allende,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30526132502658,38.6944455745562,568,Bom,Fechado dos Lados,Sim,Não,LT,115,1455,Avenida do Ultramar,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30585876086644,38.696062971059,567,Bom,Fechado dos Lados,Sim,Não,LT,111,1455,Avenida do Ultramar,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30544509714678,38.694669828176,539,Bom,Fechado dos Lados,Sim,Não,LT,111,1455,Avenida do Ultramar,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.32392591212754,38.6933664692517,500,Bom,Fechado dos Lados,Sim,Não,SCoTTURB,"470,485,489",1516,Rua Monsenhor Ferreira de Melo,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31420685728689,38.7099700229607,826,Bom,Fechado dos Lados,Sim,Não,LT,158,1521,Estrada da Ribeira da Laje,Porto Salvo,n/a,2012/07
+-9.30703404022342,38.7053355153633,381,Razoável,Sem Abrigo,Não,Não,LT,"112,158",1521,Estrada da Ribeira da Laje,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30757899102058,38.705612706957,380,Bom,Fechado dos Lados,Sim,Sim,LT,"112,158",1521,Estrada da Ribeira da Laje,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31420685728689,38.7099700229607,267,Bom,Fechado dos Lados,Sim,Não,SCoTTURB,"470,485",1521,Estrada da Ribeira da Laje,Porto Salvo,n/a,2012/07
+-9.24413447875786,38.7302565621413,176,Bom,Aberto dos Lados,Sim,Sim,LT,"108,114",276,Estrada da Amadora,Carnaxide e Queijas,n/a,2012/07
+-9.24500401549296,38.7303108087031,175,Bom,Fechado dos Lados,Sim,Sim,LT,"108,114",276,Estrada da Amadora,Carnaxide e Queijas,n/a,2012/07
+-9.23827131601437,38.7311532886929,174,Bom,Fechado dos Lados,Não,Não,LT,"108,114",276,Estrada da Amadora,Carnaxide e Queijas,n/a,2012/07
+-9.23845289188055,38.7312870492215,173,Bom,Fechado dos Lados,Não,Não,LT,"108,114",276,Estrada da Amadora,Carnaxide e Queijas,n/a,2012/07
+-9.24484535072691,38.7288513429054,791,Bom,Aberto dos Lados,Sim,Não,Vimeca,"01,07,10,12,13,15",286,Rua Aquilino Ribeiro,Carnaxide e Queijas,n/a,2012/07
+-9.24389089607936,38.7291045275033,183,Bom,Fechado dos Lados,Sim,Não,Vimeca,"01,07,10,12,13,15",286,Rua Aquilino Ribeiro,Carnaxide e Queijas,n/a,2012/07
+-9.24165537356863,38.7285096146514,182,Bom,Fechado dos Lados,Sim,Não,SCoTTURB,"01,07,10,12,13,15",286,Rua Aquilino Ribeiro,Carnaxide e Queijas,n/a,2012/07
+-9.24136942845867,38.7282075919324,181,Bom,Aberto dos Lados,Sim,Não,Vimeca,"01,07,10,12,13,15",286,Rua Aquilino Ribeiro,Carnaxide e Queijas,n/a,2012/07
+-9.24008182277744,38.7276631096411,180,Bom,Fechado dos Lados,Sim,Não,Vimeca,"01,07,10,12,13,15",286,Rua Aquilino Ribeiro,Carnaxide e Queijas,n/a,2012/07
+-9.24482767835802,38.72262099283,249,Bom,Fechado dos Lados,Sim,Não,Vimeca,"01,13,15",297,Rua Carlos Wallenstein,Carnaxide e Queijas,n/a,2012/07
+-9.21775552463084,38.7270950193578,621,Razoável,Fechado dos Lados,Sim,Sim,n/a,Carreira do Alegro,300,Avenida dos Cavaleiros,Carnaxide e Queijas,n/a,2012/07
+-9.22142654147405,38.7284271163606,593,Bom,Sem Abrigo,Não,Não,Vimeca,01,300,Avenida dos Cavaleiros,Carnaxide e Queijas,n/a,2012/07
+-9.21862001684812,38.7286205762237,499,Bom,Fechado dos Lados,Sim,Sim,Vimeca,01,300,Avenida dos Cavaleiros,Carnaxide e Queijas,n/a,2012/07
+-9.24910488923964,38.725095128674,813,Bom,Fechado dos Lados,Sim,Não,LT,"102,108",303,Rua Cinco de Outubro,Carnaxide e Queijas,n/a,2012/07
+-9.24910488923964,38.725095128674,243,Bom,Fechado dos Lados,Sim,Não,Vimeca,"02,12,13,15",303,Rua Cinco de Outubro,Carnaxide e Queijas,n/a,2012/07
+-9.24978445715777,38.7246283405494,806,Bom,Sem Abrigo,Não,Não,Vimeca,12,308,Estrada do Desvio,Carnaxide e Queijas,n/a,2012/07
+-9.24763718635929,38.7237720122922,236,Bom,Sem Abrigo,Não,Não,LT,"102,108",308,Estrada do Desvio,Carnaxide e Queijas,n/a,2012/07
+-9.24978445715777,38.7246283405494,235,Bom,Sem Abrigo,Não,Não,LT,102,308,Estrada do Desvio,Carnaxide e Queijas,n/a,2012/07
+-9.24233088929189,38.726942695015,184,Bom,Fechado dos Lados,Sim,Não,COMBUS,n/a,301,Rua Cesário Verde,Carnaxide e Queijas,n/a,2012/07
+-9.23272397373721,38.7206216934878,600,Bom,Fechado dos Lados,Não,Não,Vimeca,"01,13,15",351,Rua Manuel António Rodrigues,Carnaxide e Queijas,n/a,2012/07
+-9.23252499011645,38.7206850883597,42,Bom,Sem Abrigo,Não,Não,Vimeca,"01,13,15",351,Rua Manuel António Rodrigues,Carnaxide e Queijas,n/a,2012/07
+-9.23469673835662,38.7242540790502,1002,Bom,Fechado dos Lados,Sim,Sim,LT,114,327,Avenida do Forte,Carnaxide e Queijas,n/a,2012/07
+-9.23491283410542,38.7202055513563,1001,Bom,Fechado dos Lados,Sim,Sim,Vimeca,"02,07,10,12",327,Avenida do Forte,Carnaxide e Queijas,n/a,2012/07
+-9.23491283410542,38.7202055513563,986,Bom,Fechado dos Lados,Sim,Sim,LT,114,327,Avenida do Forte,Carnaxide e Queijas,n/a,2012/07
+-9.23470555580309,38.7199831199124,983,Bom,Fechado dos Lados,Sim,Sim,LT,114,327,Avenida do Forte,Carnaxide e Queijas,n/a,2012/07
+-9.23504389546212,38.7236181884932,977,Bom,Fechado dos Lados,Sim,Sim,LT,114,327,Avenida do Forte,Carnaxide e Queijas,n/a,2012/07
+-9.23469673835662,38.7242540790502,609,Bom,Fechado dos Lados,Sim,Sim,Vimeca,"01,02,07,10,12,13,15",327,Avenida do Forte,Carnaxide e Queijas,n/a,2012/07
+-9.23470555580309,38.7199831199124,607,Bom,Fechado dos Lados,Sim,Sim,Vimeca,"02,07,10,12",327,Avenida do Forte,Carnaxide e Queijas,n/a,2012/07
+-9.23504389546212,38.7236181884932,599,Bom,Fechado dos Lados,Sim,Sim,Vimeca,"01,02,07,10,12,13,15",327,Avenida do Forte,Carnaxide e Queijas,n/a,2012/07
+-9.2268496469724,38.7247956975298,685,Bom,Sem Abrigo,Não,Não,Carris,714,347,Rua da Liberdade,Carnaxide e Queijas,n/a,2012/07
+-9.22802675399358,38.7248014051283,603,Bom,Sem Abrigo,Não,Não,Carris,714,347,Rua da Liberdade,Carnaxide e Queijas,n/a,2012/07
+-9.23681240467491,38.7287452343484,950,Bom,Fechado dos Lados,Sim,Não,LT,114,354,Rua Manuel Teixeira Gomes,Carnaxide e Queijas,n/a,2012/07
+-9.23681240467491,38.7287452343484,949,Bom,Fechado dos Lados,Sim,Não,COMBUS,n/a,354,Rua Manuel Teixeira Gomes,Carnaxide e Queijas,n/a,2012/07
+-9.23977929453553,38.7269414762231,792,Bom,Fechado dos Lados,Sim,Não,LT,114,354,Rua Manuel Teixeira Gomes,Carnaxide e Queijas,n/a,2012/07
+-9.23681240467491,38.7287452343484,595,Bom,Fechado dos Lados,Sim,Não,Vimeca,"01,02,07,10,12,13,15",354,Rua Manuel Teixeira Gomes,Carnaxide e Queijas,n/a,2012/07
+-9.23977929453553,38.7269414762231,185,Bom,Fechado dos Lados,Sim,Não,SCoTTURB,"01,02,07,10,12,13,15",354,Rua Manuel Teixeira Gomes,Carnaxide e Queijas,n/a,2012/07
+-9.23334619886585,38.7209475972035,614,Bom,Fechado dos Lados,Não,Não,Vimeca,"01,13,15",359,Rua Nossa Senhora da Conceição,Carnaxide e Queijas,n/a,2012/07
+-9.23344563980263,38.7208113638487,46,Bom,Fechado dos Lados,Sim,Não,Vimeca,"01,13,15",359,Rua Nossa Senhora da Conceição,Carnaxide e Queijas,n/a,2012/07
+-9.22235679638225,38.7235463030281,41,Bom,Fechado dos Lados,Não,Não,COMBUS,n/a,1173,Rua António Navarro,Carnaxide e Queijas,Placa pouco legível,2012/07
+-9.23081400582664,38.7204194917853,999,Bom,Fechado dos Lados,Sim,Não,n/a,n/a,1188,Avenida Edmundo Lima Basto,Carnaxide e Queijas,Paragem sem placas de operadora,2012/07
+-9.29563953199036,38.7139726316233,277,Bom,Fechado dos Lados,Não,Não,LT,"119,184",70,Rua Actor António Pinheiro,Porto Salvo,n/a,2012/07
+-9.29551720270981,38.7141075235308,276,Bom,Sem Abrigo,Não,Não,LT,"119,184",70,Rua Actor António Pinheiro,Porto Salvo,n/a,2012/07
+-9.2596663710384,38.7333251154331,1016,Bom,Sem Abrigo,Não,Não,LT,102,1214,Estrada de Queluz,Carnaxide e Queijas,n/a,2012/07
+-9.25979144491597,38.7334250833235,1015,Bom,Sem Abrigo,Não,Não,LT,102,1214,Estrada de Queluz,Carnaxide e Queijas,n/a,2012/07
+-9.25979144491597,38.7334250833235,1014,Bom,Sem Abrigo,Não,Não,Vimeca,12,1214,Estrada de Queluz,Carnaxide e Queijas,n/a,2012/07
+-9.25324055772469,38.7252021315352,815,Bom,Fechado dos Lados,Sim,Não,LT,102,1214,Estrada de Queluz,Carnaxide e Queijas,n/a,2012/07
+-9.25315270754737,38.7250844306234,814,Bom,Fechado dos Lados,Sim,Não,LT,102,1214,Estrada de Queluz,Carnaxide e Queijas,n/a,2012/07
+-9.25842275330145,38.7307693505743,789,Bom,Sem Abrigo,Não,Não,LT,102,1214,Estrada de Queluz,Carnaxide e Queijas,n/a,2012/07
+-9.25866034707967,38.7308576814608,788,Bom,Fechado dos Lados,Sim,Não,Vimeca,12,1214,Estrada de Queluz,Carnaxide e Queijas,n/a,2012/07
+-9.25981612126633,38.7363278730447,742,Bom,Fechado dos Lados,Sim,Não,Vimeca,12,1214,Estrada de Queluz,Carnaxide e Queijas,n/a,2012/07
+-9.25977032584415,38.7364582066193,741,Bom,Sem Abrigo,Não,Não,Vimeca,12,1214,Estrada de Queluz,Carnaxide e Queijas,n/a,2012/07
+-9.25315270754737,38.7250844306234,245,Bom,Fechado dos Lados,Sim,Não,Vimeca,02,1214,Estrada de Queluz,Carnaxide e Queijas,n/a,2012/07
+-9.25324055772469,38.7252021315352,244,Bom,Fechado dos Lados,Sim,Não,Vimeca,02,1214,Estrada de Queluz,Carnaxide e Queijas,n/a,2012/07
+-9.25842275330145,38.7307693505743,170,Bom,Sem Abrigo,Não,Não,Vimeca,12,1214,Estrada de Queluz,Carnaxide e Queijas,n/a,2012/07
+-9.25866034707967,38.7308576814608,169,Bom,Fechado dos Lados,Sim,Não,LT,102,1214,Estrada de Queluz,Carnaxide e Queijas,n/a,2012/07
+-9.25977032584415,38.7364582066193,158,Bom,Sem Abrigo,Não,Não,LT,102,1214,Estrada de Queluz,Carnaxide e Queijas,n/a,2012/07
+-9.25981612126633,38.7363278730447,157,Bom,Fechado dos Lados,Sim,Não,LT,102,1214,Estrada de Queluz,Carnaxide e Queijas,n/a,2012/07
+-9.25966602767222,38.7333248544229,68,Bom,Sem Abrigo,Não,Não,Vimeca,12,1214,Estrada de Queluz,Carnaxide e Queijas,n/a,2012/07
+-9.30778046502247,38.72240406433,206,Bom,Fechado dos Lados,Não,Sim,LT,"122,129,184",690,Rua do Comércio,Porto Salvo,n/a,2012/07
+-9.2920922278574,38.7210572447995,694,Bom,Sem Abrigo,Não,Não,LT,119,679,Rua Artur Moura,Porto Salvo,n/a,2012/07
+-9.30677239072161,38.7173852412722,197,Bom,Sem Abrigo,Não,Não,LT,"122,129",687,Rua do Casal do Deserto,Porto Salvo,n/a,2012/07
+-9.30618548945356,38.7170581144269,196,Bom,Sem Abrigo,Não,Não,LT,"122,129",687,Rua do Casal do Deserto,Porto Salvo,n/a,2012/07
+-9.30280095099989,38.7217497663702,797,Bom,Fechado dos Lados,Sim,Não,LT,"106,112,125,129,184",692,Rua Conde de Rio Maior,Porto Salvo,n/a,2012/07
+-9.30232685655693,38.7174235712894,796,Bom,Fechado dos Lados,Sim,Não,LT,"106,112,125,129,184",692,Rua Conde de Rio Maior,Porto Salvo,n/a,2012/07
+-9.30238797073499,38.7189584255547,795,Bom,Fechado dos Lados,Sim,Sim,LT,"106,112,125,129,184",692,Rua Conde de Rio Maior,Porto Salvo,n/a,2012/07
+-9.30280095099989,38.7217497663702,205,Bom,Fechado dos Lados,Sim,Não,Vimeca,15,692,Rua Conde de Rio Maior,Porto Salvo,n/a,2012/07
+-9.30232685655693,38.7174235712894,193,Bom,Fechado dos Lados,Sim,Não,Vimeca,15,692,Rua Conde de Rio Maior,Porto Salvo,n/a,2012/07
+-9.30222469275538,38.7190554833043,192,Bom,Sem Abrigo,Não,Não,Vimeca,15,692,Rua Conde de Rio Maior,Porto Salvo,n/a,2012/07
+-9.30223246053208,38.7190536617044,191,Bom,Sem Abrigo,Não,Não,LT,"106,112,125,129,184",692,Rua Conde de Rio Maior,Porto Salvo,n/a,2012/07
+-9.30238797073499,38.7189584255547,190,Bom,Fechado dos Lados,Sim,Sim,SCoTTURB,15,692,Rua Conde de Rio Maior,Porto Salvo,n/a,2012/07
+-9.24026342270322,38.726579464001,790,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,1142,Rua Vinte e Cinco de Abril,Carnaxide e Queijas,n/a,2012/07
+-9.24029429572471,38.7265283659246,179,Bom,Fechado dos Lados,Não,Não,COMBUS,n/a,1142,Rua Vinte e Cinco de Abril,Carnaxide e Queijas,n/a,2012/07
+-9.30629507941927,38.7344961320721,731,Bom,Sem Abrigo,Não,Não,LT,119,711,Rua Fernando Sabido,Porto Salvo,n/a,2012/07
+-9.28207450283458,38.7059872790252,433,Bom,Aberto dos Lados,Não,Não,LT,158,863,Rua dos Cedros,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.24599969357356,38.725361275903,817,Bom,Fechado dos Lados,Não,Não,LT,"102,108",362,Largo da Pátria Nova,Carnaxide e Queijas,n/a,2012/07
+-9.24599969357356,38.725361275903,248,Bom,Fechado dos Lados,Não,Não,Vimeca,"02,12,13,15",362,Largo da Pátria Nova,Carnaxide e Queijas,n/a,2012/07
+-9.23129785170241,38.7243106489802,982,Bom,Fechado dos Lados,Sim,Não,COMBUS,n/a,361,Estrada de Outurela,Carnaxide e Queijas,n/a,2012/07
+-9.2314837397654,38.7245252703199,981,Bom,Fechado dos Lados,Sim,Não,COMBUS,n/a,361,Estrada de Outurela,Carnaxide e Queijas,n/a,2012/07
+-9.23129785170241,38.7243106489802,606,Bom,Fechado dos Lados,Sim,Não,Vimeca,10,361,Estrada de Outurela,Carnaxide e Queijas,n/a,2012/07
+-9.2314837397654,38.7245252703199,605,Bom,Fechado dos Lados,Sim,Não,Vimeca,10,361,Estrada de Outurela,Carnaxide e Queijas,n/a,2012/07
+-9.24259004860679,38.7246951301574,256,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,361,Estrada de Outurela,Carnaxide e Queijas,Placa pouco legível,2012/07
+-9.27404345032004,38.6994250908906,410,Bom,Fechado dos Lados,Não,Não,LT,158,898,Estrada da Gibalta,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.27406124044368,38.6989025535825,409,Bom,Fechado dos Lados,Sim,Não,LT,"108,117",898,Estrada da Gibalta,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.27374753281646,38.6991620670831,275,Bom,Fechado dos Lados,Sim,Não,LT,158,898,Estrada da Gibalta,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.27498657112539,38.7069876205404,884,Bom,Sem Abrigo,Não,Não,LT,158,871,Rua Dom Francisco de Almeida,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.27256030671282,38.7148243583025,452,Bom,Sem Abrigo,Não,Não,LT,117,925,Estrada do Murganhal,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.26954583625167,38.7076949234013,445,Bom,Fechado dos Lados,Sim,Não,LT,117,925,Estrada do Murganhal,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.26956652770203,38.7077892142503,444,Bom,Sem Abrigo,Não,Não,LT,117,925,Estrada do Murganhal,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.2718613994868,38.7131080652766,322,Bom,Fechado dos Lados,Sim,Não,LT,117,925,Estrada do Murganhal,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.27136902913776,38.712770383289,321,Bom,Fechado dos Lados,Não,Não,LT,117,925,Estrada do Murganhal,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.27030720563905,38.7081797073172,316,Bom,Fechado dos Lados,Sim,Não,LT,158,925,Estrada do Murganhal,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.27565074894872,38.7177250639708,214,Bom,Sem Abrigo,Não,Não,LT,117,925,Estrada do Murganhal,Barcarena,n/a,2012/07
+-9.27601321627596,38.7129352271964,308,Bom,Fechado dos Lados,Não,Não,LT,158,932,Rua da Pedreira Italiana,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.27501862248312,38.7119460705314,307,Bom,Sem Abrigo,Não,Não,LT,158,932,Rua da Pedreira Italiana,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.2711407820611,38.7110862537248,320,Bom,Fechado dos Lados,Sim,Não,LT,"108,117,115,158",936,Largo da Quinta do Jardim,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.27522705426384,38.7091930505255,299,Bom,Fechado dos Lados,Não,Não,LT,"117,158",1805,Rua Dona Simoa Godinho,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.24322886950742,38.7259173700217,823,Bom,Fechado dos Lados,Sim,Não,LT,114,1113,Avenida de Portugal,Carnaxide e Queijas,n/a,2012/07
+-9.23905382461478,38.725973156625,818,Bom,Fechado dos Lados,Sim,Não,LT,114,1113,Avenida de Portugal,Carnaxide e Queijas,n/a,2012/07
+-9.24348805428436,38.726177035581,807,Bom,Fechado dos Lados,Sim,Não,LT,114,1113,Avenida de Portugal,Carnaxide e Queijas,n/a,2012/07
+-9.2368550304142,38.7265232364754,710,Bom,Fechado dos Lados,Sim,Não,LT,114,1113,Avenida de Portugal,Carnaxide e Queijas,n/a,2012/07
+-9.24445653118679,38.7267942351972,693,Bom,Fechado dos Lados,Sim,Não,LT,108,1113,Avenida de Portugal,Carnaxide e Queijas,n/a,2012/07
+-9.24442718226963,38.7265624731953,692,Bom,Fechado dos Lados,Sim,Não,Carris,108,1113,Avenida de Portugal,Carnaxide e Queijas,n/a,2012/07
+-9.24322886950742,38.7259173700217,261,Bom,Fechado dos Lados,Sim,Não,Vimeca,"01,02,10",1113,Avenida de Portugal,Carnaxide e Queijas,n/a,2012/07
+-9.23905382461478,38.725973156625,250,Bom,Fechado dos Lados,Sim,Não,Vimeca,"01,02,07,10,12,13,15",1113,Avenida de Portugal,Carnaxide e Queijas,n/a,2012/07
+-9.24348805428436,38.726177035581,237,Bom,Fechado dos Lados,Sim,Não,Vimeca,02,1113,Avenida de Portugal,Carnaxide e Queijas,n/a,2012/07
+-9.24653016377546,38.7280444229828,178,Bom,Fechado dos Lados,Sim,Não,LT,"108,114",1113,Avenida de Portugal,Carnaxide e Queijas,n/a,2012/07
+-9.24661105614487,38.728136612979,177,Bom,Sem Abrigo,Não,Não,LT,"108,114",1113,Avenida de Portugal,Carnaxide e Queijas,n/a,2012/07
+-9.2368550304142,38.7265232364754,107,Bom,Fechado dos Lados,Sim,Não,Vimeca,"01,02,07,10,12,13,15",1113,Avenida de Portugal,Carnaxide e Queijas,n/a,2012/07
+-9.24442718226963,38.7265624731953,90,Bom,Fechado dos Lados,Sim,Não,Vimeca,"07,12,13,15",1113,Avenida de Portugal,Carnaxide e Queijas,n/a,2012/07
+-9.24445653118679,38.7267942351972,89,Bom,Fechado dos Lados,Sim,Não,Vimeca,"01,07,10,12,13,15",1113,Avenida de Portugal,Carnaxide e Queijas,n/a,2012/07
+-9.27841231599867,38.7317357716398,691,Bom,Sem Abrigo,Não,Não,LT,"117,171",964,Jardim Público,Barcarena,n/a,2012/07
+-9.31169462979135,38.7147018492193,269,Bom,Sem Abrigo,Não,Não,LT,"122,129",755,Rua Oliveira Martins,Porto Salvo,n/a,2012/07
+-9.31148905254006,38.7146174468617,268,Bom,Fechado dos Lados,Sim,Não,LT,"122,129",755,Rua Oliveira Martins,Porto Salvo,n/a,2012/07
+-9.3110077262463,38.7167226399358,189,Bom,Sem Abrigo,Não,Não,LT,"122,129",755,Rua Oliveira Martins,Porto Salvo,n/a,2012/07
+-9.31104590246421,38.7165548008019,188,Bom,Sem Abrigo,Não,Não,LT,"122,129",755,Rua Oliveira Martins,Porto Salvo,n/a,2012/07
+-9.30579068340408,38.7225608692658,212,Bom,Sem Abrigo,Não,Não,LT,122,1631,Rua Sete de Junho,Porto Salvo,n/a,2012/07
+-9.30612103162055,38.7222863311194,201,Bom,Sem Abrigo,Não,Não,LT,122,1631,Rua Sete de Junho,Porto Salvo,n/a,2012/07
+-9.30759290800098,38.7217990054961,200,Bom,Sem Abrigo,Não,Não,LT,"122,129",1631,Rua Sete de Junho,Porto Salvo,n/a,2012/07
+-9.30692460125216,38.734214355219,1000,Bom,Fechado dos Lados,Sim,Não,n/a,n/a,1634,Estrada de Talaíde,Porto Salvo,Paragem sem placas de operadora,2012/07
+-9.30696593101378,38.7342380809511,753,Bom,Fechado dos Lados,Sim,Sim,LT,"125,184",1634,Estrada de Talaíde,Porto Salvo,n/a,2012/07
+-9.30428544405691,38.7327256335175,750,Bom,Fechado dos Lados,Não,Não,LT,"119,125",1634,Estrada de Talaíde,Porto Salvo,n/a,2012/07
+-9.30467311857926,38.7330497209715,749,Bom,Sem Abrigo,Não,Não,LT,"119,125",1634,Estrada de Talaíde,Porto Salvo,n/a,2012/07
+-9.30210614152403,38.7303113002656,748,Bom,Fechado dos Lados,Não,Não,LT,"119,125",1634,Estrada de Talaíde,Porto Salvo,n/a,2012/07
+-9.31019670384825,38.7366856572741,730,Bom,Sem Abrigo,Não,Não,LT,"125,184",1634,Estrada de Talaíde,Porto Salvo,n/a,2012/07
+-9.30717815914592,38.7345288815026,721,Bom,Fechado dos Lados,Sim,Não,LT,"125,184",1634,Estrada de Talaíde,Porto Salvo,n/a,2012/07
+-9.31038939987929,38.7366357426819,133,Bom,Fechado dos Lados,Não,Não,LT,"125,184",1634,Estrada de Talaíde,Porto Salvo,n/a,2012/07
+-9.31509989318845,38.7308936894668,746,Bom,Sem Abrigo,Não,Não,LT,122,1652,Avenida Diogo Lopes de Sequeira,Porto Salvo,n/a,2012/07
+-9.31519035545162,38.7306609152748,165,Bom,Fechado dos Lados,Não,Não,LT,122,1652,Avenida Diogo Lopes de Sequeira,Porto Salvo,n/a,2012/07
+-9.31356688595995,38.7303440343056,164,Bom,Fechado dos Lados,Não,Sim,LT,122,1652,Avenida Diogo Lopes de Sequeira,Porto Salvo,n/a,2012/07
+-9.3134917410259,38.7304527059716,163,Bom,Fechado dos Lados,Não,Não,LT,122,1652,Avenida Diogo Lopes de Sequeira,Porto Salvo,n/a,2012/07
+-9.3172466326638,38.7307233350241,747,Bom,Fechado dos Lados,Não,Sim,Carris,122,1653,Avenida Gaspar Corte Real,Porto Salvo,n/a,2012/07
+-9.26351919981995,38.7219864943543,801,Bom,Sem Abrigo,Não,Não,LT,"102,108",833,Rua Mouzinho da Silveira,Carnaxide e Queijas,n/a,2012/07
+-9.26351919981995,38.7219864943543,230,Bom,Sem Abrigo,Não,Não,Vimeca,"02,06,13,15",833,Rua Mouzinho da Silveira,Carnaxide e Queijas,n/a,2012/07
+-9.26365965427934,38.7209394208687,224,Bom,Sem Abrigo,Não,Não,Vimeca,"02,06,13,13D,15",833,Rua Mouzinho da Silveira,Carnaxide e Queijas,n/a,2012/07
+-9.26580547435858,38.7204227704122,800,Bom,Fechado dos Lados,Não,Não,LT,"102,108,171",846,Rua da Quinta do Bonfim,Carnaxide e Queijas,n/a,2012/07
+-9.26580547435858,38.7204227704122,226,Bom,Fechado dos Lados,Não,Não,Vimeca,"02,06,13,15",846,Rua da Quinta do Bonfim,Carnaxide e Queijas,n/a,2012/07
+-9.2658556726992,38.720667296133,225,Bom,Sem Abrigo,Não,Não,LT,171,846,Rua da Quinta do Bonfim,Carnaxide e Queijas,n/a,2012/07
+-9.31049019910839,38.7277636254359,759,Bom,Sem Abrigo,Não,Não,LT,"122,125,184",1692,Rua Augusta,Porto Salvo,n/a,2012/07
+-9.31015175346921,38.7275171585643,758,Bom,Fechado dos Lados,Não,Não,LT,"122,125,184",1692,Rua Augusta,Porto Salvo,n/a,2012/07
+-9.3098680682372,38.725070985196,204,Bom,Fechado dos Lados,Não,Não,LT,"122,125,184",1692,Rua Augusta,Porto Salvo,n/a,2012/07
+-9.30998102736681,38.7250173328115,203,Bom,Sem Abrigo,Não,Não,LT,"122,125,184",1692,Rua Augusta,Porto Salvo,n/a,2012/07
+-9.25810147973822,38.7195968303797,229,Bom,Fechado dos Lados,Não,Não,LT,"102,171",1767,Rua Augusto Fraga,Carnaxide e Queijas,n/a,2012/07
+-9.24514331180016,38.7098372478153,851,Bom,Fechado dos Lados,Sim,Não,COMBUS,n/a,411,Avenida Dom Pedro V,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",Placa pouco legível,2012/07
+-9.24539223811399,38.7100021552645,850,Bom,Fechado dos Lados,Sim,Não,COMBUS,n/a,411,Avenida Dom Pedro V,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",Placa pouco legível,2012/07
+-9.24619229737032,38.7112929291402,689,Bom,Fechado dos Lados,Sim,Não,COMBUS,n/a,411,Avenida Dom Pedro V,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24464751612745,38.7079919344579,366,Bom,Fechado dos Lados,Sim,Não,Vimeca,01,411,Avenida Dom Pedro V,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24452606117858,38.7080403801849,365,Bom,Fechado dos Lados,Sim,Não,Vimeca,01,411,Avenida Dom Pedro V,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24514331180016,38.7098372478153,342,Bom,Fechado dos Lados,Sim,Não,Vimeca,"01,02,11,13",411,Avenida Dom Pedro V,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24539223811399,38.7100021552645,341,Bom,Fechado dos Lados,Sim,Não,Vimeca,"01,02,11",411,Avenida Dom Pedro V,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24612586739185,38.7114351645754,86,Bom,Fechado dos Lados,Sim,Não,Vimeca,"01,02,11,13",411,Avenida Dom Pedro V,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24619229737032,38.7112929291402,85,Bom,Fechado dos Lados,Sim,Não,Vimeca,"01,02,11",411,Avenida Dom Pedro V,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24004281688457,38.7171535236361,253,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,406,Rua Almeida Garrett,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",Placa pouco legível,2012/07
+-9.24012602749704,38.7170694134037,252,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,406,Rua Almeida Garrett,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",Placa pouco legível,2012/07
+-9.3064352670159,38.74359038284,707,Bom,Fechado dos Lados,Não,Não,LT,119,1668,Avenida Engenheiro Valente de Oliveira,Porto Salvo,n/a,2012/07
+-9.30892561112246,38.7377948200582,132,Bom,Sem Abrigo,Não,Não,LT,119,1668,Avenida Engenheiro Valente de Oliveira,Porto Salvo,n/a,2012/07
+-9.3064352670159,38.74359038284,100,Bom,Fechado dos Lados,Não,Não,Vimeca,23,1668,Avenida Engenheiro Valente de Oliveira,Porto Salvo,n/a,2012/07
+-9.30652954188883,38.743651139421,99,Bom,Fechado dos Lados,Não,Não,LT,119,1668,Avenida Engenheiro Valente de Oliveira,Porto Salvo,n/a,2012/07
+-9.30562932397189,38.73448236444,720,Bom,Fechado dos Lados,Não,Sim,Vimeca,23,1670,Avenida Domingos Vandelli,Porto Salvo,n/a,2012/07
+-9.30631976598876,38.7346694636253,130,Bom,Sem Abrigo,Não,Não,LT,119,1670,Avenida Domingos Vandelli,Porto Salvo,n/a,2012/07
+-9.23744907465495,38.7152277693644,349,Bom,Fechado dos Lados,Sim,Não,Vimeca,"10,12",407,Rua Amaro Monteiro,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24320650990265,38.7166805696967,862,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,425,Rua do Brasil,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24220939411084,38.7170013854822,369,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,425,Rua do Brasil,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",Placa pouco legível,2012/07
+-9.24323207854097,38.7167687354516,358,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,425,Rua do Brasil,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23442553269208,38.7256132108965,954,Bom,Fechado dos Lados,Sim,Não,LT,114,1116,Avenida Professor Dr. Reinaldo dos Santos,Carnaxide e Queijas,n/a,2012/07
+-9.23442553269208,38.7256132108965,953,Bom,Fechado dos Lados,Sim,Não,Vimeca,"01,02,07,10,12,13,15",1116,Avenida Professor Dr. Reinaldo dos Santos,Carnaxide e Queijas,n/a,2012/07
+-9.23421589488577,38.7273805363478,948,Bom,Fechado dos Lados,Não,Sim,COMBUS,n/a,1116,Avenida Professor Dr. Reinaldo dos Santos,Carnaxide e Queijas,Placa pouco legível,2012/07
+-9.23421589488577,38.7273805363478,947,Bom,Fechado dos Lados,Não,Sim,LT,114,1116,Avenida Professor Dr. Reinaldo dos Santos,Carnaxide e Queijas,n/a,2012/07
+-9.23442553269208,38.7256132108965,598,Bom,Fechado dos Lados,Sim,Não,COMBUS,n/a,1116,Avenida Professor Dr. Reinaldo dos Santos,Carnaxide e Queijas,Placa pouco legível,2012/07
+-9.23421589488577,38.7273805363478,594,Bom,Fechado dos Lados,Não,Sim,Vimeca,"01,02,07,10,12,13,15",1116,Avenida Professor Dr. Reinaldo dos Santos,Carnaxide e Queijas,n/a,2012/07
+-9.31078231604013,38.7141269786845,827,Bom,Fechado dos Lados,Sim,Sim,LT,"112,122,129",1680,Rua Encosta das Lagoas,Porto Salvo,n/a,2012/07
+-9.31247054236266,38.7100190780856,272,Bom,Sem Abrigo,Não,Não,LT,112,1680,Rua Encosta das Lagoas,Porto Salvo,n/a,2012/07
+-9.31240548530165,38.7098379573044,271,Bom,Fechado dos Lados,Não,Não,LT,112,1680,Rua Encosta das Lagoas,Porto Salvo,n/a,2012/07
+-9.31078231604013,38.7141269786845,270,Bom,Fechado dos Lados,Sim,Sim,Vimeca,15,1680,Rua Encosta das Lagoas,Porto Salvo,n/a,2012/07
+-9.31135208178237,38.7140128743155,266,Bom,Fechado dos Lados,Sim,Sim,LT,"112,122,129",1680,Rua Encosta das Lagoas,Porto Salvo,n/a,2012/07
+-9.31078486373598,38.7254273777782,166,Bom,Sem Abrigo,Não,Não,LT,"122,125,184",1698,Rua de São José,Porto Salvo,n/a,2012/07
+-9.30191393355183,38.7298779673507,757,Bom,Sem Abrigo,Não,Não,LT,"119,125",1661,Rua Henrique Marques,Porto Salvo,n/a,2012/07
+-9.27815070003774,38.7317651777435,766,Bom,Fechado dos Lados,Sim,Não,LT,"117,171",210,Largo Cinco de Outubro,Barcarena,n/a,2012/07
+-9.26794633792211,38.7427654898043,745,Bom,Fechado dos Lados,Não,Não,Vimeca,"02,06,12,13",216,Estrada Consiglieri Pedroso,Barcarena,n/a,2012/07
+-9.26794633792211,38.7427654898043,744,Bom,Fechado dos Lados,Não,Não,LT,"101,102,106,171",216,Estrada Consiglieri Pedroso,Barcarena,n/a,2012/07
+-9.26938175492212,38.7418933286168,736,Bom,Fechado dos Lados,Sim,Não,Vimeca,"02,06,12,13",216,Estrada Consiglieri Pedroso,Barcarena,n/a,2012/07
+-9.26970181154578,38.7416444850567,735,Bom,Aberto dos Lados,Não,Não,COMBUS,n/a,216,Estrada Consiglieri Pedroso,Barcarena,n/a,2012/07
+-9.26694091421029,38.7443030974795,715,Bom,Fechado dos Lados,Sim,Sim,LT,"101,102,106,171",216,Estrada Consiglieri Pedroso,Barcarena,n/a,2012/07
+-9.26658826725486,38.7444562267918,714,Bom,Fechado dos Lados,Sim,Sim,Vimeca,12,216,Estrada Consiglieri Pedroso,Barcarena,n/a,2012/07
+-9.26523858594872,38.7459328885984,713,Bom,Fechado dos Lados,Sim,Sim,Vimeca,12,216,Estrada Consiglieri Pedroso,Barcarena,n/a,2012/07
+-9.26524890744805,38.7461409895076,712,Bom,Sem Abrigo,Não,Não,SCoTTURB,12,216,Estrada Consiglieri Pedroso,Barcarena,n/a,2012/07
+-9.26524890744805,38.7461409895076,711,Bom,Sem Abrigo,Não,Não,LT,"101,102,106,171",216,Estrada Consiglieri Pedroso,Barcarena,n/a,2012/07
+-9.26938175492212,38.7418933286168,152,Bom,Fechado dos Lados,Sim,Não,LT,"101,102,106,171",216,Estrada Consiglieri Pedroso,Barcarena,n/a,2012/07
+-9.27296027943603,38.7402737506937,146,Bom,Sem Abrigo,Não,Não,LT,"101,106,171",216,Estrada Consiglieri Pedroso,Barcarena,n/a,2012/07
+-9.27336496646707,38.7402201708381,145,Bom,Fechado dos Lados,Sim,Não,LT,"101,106,171",216,Estrada Consiglieri Pedroso,Barcarena,n/a,2012/07
+-9.26694091421029,38.7443030974795,128,Bom,Fechado dos Lados,Sim,Sim,Vimeca,"12,02,06,13",216,Estrada Consiglieri Pedroso,Barcarena,n/a,2012/07
+-9.26658826725486,38.7444562267918,127,Bom,Fechado dos Lados,Sim,Sim,LT,"101,102,106,171",216,Estrada Consiglieri Pedroso,Barcarena,n/a,2012/07
+-9.26523858594872,38.7459328885984,125,Bom,Fechado dos Lados,Sim,Sim,LT,"101,102,106,171",216,Estrada Consiglieri Pedroso,Barcarena,n/a,2012/07
+-9.30665265500868,38.6959916808799,934,Bom,Fechado dos Lados,Sim,Sim,LT,115,1325,Rua da Figueirinha,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30618769965354,38.6972574392593,540,Bom,Fechado dos Lados,Sim,Sim,LT,"106,111,112,115,122",1325,Rua da Figueirinha,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30804432788277,38.6938316851215,538,Bom,Fechado dos Lados,Sim,Não,LT,"106,112,122",1325,Rua da Figueirinha,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30665265500868,38.6959916808799,537,Bom,Fechado dos Lados,Não,Sim,SCoTTURB,471,1325,Rua da Figueirinha,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.27718481291197,38.7420369124379,136,Bom,Sem Abrigo,Não,Não,LT,"101,171",219,Estrada da Cruz dos Cavalinhos,Barcarena,n/a,2012/07
+-9.27726933671882,38.7422306526646,135,Bom,Sem Abrigo,Não,Não,LT,"101,171",219,Estrada da Cruz dos Cavalinhos,Barcarena,n/a,2012/07
+-9.27933608767702,38.7437203736147,134,Bom,Fechado dos Lados,Sim,Não,LT,"101,171",219,Estrada da Cruz dos Cavalinhos,Barcarena,n/a,2012/07
+-9.23540514794137,38.7119919894148,649,Bom,Fechado dos Lados,Sim,Não,COMBUS,n/a,430,Avenida Carolina Michaelis,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",Placa pouco legível,2012/07
+-9.23577474102201,38.7119300433865,648,Bom,Aberto dos Lados,Não,Não,COMBUS,n/a,430,Avenida Carolina Michaelis,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23321608642954,38.7122916631058,647,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,430,Avenida Carolina Michaelis,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",Placa pouco legível,2012/07
+-9.23694788146144,38.7124158450113,362,Bom,Fechado dos Lados,Sim,Não,Vimeca,"10,11,12",430,Avenida Carolina Michaelis,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23704926408299,38.712668638313,361,Bom,Fechado dos Lados,Não,Não,Vimeca,"10,12",430,Avenida Carolina Michaelis,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23720163515922,38.7154210723018,359,Bom,Fechado dos Lados,Sim,Não,Vimeca,"10,12",430,Avenida Carolina Michaelis,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23329102434337,38.7123525729868,37,Bom,Fechado dos Lados,Sim,Não,Vimeca,"10,12",430,Avenida Carolina Michaelis,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23577474102201,38.7119300433865,28,Bom,Aberto dos Lados,Não,Não,Vimeca,"10,11,12",430,Avenida Carolina Michaelis,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23540514794137,38.7119919894148,27,Bom,Fechado dos Lados,Sim,Não,Vimeca,"10,11,12,13",430,Avenida Carolina Michaelis,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23321608642954,38.7122916631058,26,Bom,Sem Abrigo,Não,Não,Vimeca,"10,11,12,13",430,Avenida Carolina Michaelis,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24528273791137,38.7131073835834,848,Bom,Fechado dos Lados,Sim,Não,COMBUS,n/a,432,Calçada do Chafariz,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24588475233098,38.7127384597457,347,Bom,Fechado dos Lados,Sim,Não,Vimeca,"01,02,11",432,Calçada do Chafariz,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24528273791137,38.7131073835834,339,Bom,Fechado dos Lados,Sim,Não,Vimeca,"01,02,11,13",432,Calçada do Chafariz,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23735893250774,38.7114691137967,855,Bom,Aberto dos Lados,Não,Não,COMBUS,n/a,442,Rua Domingos Fernandes,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23735893250774,38.7114691137967,348,Bom,Aberto dos Lados,Não,Não,Vimeca,11,442,Rua Domingos Fernandes,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24332663862521,38.7077641556809,909,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,477,Rua Luz Soriano,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",Placa pouco legível,2012/07
+-9.24350198517021,38.707580262062,849,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,477,Rua Luz Soriano,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24332663862521,38.7077641556809,492,Bom,Sem Abrigo,Não,Não,Vimeca,"11,13",477,Rua Luz Soriano,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24350198517021,38.707580262062,340,Bom,Sem Abrigo,Não,Não,Vimeca,11,477,Rua Luz Soriano,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24185216086711,38.7037763263703,488,Bom,Sem Abrigo,Não,Não,Vimeca,"01,11",1292,Rua Manuel Ferreira,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24172156612279,38.7041631002066,487,Bom,Sem Abrigo,Não,Não,Vimeca,"01,11,13",1292,Rua Manuel Ferreira,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24200000262893,38.7057714214144,468,Bom,Fechado dos Lados,Sim,Não,Vimeca,"01,11,13",1292,Rua Manuel Ferreira,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24270186117687,38.7059744651245,460,Bom,Fechado dos Lados,Sim,Não,Vimeca,"01,13",1292,Rua Manuel Ferreira,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.29389732552407,38.7158820283336,258,Bom,Sem Abrigo,Não,Não,Carris,"119,184",1640,Avenida Vinte e Cinco de Abril,Porto Salvo,n/a,2012/07
+-9.29377881840563,38.716026158484,257,Bom,Sem Abrigo,Não,Não,LT,"119,184",1640,Avenida Vinte e Cinco de Abril,Porto Salvo,n/a,2012/07
+-9.29095549330543,38.7189118741549,222,Bom,Sem Abrigo,Não,Não,LT,119,1640,Avenida Vinte e Cinco de Abril,Porto Salvo,n/a,2012/07
+-9.29096658587462,38.7204400245575,213,Bom,Fechado dos Lados,Não,Não,LT,119,1640,Avenida Vinte e Cinco de Abril,Porto Salvo,n/a,2012/07
+-9.29280228049683,38.7176304976012,109,Bom,Fechado dos Lados,Não,Sim,LT,"119,184",1640,Avenida Vinte e Cinco de Abril,Porto Salvo,n/a,2012/07
+-9.29254824420108,38.7175063678632,108,Bom,Fechado dos Lados,Não,Não,LT,"119,184",1640,Avenida Vinte e Cinco de Abril,Porto Salvo,n/a,2012/07
+-9.27650906690795,38.7301923653187,765,Bom,Fechado dos Lados,Sim,Não,LT,"171,117",230,Rua Elias Garcia,Barcarena,"117, (Placa tapada, paragem possivelmente desativada)",2012/07
+-9.2764990627858,38.7299832125253,764,Bom,Sem Abrigo,Não,Não,LT,"171,117",230,Rua Elias Garcia,Barcarena,"117, (Placa tapada, paragem possivelmente desativada)",2012/07
+-9.2762847662204,38.7043664167469,432,Bom,Aberto dos Lados,Não,Não,LT,115,899,Rua de Goa,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.27840257698847,38.7035142695739,424,Bom,Aberto dos Lados,Não,Não,LT,115,899,Rua de Goa,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.24038184328034,38.7108020485667,847,Bom,Aberto dos Lados,Não,Não,COMBUS,n/a,1251,Rua Pedro Álvares Cabral,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24038184328034,38.7108020485667,846,Bom,Aberto dos Lados,Não,Não,LT,114,1251,Rua Pedro Álvares Cabral,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.2405615989556,38.710746479186,845,Bom,Aberto dos Lados,Não,Não,LT,114,1251,Rua Pedro Álvares Cabral,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.2405615989556,38.710746479186,844,Bom,Aberto dos Lados,Não,Não,COMBUS,n/a,1251,Rua Pedro Álvares Cabral,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.2405615989556,38.710746479186,338,Bom,Aberto dos Lados,Não,Não,Vimeca,"11,13",1251,Rua Pedro Álvares Cabral,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24038184328034,38.7108020485667,337,Bom,Aberto dos Lados,Não,Não,Vimeca,11,1251,Rua Pedro Álvares Cabral,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.25404285134059,38.7159956700268,842,Bom,Fechado dos Lados,Sim,Não,LT,"102,108",1279,Avenida Tomás Ribeiro,Carnaxide e Queijas,n/a,2012/07
+-9.25385496413954,38.7160313407167,841,Bom,Fechado dos Lados,Sim,Não,LT,"102,108",1279,Avenida Tomás Ribeiro,Carnaxide e Queijas,n/a,2012/07
+-9.24288143620191,38.7105034298933,840,Bom,Fechado dos Lados,Sim,Sim,COMBUS,n/a,1279,Avenida Tomás Ribeiro,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",Placa pouco legível,2012/07
+-9.25651468902581,38.7145773544149,838,Bom,Fechado dos Lados,Sim,Não,LT,"102,108",1279,Avenida Tomás Ribeiro,Carnaxide e Queijas,n/a,2012/07
+-9.26279358596101,38.7156217492386,837,Bom,Fechado dos Lados,Sim,Não,LT,"102,108",1279,Avenida Tomás Ribeiro,Carnaxide e Queijas,n/a,2012/07
+-9.26252144043772,38.715387923674,835,Bom,Fechado dos Lados,Sim,Sim,LT,"102,108",1279,Avenida Tomás Ribeiro,Carnaxide e Queijas,n/a,2012/07
+-9.24327074139845,38.7240458708115,822,Bom,Fechado dos Lados,Sim,Sim,COMBUS,n/a,1279,Avenida Tomás Ribeiro,Carnaxide e Queijas,Placa pouco legível,2012/07
+-9.24300692044625,38.7225494764153,820,Bom,Fechado dos Lados,Sim,Sim,COMBUS,n/a,1279,Avenida Tomás Ribeiro,Carnaxide e Queijas,Placa pouco legível,2012/07
+-9.2432922944755,38.7218199264604,819,Bom,Fechado dos Lados,Sim,Sim,COMBUS,n/a,1279,Avenida Tomás Ribeiro,Carnaxide e Queijas,n/a,2012/07
+-9.24661336614821,38.7243740319028,816,Bom,Fechado dos Lados,Sim,Não,LT,"102,108",1279,Avenida Tomás Ribeiro,Carnaxide e Queijas,n/a,2012/07
+-9.2436163048761,38.7240845650633,812,Bom,Fechado dos Lados,Sim,Sim,COMBUS,n/a,1279,Avenida Tomás Ribeiro,Carnaxide e Queijas,Placa pouco legível,2012/07
+-9.25236299909261,38.7175026474768,811,Bom,Fechado dos Lados,Não,Não,LT,"102,108",1279,Avenida Tomás Ribeiro,Carnaxide e Queijas,n/a,2012/07
+-9.25230316679968,38.7174261134131,810,Bom,Sem Abrigo,Não,Não,LT,"102,108",1279,Avenida Tomás Ribeiro,Carnaxide e Queijas,n/a,2012/07
+-9.25088676162129,38.7206516693946,809,Bom,Sem Abrigo,Não,Não,LT,"102,108",1279,Avenida Tomás Ribeiro,Carnaxide e Queijas,n/a,2012/07
+-9.25074654481273,38.720699940652,808,Bom,Fechado dos Lados,Sim,Não,LT,"102,108",1279,Avenida Tomás Ribeiro,Carnaxide e Queijas,n/a,2012/07
+-9.24297203337458,38.7110835747959,367,Bom,Fechado dos Lados,Sim,Sim,LT,114,1279,Avenida Tomás Ribeiro,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24452586767662,38.7150586492548,357,Bom,Fechado dos Lados,Sim,Sim,Vimeca,01,1279,Avenida Tomás Ribeiro,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24483687043325,38.7158972027982,336,Bom,Fechado dos Lados,Sim,Não,Vimeca,01,1279,Avenida Tomás Ribeiro,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24456124847028,38.7141658179853,334,Bom,Fechado dos Lados,Sim,Sim,Vimeca,01,1279,Avenida Tomás Ribeiro,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.25385496413954,38.7160313407167,332,Bom,Fechado dos Lados,Sim,Não,Vimeca,"02,13,15",1279,Avenida Tomás Ribeiro,Carnaxide e Queijas,n/a,2012/07
+-9.25404285134059,38.7159956700268,331,Bom,Fechado dos Lados,Sim,Não,Vimeca,"02,13,15",1279,Avenida Tomás Ribeiro,Carnaxide e Queijas,n/a,2012/07
+-9.24288143620191,38.7105034298933,330,Bom,Fechado dos Lados,Sim,Sim,LT,114,1279,Avenida Tomás Ribeiro,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.25651468902581,38.7145773544149,323,Bom,Fechado dos Lados,Sim,Não,Vimeca,"02,13,15",1279,Avenida Tomás Ribeiro,Carnaxide e Queijas,n/a,2012/07
+-9.26279358596101,38.7156217492386,315,Bom,Fechado dos Lados,Sim,Não,Vimeca,"02,13,15",1279,Avenida Tomás Ribeiro,Carnaxide e Queijas,n/a,2012/07
+-9.26252144043772,38.715387923674,312,Bom,Fechado dos Lados,Não,Sim,SCoTTURB,"02,13,15",1279,Avenida Tomás Ribeiro,Carnaxide e Queijas,n/a,2012/07
+-9.24854443069409,38.7230466983123,260,Bom,Sem Abrigo,Não,Não,Vimeca,"02,15,13",1279,Avenida Tomás Ribeiro,Carnaxide e Queijas,n/a,2012/07
+-9.24327074139845,38.7240458708115,255,Bom,Fechado dos Lados,Sim,Sim,Vimeca,"01,13,15",1279,Avenida Tomás Ribeiro,Carnaxide e Queijas,n/a,2012/07
+-9.24300692044625,38.7225494764153,254,Bom,Fechado dos Lados,Sim,Sim,Vimeca,"01,13,15",1279,Avenida Tomás Ribeiro,Carnaxide e Queijas,n/a,2012/07
+-9.2432922944755,38.7218199264604,251,Bom,Fechado dos Lados,Sim,Sim,Vimeca,01,1279,Avenida Tomás Ribeiro,Carnaxide e Queijas,n/a,2012/07
+-9.24661336614821,38.7243740319028,247,Bom,Fechado dos Lados,Sim,Não,Vimeca,"02,12,13,15",1279,Avenida Tomás Ribeiro,Carnaxide e Queijas,n/a,2012/07
+-9.24838274789925,38.7232086699173,246,Bom,Sem Abrigo,Não,Não,Vimeca,"02,15,13",1279,Avenida Tomás Ribeiro,Carnaxide e Queijas,n/a,2012/07
+-9.2436163048761,38.7240845650633,242,Bom,Fechado dos Lados,Sim,Sim,Vimeca,"01,13,15",1279,Avenida Tomás Ribeiro,Carnaxide e Queijas,n/a,2012/07
+-9.25236299909261,38.7175026474768,241,Bom,Fechado dos Lados,Sim,Não,Vimeca,"02,13,15",1279,Avenida Tomás Ribeiro,Carnaxide e Queijas,n/a,2012/07
+-9.25230316679968,38.7174261134131,240,Bom,Sem Abrigo,Não,Não,Vimeca,"02,13,15",1279,Avenida Tomás Ribeiro,Carnaxide e Queijas,n/a,2012/07
+-9.25074654481273,38.720699940652,239,Bom,Fechado dos Lados,Sim,Não,Vimeca,"02,13,15",1279,Avenida Tomás Ribeiro,Carnaxide e Queijas,n/a,2012/07
+-9.25088676162129,38.7206516693946,238,Bom,Sem Abrigo,Não,Não,SCoTTURB,"02,13,15",1279,Avenida Tomás Ribeiro,Carnaxide e Queijas,n/a,2012/07
+-9.24128702718493,38.7153247688846,863,Bom,Fechado dos Lados,Sim,Sim,LT,114,1283,Avenida Vinte e Cinco de Abril de 1974,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23817444464261,38.7168627712248,859,Bom,Fechado dos Lados,Sim,Sim,Vimeca,"02,11,13",1283,Avenida Vinte e Cinco de Abril de 1974,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23814503346624,38.7166925311507,858,Bom,Fechado dos Lados,Sim,Sim,Vimeca,"02,11,13",1283,Avenida Vinte e Cinco de Abril de 1974,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24342163268579,38.7142617704031,857,Bom,Fechado dos Lados,Sim,Não,LT,114,1283,Avenida Vinte e Cinco de Abril de 1974,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.2421047539669,38.7146273760628,856,Bom,Fechado dos Lados,Sim,Não,LT,114,1283,Avenida Vinte e Cinco de Abril de 1974,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24128702718493,38.7153247688846,360,Bom,Fechado dos Lados,Sim,Sim,Vimeca,"02,11",1283,Avenida Vinte e Cinco de Abril de 1974,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23817444464261,38.7168627712248,354,Bom,Fechado dos Lados,Sim,Sim,LT,114,1283,Avenida Vinte e Cinco de Abril de 1974,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23814503346624,38.7166925311507,353,Bom,Fechado dos Lados,Sim,Sim,LT,114,1283,Avenida Vinte e Cinco de Abril de 1974,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24342163268579,38.7142617704031,352,Bom,Fechado dos Lados,Sim,Não,Vimeca,"02,11",1283,Avenida Vinte e Cinco de Abril de 1974,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.2421047539669,38.7146273760628,351,Bom,Fechado dos Lados,Sim,Não,Vimeca,"02,11,13",1283,Avenida Vinte e Cinco de Abril de 1974,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.27914180585499,38.7318536499198,821,Mau,Aberto dos Lados,Não,Não,n/a,n/a,235,Rua Felner Duarte,Barcarena,Paragem sem placas de operadora,2012/07
+-9.28004789712339,38.7326592457691,767,Bom,Fechado dos Lados,Sim,Não,LT,"117,171",235,Rua Felner Duarte,Barcarena,n/a,2012/07
+-9.2535473086451,38.7012216437599,455,Bom,Sem Abrigo,Não,Não,LT,102,373,Avenida Ferreira Godinho,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.25363862888955,38.7012689605475,454,Bom,Sem Abrigo,Não,Não,LT,102,373,Avenida Ferreira Godinho,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.25219152539733,38.7000829760202,453,Bom,Fechado dos Lados,Não,Sim,LT,102,373,Avenida Ferreira Godinho,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.25205445369203,38.70165075062,900,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,382,Avenida Pierre de Coubertin,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.25182333189878,38.701579998747,898,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,382,Avenida Pierre de Coubertin,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.25570482823552,38.7023616241272,886,Bom,Sem Abrigo,Não,Não,Vimeca,06,382,Avenida Pierre de Coubertin,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.25676322320703,38.7035005704772,885,Bom,Sem Abrigo,Não,Sim,COMBUS,n/a,382,Avenida Pierre de Coubertin,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.25205445369203,38.70165075062,473,Bom,Sem Abrigo,Não,Não,Vimeca,06,382,Avenida Pierre de Coubertin,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.25182333189878,38.701579998747,470,Bom,Sem Abrigo,Não,Não,Vimeca,06,382,Avenida Pierre de Coubertin,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.27757556623215,38.7024671019977,438,Bom,Aberto dos Lados,Não,Não,LT,158,1769,Rua Vasco da Gama,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.2802361063759,38.7039529909865,429,Bom,Sem Abrigo,Não,Não,LT,115,1769,Rua Vasco da Gama,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.28045527183936,38.7039351669085,428,Bom,Sem Abrigo,Não,Não,LT,115,1769,Rua Vasco da Gama,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.23965784382727,38.7000239749083,957,Bom,Sem Abrigo,Não,Não,Vimeca,01,399,Escadinhas da Fonte da Maruja,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22735750851622,38.7032759242783,673,Bom,Sem Abrigo,Não,Não,Carris,"201,750,751",10,Avenida dos Bombeiros Voluntários de Algés,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22559090066953,38.7073516905695,670,Bom,Fechado dos Lados,Sim,Sim,Carris,"201,750,751",10,Avenida dos Bombeiros Voluntários de Algés,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.2255911839473,38.7073520448982,688,Bom,Fechado dos Lados,Sim,Sim,Vimeca,"10,12",10,Avenida dos Bombeiros Voluntários de Algés,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22559090066953,38.7073516905695,669,Bom,Fechado dos Lados,Sim,Sim,LT,162,10,Avenida dos Bombeiros Voluntários de Algés,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.225727969516,38.7077193835852,679,Bom,Fechado dos Lados,Sim,Sim,Vimeca,"10,12",10,Avenida dos Bombeiros Voluntários de Algés,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.225727969516,38.7077193835852,678,Bom,Fechado dos Lados,Sim,Sim,LT,162,10,Avenida dos Bombeiros Voluntários de Algés,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.225727969516,38.7077193835852,677,Bom,Fechado dos Lados,Sim,Sim,Carris,"201,750,751",10,Avenida dos Bombeiros Voluntários de Algés,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22681811188248,38.7058025304949,676,Bom,Sem Abrigo,Sim,Não,Carris,"201,750,751",10,Avenida dos Bombeiros Voluntários de Algés,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22681797673144,38.7057506627883,675,Bom,Fechado dos Lados,Sim,Não,Vimeca,"10,12",10,Avenida dos Bombeiros Voluntários de Algés,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22734917346548,38.7032976298412,674,Bom,Fechado dos Lados,Sim,Não,LT,162,10,Avenida dos Bombeiros Voluntários de Algés,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22710770383115,38.7032496619577,672,Bom,Sem Abrigo,Não,Não,Carris,"750,751,201",10,Avenida dos Bombeiros Voluntários de Algés,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22711672044289,38.7032288232173,671,Bom,Fechado dos Lados,Sim,Não,Vimeca,"10,12",10,Avenida dos Bombeiros Voluntários de Algés,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22675325900552,38.705267997197,668,Bom,Fechado dos Lados,Sim,Não,LT,162,10,Avenida dos Bombeiros Voluntários de Algés,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22675325900552,38.705267997197,667,Bom,Fechado dos Lados,Sim,Não,Carris,"201,750,751",10,Avenida dos Bombeiros Voluntários de Algés,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22681797673144,38.7057506627883,76,Bom,Fechado dos Lados,Sim,Não,LT,162,10,Avenida dos Bombeiros Voluntários de Algés,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22734917346548,38.7032976298412,75,Bom,Aberto dos Lados,Sim,Não,Vimeca,"10,12",10,Avenida dos Bombeiros Voluntários de Algés,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22711672044289,38.7032288232173,73,Bom,Fechado dos Lados,Sim,Não,LT,162,10,Avenida dos Bombeiros Voluntários de Algés,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22675325900552,38.705267997197,72,Bom,Fechado dos Lados,Sim,Não,Vimeca,"10,12",10,Avenida dos Bombeiros Voluntários de Algés,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23520187821097,38.7257582165528,952,Bom,Fechado dos Lados,Sim,Não,LT,114,1137,Rua Tenente-General Zeferino Sequeira,Carnaxide e Queijas,n/a,2012/07
+-9.23520187821097,38.7257582165528,597,Bom,Fechado dos Lados,Sim,Não,Vimeca,"01,02,07,10,12,13,15",1137,Rua Tenente-General Zeferino Sequeira,Carnaxide e Queijas,n/a,2012/07
+-9.21404858063416,38.7244796877118,1032,Bom,Fechado dos Lados,Sim,Sim,Carris,714,1123,Rua da Quinta do Paizinho,Carnaxide e Queijas,,26-06-2015
+-9.21776760910607,38.7221476770919,1030,Bom,Aberto dos Lados,Sim,Sim,,,1123,Rua da Quinta do Paizinho,Carnaxide e Queijas,"Inf.nº 790/14-DGRPIM; 17540SIGE14: 2012/07 - Levantamento Municípia",2015/02/27
+-9.21779461827671,38.7223263650926,631,Bom,"Fechado dos Lados
+",Não,Não,Carris,714,1123,Rua da Quinta do Paizinho,Carnaxide e Queijas,"Inf.nº 790/14-DGRPIM; 17540SIGE14: 2012/07 - Levantamento Municípia",2015/02/27
+-9.21779461827671,38.7223263650926,630,Bom,"Fechado dos Lados
+",Não,Sim,LT,162,1123,Rua da Quinta do Paizinho,Carnaxide e Queijas,"Inf.nº 790/14-DGRPIM; 17540SIGE14: 2012/07 - Levantamento Municípia",2014/02/27
+-9.21779461827671,38.7223263650926,51,Bom,"Fechado dos Lados
+",Não,Sim,Vimeca,"01,10,13,15",1123,Rua da Quinta do Paizinho,Carnaxide e Queijas,"Inf.nº 790/14-DGRPIM; 17540SIGE14: 2012/07 - Levantamento Municípia",2015/02/27
+-9.21543571107299,38.72396201038,629,Bom,Sem Abrigo,Não,Não,LT,162,1123,Rua da Quinta do Paizinho,Carnaxide e Queijas,n/a,2012/07
+-9.21543571107299,38.72396201038,628,Bom,Sem Abrigo,Não,Não,Vimeca,"01,10,13,15",1123,Rua da Quinta do Paizinho,Carnaxide e Queijas,n/a,2012/07
+-9.21543571107299,38.72396201038,627,Bom,Sem Abrigo,Não,Não,Carris,714,1123,Rua da Quinta do Paizinho,Carnaxide e Queijas,n/a,2012/07
+-9.21523678671993,38.7238831117466,626,Bom,Fechado dos Lados,Sim,Não,LT,162,1123,Rua da Quinta do Paizinho,Carnaxide e Queijas,n/a,2012/07
+-9.21812317036516,38.7219647851065,616,Bom,Fechado dos Lados,Sim,Não,LT,162,1123,Rua da Quinta do Paizinho,Carnaxide e Queijas,n/a,2012/07
+-9.21812317036516,38.7219647851065,615,Bom,Fechado dos Lados,Sim,Não,Carris,714,1123,Rua da Quinta do Paizinho,Carnaxide e Queijas,n/a,2012/07
+-9.21523678671993,38.7238831117466,50,Bom,Fechado dos Lados,Sim,Não,Vimeca,"01,10,13,15",1123,Rua da Quinta do Paizinho,Carnaxide e Queijas,n/a,2012/07
+-9.21812317036516,38.7219647851065,38,Bom,Fechado dos Lados,Sim,Não,Vimeca,"01,10,13,15",1123,Rua da Quinta do Paizinho,Carnaxide e Queijas,n/a,2012/07
+-9.22459640762522,38.7223747549139,622,Bom,Fechado dos Lados,Não,Não,Vimeca,"01,10,13,15",1134,Largo Sete de Junho de 1759,Carnaxide e Queijas,n/a,2012/07
+-9.22465086268643,38.7222582257209,619,Bom,Fechado dos Lados,Sim,Sim,Carris,714,1134,Largo Sete de Junho de 1759,Carnaxide e Queijas,n/a,2012/07
+-9.22465086268643,38.7222582257209,618,Bom,Fechado dos Lados,Sim,Sim,COMBUS,n/a,1134,Largo Sete de Junho de 1759,Carnaxide e Queijas,n/a,2012/07
+-9.22465086268643,38.7222582257209,44,Bom,Fechado dos Lados,Sim,Sim,Vimeca,"01,0,13,15",1134,Largo Sete de Junho de 1759,Carnaxide e Queijas,n/a,2012/07
+-9.22459640762522,38.7223747549139,43,Bom,Fechado dos Lados,Não,Não,Carris,714,1134,Largo Sete de Junho de 1759,Carnaxide e Queijas,n/a,2012/07
+-9.22694941263106,38.6992148340158,1031,Bom,Sem Abrigo,Não,Sim,Carris,"751, 201",102,Largo Dom Manuel I,,,26-06-2015
+-9.22701905852533,38.6989897925173,682,Bom,Fechado dos Lados,Sim,Sim,Carris,729,102,Largo Dom Manuel I,,n/a,2012/07
+-9.22772199772104,38.698518897202,529,Bom,Fechado dos Lados,Sim,Sim,Vimeca,20,102,Largo Dom Manuel I,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22760444978039,38.6985292756674,528,Bom,Fechado dos Lados,Sim,Sim,LT,162,102,Largo Dom Manuel I,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22752090239476,38.6987341757103,527,Bom,Fechado dos Lados,Sim,Sim,LT,149,102,Largo Dom Manuel I,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22761344131916,38.6987873566584,526,Bom,Fechado dos Lados,Sim,Sim,Vimeca,"10,12",102,Largo Dom Manuel I,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22724923333775,38.6985575519146,456,Bom,Fechado dos Lados,Sim,Não,Carris,750,102,Largo Dom Manuel I,,n/a,2012/07
+-9.22750933505088,38.6984805326667,168,Bom,Fechado dos Lados,Sim,Sim,Carris,"751, 201",102,Largo Dom Manuel I,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22742825553846,38.6986814460906,167,Bom,Fechado dos Lados,Sim,Sim,Carris,"98,723",102,Largo Dom Manuel I,,n/a,2012/07
+-9.23208080470856,38.707326647261,888,Razoável,Sem Abrigo,Não,Não,COMBUS,n/a,110,Rua da Eira,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23145062111177,38.7065864911222,67,Mau,Sem Abrigo,Não,Não,COMBUS,n/a,110,Rua da Eira,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23214588904265,38.7071338498177,66,Razoável,Sem Abrigo,Não,Não,COMBUS,n/a,110,Rua da Eira,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22808213286019,38.7038859165337,71,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,111,Rua Elias Garcia,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23108117580742,38.7009741094755,74,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,112,Rua Ernesto da Silva,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23208012518351,38.6995186042255,794,Bom,Sem Abrigo,Não,Não,Carris,776,118,Alameda Hermano Patrone,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23208012518351,38.6995186042255,793,Bom,Fechado dos Lados,Sim,Não,COMBUS,n/a,118,Alameda Hermano Patrone,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23078392371908,38.6992304581116,681,Bom,Fechado dos Lados,Não,Não,Carris,776,118,Alameda Hermano Patrone,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23078392371908,38.6992304581116,680,Bom,Sem Abrigo,Sim,Não,COMBUS,n/a,118,Alameda Hermano Patrone,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23132407046357,38.6992770495813,653,Bom,Fechado dos Lados,Sim,Não,Carris,15E,118,Alameda Hermano Patrone,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23203486100431,38.6994226456346,187,Bom,Sem Abrigo,Não,Não,Carris,776,118,Alameda Hermano Patrone,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23208012518351,38.6995186042255,186,Bom,Fechado dos Lados,Não,Não,Vimeca,"01,06",118,Alameda Hermano Patrone,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23078392371908,38.6992304581116,78,Bom,Fechado dos Lados,Sim,Não,Vimeca,"01,02,06,14",118,Alameda Hermano Patrone,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.30656850639903,38.6947671033756,534,Bom,Fechado dos Lados,Não,Não,Carris,111,499,Avenida de Angola,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30668376360392,38.6948849397603,533,Bom,Fechado dos Lados,Não,Não,LT,111,499,Avenida de Angola,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30574152879291,38.6943319453997,532,Bom,Aberto dos Lados,Não,Não,LT,111,499,Avenida de Angola,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.26002937843743,38.733559416945,709,Bom,Sem Abrigo,Não,Não,Vimeca,12,1200,Rua Actor Carlos César,Carnaxide e Queijas,n/a,2012/07
+-9.26002937843743,38.733559416945,708,Bom,Sem Abrigo,Não,Não,LT,102,1200,Rua Actor Carlos César,Carnaxide e Queijas,n/a,2012/07
+-9.30966771241774,38.7230981401059,198,Bom,Sem Abrigo,Não,Não,LT,"122,125,129,184",695,Avenida Dom Pedro V,Porto Salvo,n/a,2012/07
+-9.30188795921874,38.7171534929954,110,Bom,Sem Abrigo,Não,Não,LT,184,697,Avenida dos Descobrimentos,Porto Salvo,n/a,2012/07
+-9.22751968972576,38.7240482815458,980,Bom,Fechado dos Lados,Sim,Sim,Carris,714,306,Rua dos Cravos de Abril,Carnaxide e Queijas,n/a,2012/07
+-9.22822345228857,38.7240505186985,684,Bom,Fechado dos Lados,Não,Não,COMBUS,n/a,306,Rua dos Cravos de Abril,Carnaxide e Queijas,Placa pouco legível,2012/07
+-9.22616251103046,38.7238312797243,617,Bom,Fechado dos Lados,Sim,Não,COMBUS,n/a,306,Rua dos Cravos de Abril,Carnaxide e Queijas,n/a,2012/07
+-9.22751968972576,38.7240482815458,604,Bom,Fechado dos Lados,Não,Sim,Vimeca,"01,10,13,15",306,Rua dos Cravos de Abril,Carnaxide e Queijas,n/a,2012/07
+-9.22822345228857,38.7240505186985,82,Bom,Fechado dos Lados,Não,Não,Vimeca,"10,13,15",306,Rua dos Cravos de Abril,Carnaxide e Queijas,n/a,2012/07
+-9.22602481627814,38.7236541221831,40,Bom,Fechado dos Lados,Sim,Não,Vimeca,"01,10,13,15",306,Rua dos Cravos de Abril,Carnaxide e Queijas,n/a,2012/07
+-9.22616251103046,38.7238312797243,39,Bom,Fechado dos Lados,Sim,Não,Vimeca,"01,10,13,15",306,Rua dos Cravos de Abril,Carnaxide e Queijas,n/a,2012/07
+-9.27655576543711,38.7018793209173,425,Bom,Fechado dos Lados,Não,Não,LT,115,856,Rua Bernardim Ribeiro,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.26649166425074,38.7217387347003,805,Bom,Fechado dos Lados,Não,Não,LT,"102,108,171",83,Rua Angra do Heroísmo,Carnaxide e Queijas,n/a,2012/07
+-9.26649166425074,38.7217387347003,234,Bom,Fechado dos Lados,Não,Não,Vimeca,"02,06,13,15",83,Rua Angra do Heroísmo,Carnaxide e Queijas,n/a,2012/07
+-9.26645371487059,38.7218403502343,228,Bom,Sem Abrigo,Não,Não,LT,171,83,Rua Angra do Heroísmo,Carnaxide e Queijas,n/a,2012/07
+-9.27463056283276,38.7095653136274,311,Bom,Fechado dos Lados,Sim,Não,LT,158,1801,Rua Viscondessa de Santo Amaro,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.27445143160058,38.7094196947244,309,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,1801,Rua Viscondessa de Santo Amaro,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.27466941930068,38.7037314748925,439,Bom,Fechado dos Lados,Não,Não,LT,"108,115,117,158",867,Avenida Conselheiro Ferreira Lobo,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.27486529687308,38.706774023372,437,Bom,Sem Abrigo,Não,Não,LT,"108,115,117,158",867,Avenida Conselheiro Ferreira Lobo,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.27481989942094,38.7070349726131,431,Bom,Fechado dos Lados,Sim,Não,LT,"108,115,117",867,Avenida Conselheiro Ferreira Lobo,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.26337158152732,38.7374148360839,739,Mau,Fechado dos Lados,Não,Não,Carris,102,830,Estrada Militar,Barcarena,n/a,2012/07
+-9.26512528267035,38.7348601051472,738,Bom,Fechado dos Lados,Sim,Não,LT,102,830,Estrada Militar,Barcarena,n/a,2012/07
+-9.26478069370967,38.7349891902888,690,Bom,Aberto dos Lados,Não,Sim,LT,102,830,Estrada Militar,Barcarena,n/a,2012/07
+-9.26743410943697,38.735505919886,687,Bom,Fechado dos Lados,Sim,Não,Vimeca,12,830,Estrada Militar,Barcarena,n/a,2012/07
+-9.26736593247103,38.7356090899323,686,Bom,Sem Abrigo,Não,Não,Vimeca,12,830,Estrada Militar,Barcarena,n/a,2012/07
+-9.266551170055,38.7075621228389,448,Bom,Sem Abrigo,Não,Não,LT,117,830,Estrada Militar,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.26650978532964,38.7042274690574,447,Bom,Sem Abrigo,Não,Não,LT,117,830,Estrada Militar,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.26671331424494,38.7077398964603,446,Bom,Sem Abrigo,Não,Não,LT,117,830,Estrada Militar,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.26681146476305,38.7095505965025,327,Bom,Sem Abrigo,Não,Não,LT,"108,115",830,Estrada Militar,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.26664065012428,38.7082344094473,326,Bom,Sem Abrigo,Não,Não,LT,"108,115",830,Estrada Militar,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.26357970088029,38.7151495277903,314,Bom,Fechado dos Lados,Sim,Sim,Vimeca,15,830,Estrada Militar,Carnaxide e Queijas,n/a,2012/07
+-9.27216752027422,38.7312400186994,172,Bom,Sem Abrigo,Não,Não,SCoTTURB,"02,06,13",830,Estrada Militar,Barcarena,n/a,2012/07
+-9.27210777860262,38.7311857434536,171,Bom,Sem Abrigo,Não,Não,Vimeca,"02,06,13",830,Estrada Militar,Barcarena,n/a,2012/07
+-9.26793014388475,38.735325003308,162,Bom,Sem Abrigo,Não,Não,Vimeca,"02,06,13",830,Estrada Militar,Barcarena,n/a,2012/07
+-9.26798671114171,38.735592885798,161,Bom,Fechado dos Lados,Sim,Não,Vimeca,"02,06,13",830,Estrada Militar,Barcarena,n/a,2012/07
+-9.26337158152732,38.7374148360839,155,Mau,Fechado dos Lados,Não,Não,Vimeca,12,830,Estrada Militar,Barcarena,n/a,2012/07
+-9.26512528267035,38.7348601051472,154,Bom,Fechado dos Lados,Sim,Não,Vimeca,12,830,Estrada Militar,Barcarena,n/a,2012/07
+-9.26478069370967,38.7349891902888,87,Bom,Aberto dos Lados,Não,Sim,Vimeca,12,830,Estrada Militar,Barcarena,n/a,2012/07
+-9.26736593247103,38.7356090899323,84,Bom,Sem Abrigo,Não,Não,LT,102,830,Estrada Militar,Barcarena,n/a,2012/07
+-9.26743410943697,38.735505919886,83,Bom,Fechado dos Lados,Sim,Não,Carris,102,830,Estrada Militar,Barcarena,n/a,2012/07
+-9.25627227381464,38.7147870434029,836,Bom,Sem Abrigo,Não,Não,LT,"102,108",1763,Rua Visconde Moreira de Rey,Carnaxide e Queijas,n/a,2012/07
+-9.25627227381464,38.7147870434029,313,Bom,Sem Abrigo,Não,Não,Vimeca,"02,13,15",1763,Rua Visconde Moreira de Rey,Carnaxide e Queijas,n/a,2012/07
+-9.26360875529525,38.7234885791494,799,Bom,Fechado dos Lados,Não,Não,Vimeca,"02,06,13,15",1766,Praceta Antonio Leal de Oliveira,Carnaxide e Queijas,n/a,2012/07
+-9.26360875529525,38.7234885791494,223,Bom,Fechado dos Lados,Não,Não,LT,"102,103",1766,Praceta Antonio Leal de Oliveira,Carnaxide e Queijas,n/a,2012/07
+-9.24504027782128,38.7110267637188,864,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,412,Rua Antero de Quental,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",Placa pouco legível,2012/07
+-9.24369005931706,38.7096531376349,852,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,412,Rua Antero de Quental,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.28070158802586,38.732897751336,780,Bom,Fechado dos Lados,Não,Não,LT,106,985,Rua Sete de Junho,Barcarena,n/a,2012/07
+-9.28106940622539,38.7323040407665,779,Bom,Fechado dos Lados,Não,Não,Carris,"106,117",985,Rua Sete de Junho,Barcarena,n/a,2012/07
+-9.28203920288139,38.7311478237361,774,Bom,Fechado dos Lados,Sim,Não,LT,"106,117",985,Rua Sete de Junho,Barcarena,n/a,2012/07
+-9.28213560097395,38.7311137276324,773,Bom,Sem Abrigo,Não,Não,LT,"106,117",985,Rua Sete de Junho,Barcarena,n/a,2012/07
+-9.28533191393546,38.7285097364911,782,Bom,Fechado dos Lados,Sim,Não,LT,119,1001,Rua da Fonte,Barcarena,n/a,2012/07
+-9.2797769809748,38.7444193745506,103,Bom,Sem Abrigo,Não,Não,LT,101,1003,Rua Odette de Saint-Maurice,Barcarena,n/a,2012/07
+-9.28001149727853,38.744524005453,1012,Bom,Sem Abrigo,Não,Não,LT,171,1006,Rua António Quadros,Barcarena,n/a,2012/07
+-9.27999244027978,38.7449745702638,115,Bom,Sem Abrigo,Não,Não,LT,171,1006,Rua António Quadros,Barcarena,n/a,2012/07
+-9.28001520946726,38.7193736314069,219,Bom,Sem Abrigo,Não,Não,LT,158,1013,Rua Quinta da Moura,Barcarena,n/a,2012/07
+-9.28079349393881,38.7173885131494,221,Bom,Sem Abrigo,Não,Não,LT,158,1014,Rua do Castelo,Barcarena,n/a,2012/07
+-9.28069944304233,38.7176185946417,220,Bom,Sem Abrigo,Não,Não,LT,158,1014,Rua do Castelo,Barcarena,n/a,2012/07
+-9.26364178360848,38.7376511092468,743,Bom,Sem Abrigo,Não,Não,LT,102,1099,Rua Quinta da Bica do Sargento,Barcarena,n/a,2012/07
+-9.26364178360848,38.7376511092468,159,Bom,Sem Abrigo,Não,Não,Vimeca,12,1099,Rua Quinta da Bica do Sargento,Barcarena,n/a,2012/07
+-9.22739321211209,38.7124909821012,25,Bom,Sem Abrigo,Não,Não,Vimeca,12,148,Avenida das Túlipas,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22761167000829,38.7123412086797,24,Bom,Fechado dos Lados,Sim,Não,Vimeca,12,148,Avenida das Túlipas,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23169115503012,38.7000982215159,77,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,136,Rua Parque Anjos,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22864201012185,38.7073236504906,35,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,145,Estrada das Romeiras,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23828866210131,38.710497391754,364,Bom,Fechado dos Lados,Sim,Não,LT,114,150,Rua Victor Duarte Pedroso,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23038297984059,38.7078120338579,61,Bom,Fechado dos Lados,Não,Sim,LT,114,150,Rua Victor Duarte Pedroso,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23022478274506,38.7080370930343,60,Bom,Sem Abrigo,Não,Não,LT,114,150,Rua Victor Duarte Pedroso,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23356610646213,38.708977727189,33,Bom,Fechado dos Lados,Não,Sim,LT,114,150,Rua Victor Duarte Pedroso,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23299087917684,38.7088161346886,32,Bom,Fechado dos Lados,Não,Sim,LT,114,150,Rua Victor Duarte Pedroso,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.29772593914829,38.7119829441894,280,Bom,Fechado dos Lados,Sim,Sim,Vimeca,15,1488,Avenida Conselho da Europa,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29787515511216,38.7122725893996,278,Bom,Fechado dos Lados,Sim,Sim,Vimeca,15,1488,Avenida Conselho da Europa,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29079465628743,38.7001647196538,1008,Bom,Sem Abrigo,Não,Não,LT,"115,158",585,Rua de Angola,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.28469750736643,38.7028691823972,436,Bom,Fechado dos Lados,Sim,Não,LT,"115,158",592,Rua Augusto Sousa Lobo,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.28481832177868,38.7028332222469,435,Bom,Aberto dos Lados,Não,Não,LT,"115,158",592,Rua Augusto Sousa Lobo,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.28648481729625,38.7045725968993,421,Bom,Fechado dos Lados,Não,Não,LT,"115,158",592,Rua Augusto Sousa Lobo,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.28659131629976,38.7044468782143,420,Bom,Fechado dos Lados,Não,Não,LT,"115,158",592,Rua Augusto Sousa Lobo,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29898362974475,38.6971670949503,1006,Bom,Fechado dos Lados,Sim,Não,LT,115,601,Rua Carlos Vieira Ramos,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30130361329568,38.6976761083877,565,Bom,Sem Abrigo,Não,Não,LT,"111,115",601,Rua Carlos Vieira Ramos,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30134044604664,38.6977710429857,564,Bom,Sem Abrigo,Não,Não,LT,"111,115",601,Rua Carlos Vieira Ramos,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29966328716994,38.6973684744513,563,Bom,Fechado dos Lados,Sim,Não,LT,115,601,Rua Carlos Vieira Ramos,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29752395025127,38.7054000789119,406,Bom,Fechado dos Lados,Sim,Não,LT,158,637,Avenida dos Fundadores,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29756799074914,38.7055283617315,405,Bom,Fechado dos Lados,Sim,Não,LT,158,637,Avenida dos Fundadores,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29908891173191,38.7036260702694,400,Bom,Fechado dos Lados,Sim,Não,LT,158,637,Avenida dos Fundadores,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29601366562571,38.7068638346265,397,Bom,Fechado dos Lados,Sim,Não,LT,158,637,Avenida dos Fundadores,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29614835097446,38.7069531133515,396,Bom,Fechado dos Lados,Sim,Não,LT,158,637,Avenida dos Fundadores,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29892561996971,38.7036367964567,395,Bom,Fechado dos Lados,Sim,Não,LT,158,637,Avenida dos Fundadores,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29410895873106,38.6948613946309,964,Bom,Fechado dos Lados,Sim,Não,COMBUS,n/a,614,Praceta Dionísio Matias,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29410895873106,38.6948613946309,569,Bom,Fechado dos Lados,Sim,Não,LT,116,614,Praceta Dionísio Matias,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.24410131102937,38.7090305943703,854,Bom,Fechado dos Lados,Sim,Não,COMBUS,n/a,457,Rua Francisco José Victorino,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24454355052287,38.7090807984656,853,Bom,Fechado dos Lados,Não,Não,COMBUS,n/a,457,Rua Francisco José Victorino,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24277862821741,38.7096390235759,346,Bom,Fechado dos Lados,Sim,Não,Vimeca,"02,11",457,Rua Francisco José Victorino,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24454355052287,38.7090807984656,345,Bom,Fechado dos Lados,Sim,Não,Vimeca,"02,11,13",457,Rua Francisco José Victorino,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24410131102937,38.7090305943703,344,Bom,Fechado dos Lados,Sim,Não,Vimeca,"02,11",457,Rua Francisco José Victorino,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24327844861052,38.709457545009,343,Bom,Fechado dos Lados,Sim,Não,Vimeca,02,457,Rua Francisco José Victorino,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23990778196811,38.7148765437355,356,Razoável,Sem Abrigo,Não,Não,COMBUS,n/a,1271,Rua Rodrigues Lobo,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24011542976003,38.7150185227713,355,Razoável,Sem Abrigo,Não,Não,COMBUS,n/a,1271,Rua Rodrigues Lobo,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24000769673563,38.7027026827584,469,Bom,Fechado dos Lados,Sim,Não,Vimeca,01,1288,Rua Rodrigo Albuquerque e Melo,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24016590353461,38.7024958961956,462,Bom,Sem Abrigo,Não,Não,Vimeca,01,1288,Rua Rodrigo Albuquerque e Melo,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24042605827073,38.7052917181237,486,Bom,Fechado dos Lados,Sim,Não,Vimeca,"01,11,13",1289,Rua Castro Soromenho,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24026947623587,38.705380576992,485,Bom,Fechado dos Lados,Sim,Não,Vimeca,"01,11",1289,Rua Castro Soromenho,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.25137238051942,38.7033221040149,481,Bom,Sem Abrigo,Não,Não,Carris,776,367,Estrada da Costa,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.25259361842675,38.7051181089863,459,Bom,Fechado dos Lados,Sim,Sim,Carris,776,367,Estrada da Costa,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23757408148889,38.6992029079317,897,Bom,Fechado dos Lados,Não,Não,Carris,776,369,Rua Direita do Dafundo,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23757408148889,38.6992029079317,896,Bom,Fechado dos Lados,Não,Não,COMBUS,n/a,369,Rua Direita do Dafundo,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23740381662212,38.6992535188087,895,Bom,Fechado dos Lados,Não,Não,Carris,776,369,Rua Direita do Dafundo,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23740381662212,38.6992535188087,894,Bom,Fechado dos Lados,Não,Não,COMBUS,n/a,369,Rua Direita do Dafundo,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24040273328986,38.7001272930445,493,Bom,Fechado dos Lados,Não,Não,Carris,776,369,Rua Direita do Dafundo,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23757408148889,38.6992029079317,467,Bom,Fechado dos Lados,Não,Não,Vimeca,"01,06",369,Rua Direita do Dafundo,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23740381662212,38.6992535188087,466,Bom,Fechado dos Lados,Não,Não,Vimeca,"01,06",369,Rua Direita do Dafundo,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23975389004573,38.6999812933732,465,Bom,Sem Abrigo,Não,Não,Vimeca,"01,06",369,Rua Direita do Dafundo,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24708234856461,38.7003640765406,471,Bom,Sem Abrigo,Não,Não,Carris,776,386,Rua Sacadura Cabral,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24961643168787,38.7010667485412,908,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,386,Rua Sacadura Cabral,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24974680551014,38.701008844223,907,Bom,Fechado dos Lados,Sim,Não,COMBUS,n/a,386,Rua Sacadura Cabral,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24974680551014,38.701008844223,906,Bom,Fechado dos Lados,Sim,Não,Carris,776,386,Rua Sacadura Cabral,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24456313252667,38.7007374649582,905,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,386,Rua Sacadura Cabral,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24440067445443,38.7006610913057,904,Bom,Fechado dos Lados,Sim,Não,Vimeca,06,386,Rua Sacadura Cabral,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24440067445443,38.7006610913057,903,Bom,Fechado dos Lados,Sim,Não,COMBUS,n/a,386,Rua Sacadura Cabral,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24645906942362,38.7002341151549,902,Bom,Sem Abrigo,Não,Não,Vimeca,06,386,Rua Sacadura Cabral,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24645906942362,38.7002341151549,901,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,386,Rua Sacadura Cabral,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24705987930076,38.7003605973956,899,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,386,Rua Sacadura Cabral,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24065140447112,38.7002413191845,893,Bom,Sem Abrigo,Não,Não,Vimeca,06,386,Rua Sacadura Cabral,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24944329947182,38.7010139943192,484,Bom,Sem Abrigo,Não,Não,Carris,776,386,Rua Sacadura Cabral,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24961643168787,38.7010667485412,483,Bom,Sem Abrigo,Não,Não,Vimeca,06,386,Rua Sacadura Cabral,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24974680551014,38.701008844223,482,Bom,Fechado dos Lados,Sim,Não,SCoTTURB,06,386,Rua Sacadura Cabral,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.25136796938146,38.7019171042013,479,Bom,Sem Abrigo,Não,Não,Carris,776,386,Rua Sacadura Cabral,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.25150145116998,38.7019849175891,478,Bom,Fechado dos Lados,Sim,Não,Carris,776,386,Rua Sacadura Cabral,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24440067445443,38.7006610913057,477,Bom,Fechado dos Lados,Sim,Não,Carris,776,386,Rua Sacadura Cabral,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24456313252667,38.7007374649582,476,Bom,Sem Abrigo,Não,Não,Vimeca,06,386,Rua Sacadura Cabral,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24471125801223,38.7007419119112,475,Bom,Sem Abrigo,Não,Não,Carris,776,386,Rua Sacadura Cabral,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24646370823621,38.7002394452687,474,Bom,Sem Abrigo,Não,Não,Carris,776,386,Rua Sacadura Cabral,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24705987930076,38.7003605973956,472,Bom,Sem Abrigo,Não,Não,Vimeca,06,386,Rua Sacadura Cabral,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24065140447112,38.7002413191845,464,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,386,Rua Sacadura Cabral,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24062917928664,38.7002387372739,463,Bom,Sem Abrigo,Não,Não,Carris,776,386,Rua Sacadura Cabral,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.24151143316402,38.7002991069986,461,Razoável,Sem Abrigo,Não,Não,COMBUS,n/a,386,Rua Sacadura Cabral,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22771275664114,38.6994509364523,996,Bom,Fechado dos Lados,Sim,Sim,n/a,n/a,103,Rua Damião de Góis,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",Paragem sem placas de operadora,2012/07
+-9.22834648708601,38.6995500336171,652,Bom,Sem Abrigo,Não,Não,Vimeca,06,103,Rua Damião de Góis,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22775623360114,38.6995205204644,144,Bom,Fechado dos Lados,Sim,Sim,Carris,776,103,Rua Damião de Góis,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22757514022367,38.6990799300163,81,Bom,Fechado dos Lados,Sim,Sim,LT,114,103,Rua Damião de Góis,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22759596049856,38.699156301901,80,Bom,Fechado dos Lados,Sim,Sim,Vimeca,02,103,Rua Damião de Góis,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22761529493903,38.6992332281605,79,Bom,Fechado dos Lados,Sim,Sim,Vimeca,01,103,Rua Damião de Góis,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22767397689156,38.6993803175873,55,Bom,Fechado dos Lados,Sim,Sim,Vimeca,n/a,103,Rua Damião de Góis,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",Placa sem identificação de carreiras,2012/07
+-9.2276353176435,38.6993100578943,9,Bom,Fechado dos Lados,Sim,Sim,Vimeca,06,103,Rua Damião de Góis,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22847846943646,38.6995061901159,8,Bom,Sem Abrigo,Não,Não,Carris,"776,15E",103,Rua Damião de Góis,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22834648708601,38.6995500336171,7,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,103,Rua Damião de Góis,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22859268761623,38.6993980166644,6,Bom,Sem Abrigo,Não,Não,Vimeca,06,103,Rua Damião de Góis,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.22873117394752,38.6993510492721,5,Bom,Sem Abrigo,Não,Não,Carris,"776,15E",103,Rua Damião de Góis,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.28304364822321,38.7427395838509,143,Bom,Sem Abrigo,Não,Não,LT,"117,171",241,Estrada das Fontainhas,Barcarena,n/a,2012/07
+-9.28308455318864,38.7426079384502,142,Bom,Sem Abrigo,Não,Não,LT,"117,171",241,Estrada das Fontainhas,Barcarena,n/a,2012/07
+-9.28439789102874,38.7412584393548,140,Bom,Sem Abrigo,Não,Não,LT,"117,171",241,Estrada das Fontainhas,Barcarena,n/a,2012/07
+-9.28431454957219,38.7413328535611,139,Bom,Sem Abrigo,Não,Não,LT,"117,171",241,Estrada das Fontainhas,Barcarena,n/a,2012/07
+-9.28532227539747,38.7277307491872,772,Bom,Sem Abrigo,Não,Não,LT,119,244,Rua Gil Vicente,Barcarena,n/a,2012/07
+-9.2811879985797,38.7501467916367,124,Bom,Fechado dos Lados,Não,Não,LT,117,252,Avenida Infante Dom Henrique,Barcarena,n/a,2012/07
+-9.28147086829019,38.7500254708116,123,Bom,Fechado dos Lados,Não,Não,LT,117,252,Avenida Infante Dom Henrique,Barcarena,n/a,2012/07
+-9.28305319437112,38.7484039227704,117,Bom,Fechado dos Lados,Sim,Não,LT,117,252,Avenida Infante Dom Henrique,Barcarena,n/a,2012/07
+-9.28342176235523,38.7481615907408,116,Bom,Fechado dos Lados,Sim,Não,Carris,"117,171",252,Avenida Infante Dom Henrique,Barcarena,n/a,2012/07
+-9.22951967656097,38.7077333872566,4,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,129,Rua Marcos Portugal,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.27628313386066,38.7266303770024,771,Bom,Fechado dos Lados,Não,Não,LT,117,256,Rua Joaquim Sabino de Sousa,Barcarena,n/a,2012/07
+-9.27688276562324,38.7290358041039,769,Bom,Fechado dos Lados,Não,Não,LT,117,256,Rua Joaquim Sabino de Sousa,Barcarena,n/a,2012/07
+-9.27681768300151,38.7291010266467,768,Bom,Sem Abrigo,Não,Não,LT,117,256,Rua Joaquim Sabino de Sousa,Barcarena,n/a,2012/07
+-9.28129118033779,38.745996359658,106,Bom,Sem Abrigo,Não,Não,LT,101,261,Rua da Juventude,Barcarena,n/a,2012/07
+-9.2806253826964,38.7459864139755,105,Bom,Fechado dos Lados,Sim,Não,LT,171,261,Rua da Juventude,Barcarena,n/a,2012/07
+-9.28055813247181,38.7460894022383,104,Bom,Fechado dos Lados,Sim,Não,LT,171,261,Rua da Juventude,Barcarena,n/a,2012/07
+-9.29796193365825,38.7323403756241,752,Bom,,Não,Não,LT,"106,119",262,Estrada de Leceia,Porto Salvo,n/a,2012/07
+-9.28453304752037,38.7284813065922,781,Bom,Sem Abrigo,Não,Não,LT,"106,117",262,Estrada de Leceia,Barcarena,n/a,2012/07
+-9.28845649554509,38.7305762657033,778,Bom,Sem Abrigo,Não,Não,LT,"106,119",262,Estrada de Leceia,Barcarena,n/a,2012/07
+-9.28844206712876,38.7306728814949,777,Bom,Fechado dos Lados,Não,Não,LT,"106,119",262,Estrada de Leceia,Barcarena,n/a,2012/07
+-9.29203103257687,38.7314616555701,776,Bom,Sem Abrigo,Não,Não,LT,"106,119",262,Estrada de Leceia,Barcarena,n/a,2012/07
+-9.29192431675071,38.731518831892,775,Bom,Fechado dos Lados,Sim,Não,LT,"106,119",262,Estrada de Leceia,Barcarena,n/a,2012/07
+-9.29803579182505,38.7322579761916,751,Bom,Sem Abrigo,Não,Não,LT,"106,,112,119",262,Estrada de Leceia,Porto Salvo,n/a,2012/07
+-9.28493168275305,38.726752210499,783,Bom,Sem Abrigo,Não,Não,LT,119,274,Rua do Moinho,Barcarena,n/a,2012/07
+-9.27115057261142,38.7403485836693,740,Bom,Sem Abrigo,Não,Não,LT,"101,171",950,Estrada das Palmeiras,Barcarena,n/a,2012/07
+-9.26955965524219,38.7378860254151,734,Bom,Sem Abrigo,Não,Não,Vimeca,"02,02,12,13",950,Estrada das Palmeiras,Barcarena,n/a,2012/07
+-9.27139021893665,38.7405197397252,732,Bom,Sem Abrigo,Não,Não,LT,"101,102,106,171",950,Estrada das Palmeiras,Barcarena,n/a,2012/07
+-9.27115057261142,38.7403485836693,156,Bom,Sem Abrigo,Não,Não,Vimeca,"02,06,13",950,Estrada das Palmeiras,Barcarena,n/a,2012/07
+-9.26955965524219,38.7378860254151,151,Bom,Sem Abrigo,Não,Não,LT,102,950,Estrada das Palmeiras,Barcarena,n/a,2012/07
+-9.27139021893665,38.7405197397252,147,Bom,Sem Abrigo,Não,Não,Vimeca,"02,06,12,13",950,Estrada das Palmeiras,Barcarena,n/a,2012/07
+-9.29356513304695,38.701416643399,382,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,67,Rua Alfredo Lopes Vilaverde,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29230977869728,38.7023796900107,417,Razoável,Sem Abrigo,Não,Não,COMBUS,n/a,609,Rua Conde de Rio Maior,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29246771761007,38.7024077597198,416,Razoável,Sem Abrigo,Não,Não,COMBUS,n/a,609,Rua Conde de Rio Maior,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.28989540082765,38.7041477837955,413,Bom,Fechado dos Lados,Não,Não,LT,"115,158",609,Rua Conde de Rio Maior,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29148016026813,38.7042495972399,3,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,609,Rua Conde de Rio Maior,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29110067609236,38.7041758935754,2,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,609,Rua Conde de Rio Maior,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.293634155527,38.6947104173152,1011,Bom,Fechado dos Lados,Sim,Não,LT,116,611,Rua Costa Pinto,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29590856063066,38.6943626069475,956,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,611,Rua Costa Pinto,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29363350824044,38.6947120059171,955,Bom,Fechado dos Lados,Sim,Não,COMBUS,n/a,611,Rua Costa Pinto,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29562176227497,38.6942903114423,931,Bom,Fechado dos Lados,Sim,Sim,COMBUS,n/a,611,Rua Costa Pinto,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",Placa pouco legível,2012/07
+-9.29590932561239,38.6943628972549,555,Bom,Sem Abrigo,Não,Não,LT,116,611,Rua Costa Pinto,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30117406886416,38.6935845238371,536,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,611,Rua Costa Pinto,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29562176227497,38.6942903114423,525,Bom,Fechado dos Lados,Sim,Sim,LT,116,611,Rua Costa Pinto,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29674535210502,38.6982934238496,1018,Bom,Sem Abrigo,Não,Não,LT,119,620,Avenida Elvira Velez,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29537610669861,38.6999058816022,877,Bom,Fechado dos Lados,Sim,Não,COMBUS,n/a,620,Avenida Elvira Velez,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.2955316560822,38.699914424016,876,Bom,Fechado dos Lados,Sim,Não,COMBUS,n/a,620,Avenida Elvira Velez,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29537610669861,38.6999058816022,402,Bom,Fechado dos Lados,Sim,Não,LT,"115,158",620,Avenida Elvira Velez,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.2955316560822,38.699914424016,401,Bom,Fechado dos Lados,Não,Não,LT,"115,158",620,Avenida Elvira Velez,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29906604287667,38.6922010644113,959,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,622,Avenida Engenheiro Bonneville Franco,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.2991354258004,38.6919579721908,958,Bom,Fechado dos Lados,Sim,Sim,COMBUS,n/a,622,Avenida Engenheiro Bonneville Franco,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30139362989075,38.6909153864927,936,Bom,Fechado dos Lados,Sim,Não,COMBUS,n/a,622,Avenida Engenheiro Bonneville Franco,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30154183279529,38.6910316378383,935,Bom,Sem Abrigo,Não,Não,LT,116,622,Avenida Engenheiro Bonneville Franco,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.2991354258004,38.6919579721908,547,Bom,Fechado dos Lados,Sim,Sim,LT,116,622,Avenida Engenheiro Bonneville Franco,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29906604287667,38.6922010644113,546,Bom,Sem Abrigo,Não,Não,LT,116,622,Avenida Engenheiro Bonneville Franco,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30139362989075,38.6909153864927,545,Bom,Fechado dos Lados,Sim,Não,LT,116,622,Avenida Engenheiro Bonneville Franco,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30154183279529,38.6910316378383,544,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,622,Avenida Engenheiro Bonneville Franco,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.2904387569207,38.7037643182439,883,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,645,Rua Instituto Conde de Agrolongo,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29054037687625,38.7037601903852,882,Bom,Aberto dos Lados,Não,Não,COMBUS,n/a,645,Rua Instituto Conde de Agrolongo,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",Placa pouco legível,2012/07
+-9.29059764555231,38.7022855859497,881,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,645,Rua Instituto Conde de Agrolongo,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29079680736112,38.7022111012793,880,Bom,Fechado dos Lados,Não,Não,COMBUS,n/a,645,Rua Instituto Conde de Agrolongo,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29054037687625,38.7037601903852,418,Bom,Aberto dos Lados,Não,Não,LT,"115,158",645,Rua Instituto Conde de Agrolongo,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29059764555231,38.7022855859497,415,Bom,Sem Abrigo,Não,Não,LT,"115,158",645,Rua Instituto Conde de Agrolongo,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29079680736112,38.7022111012793,414,Bom,Fechado dos Lados,Não,Não,LT,"115,158",645,Rua Instituto Conde de Agrolongo,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.28823499999108,38.7047921339578,442,Bom,Fechado dos Lados,Sim,Sim,LT,"115,158",610,Avenida Conde de São Januário,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.2909038550786,38.7003094836501,412,Bom,Fechado dos Lados,Não,Não,LT,"115,158",610,Avenida Conde de São Januário,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.28806077395241,38.7048951929459,411,Bom,Aberto dos Lados,Não,Não,LT,"115,158",610,Avenida Conde de São Januário,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29781110852206,38.6946094907003,1007,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,666,Rua Lino de Assunção,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29788371249984,38.6945037607118,963,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,666,Rua Lino de Assunção,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29420074386451,38.6967795907045,1,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,666,Rua Lino de Assunção,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.28080554197522,38.6995270875269,422,Bom,Fechado dos Lados,Não,Não,n/a,n/a,1566,Avenida Salvador Allende,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",Paragem sem placas de operadora,2012/07
+-9.29238460884127,38.6973253089683,987,Bom,Fechado dos Lados,Sim,Não,LT,116,1569,Avenida Senhor Jesus dos Navegantes,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29238460884127,38.6973253089683,962,Bom,Fechado dos Lados,Sim,Não,COMBUS,n/a,1569,Avenida Senhor Jesus dos Navegantes,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29280108383332,38.6976680572834,930,Bom,Fechado dos Lados,Sim,Sim,COMBUS,n/a,1569,Avenida Senhor Jesus dos Navegantes,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29280108383332,38.6976680572834,524,Bom,Fechado dos Lados,Sim,Sim,LT,116,1569,Avenida Senhor Jesus dos Navegantes,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29626130817195,38.6961082138318,550,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,1584,Avenida Voluntários da República,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.28944439096215,38.7101354709968,1005,Bom,Sem Abrigo,Não,Não,LT,158,1578,Rua Manuel Viegas Guerreiro,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.28876314128993,38.7090140963456,306,Bom,Sem Abrigo,Não,Não,LT,158,1578,Rua Manuel Viegas Guerreiro,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.28593085037729,38.7097198949396,302,Bom,Sem Abrigo,Não,Não,LT,158,1585,Avenida António Sena da Silva,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.29624283557702,38.7086337487287,289,Bom,Fechado dos Lados,Sim,Sim,LT,"119,125,129,184",1596,Rua Shegundo Galarza,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30663860614441,38.720068481822,211,Bom,Sem Abrigo,Não,Não,LT,"122,129",1611,Rua das Portelas,Porto Salvo,n/a,2012/07
+-9.30681186466997,38.7205505362738,202,Bom,Fechado dos Lados,Não,Não,LT,"122,129",1611,Rua das Portelas,Porto Salvo,n/a,2012/07
+-9.30505715762755,38.7176100775941,195,Bom,Sem Abrigo,Não,Não,LT,"122,129",1611,Rua das Portelas,Porto Salvo,n/a,2012/07
+-9.30516743076342,38.7176106835739,194,Bom,Sem Abrigo,Não,Não,LT,"122,129",1611,Rua das Portelas,Porto Salvo,n/a,2012/07
+-9.29786300421788,38.7189474776716,113,Bom,Sem Abrigo,Não,Não,LT,184,703,Rua Doutor José Filipe Rodrigues,Porto Salvo,n/a,2012/07
+-9.2976288108546,38.7188424380255,112,Bom,Sem Abrigo,Não,Não,LT,184,703,Rua Doutor José Filipe Rodrigues,Porto Salvo,n/a,2012/07
+-9.2991682532513,38.7179924325684,111,Bom,Sem Abrigo,Não,Não,LT,184,703,Rua Doutor José Filipe Rodrigues,Porto Salvo,n/a,2012/07
+-9.23683243073811,38.7145674638256,890,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,431,Rua de Ceuta,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23678487916593,38.7147051019284,865,Bom,Fechado dos Lados,Sim,Não,COMBUS,n/a,431,Rua de Ceuta,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",Placa pouco legível,2012/07
+-9.23508713269421,38.7146343713986,644,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,431,Rua de Ceuta,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23683243073811,38.7145674638256,371,Bom,Sem Abrigo,Não,Não,Vimeca,"11,13",431,Rua de Ceuta,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23678487916593,38.7147051019284,370,Bom,Fechado dos Lados,Sim,Não,SCoTTURB,11,431,Rua de Ceuta,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23476019418487,38.7146148429296,31,Bom,Sem Abrigo,Não,Não,COMBUS,n/a,431,Rua de Ceuta,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23508713269421,38.7146343713986,19,Bom,Sem Abrigo,Não,Não,Vimeca,"11,13",431,Rua de Ceuta,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.23381961604361,38.7139263160484,16,Bom,Sem Abrigo,Não,Sim,Vimeca,"11,13",431,Rua de Ceuta,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.3060327563542,38.7053071913512,379,Bom,Fechado dos Lados,Sim,Não,LT,"106,122",1497,Avenida dos Bombeiros Voluntários de Oeiras,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30610546522581,38.7055216580703,378,Bom,Sem Abrigo,Sim,Não,LT,"106,122",1497,Avenida dos Bombeiros Voluntários de Oeiras,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30564875188287,38.7086614005799,294,Bom,Fechado dos Lados,Sim,Não,LT,"106,122",1497,Avenida dos Bombeiros Voluntários de Oeiras,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30460858619582,38.7132901191878,285,Bom,Sem Abrigo,Não,Não,LT,106,1497,Avenida dos Bombeiros Voluntários de Oeiras,Porto Salvo,n/a,2012/07
+-9.30427907458129,38.7134588034494,284,Bom,Sem Abrigo,Não,Não,LT,106,1497,Avenida dos Bombeiros Voluntários de Oeiras,Porto Salvo,n/a,2012/07
+-9.30535190678988,38.7114482335087,283,Bom,Fechado dos Lados,Sim,Sim,LT,"106,122",1497,Avenida dos Bombeiros Voluntários de Oeiras,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30506221635064,38.7118230691715,282,Bom,Fechado dos Lados,Sim,Não,LT,"106,122",1497,Avenida dos Bombeiros Voluntários de Oeiras,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.30550771181186,38.7087892843246,281,Bom,Fechado dos Lados,Sim,Não,LT,"106,122",1497,Avenida dos Bombeiros Voluntários de Oeiras,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.26638970844117,38.7232562202517,1010,Bom,Sem Abrigo,Não,Não,Vimeca,"02,06,13,13D,15",79,Rua dos Açores,Carnaxide e Queijas,n/a,2012/07
+-9.26638970844117,38.7232562202517,1009,Bom,Sem Abrigo,Não,Não,LT,"102,108",79,Rua dos Açores,Carnaxide e Queijas,n/a,2012/07
+-9.30805175752235,38.7144441427387,832,Bom,Fechado dos Lados,Sim,Não,LT,"112,122",1682,Avenida Santa Casa da Misericordia de Oeiras,Porto Salvo,n/a,2012/07
+-9.30485773565587,38.7141285887594,831,Bom,Fechado dos Lados,Sim,Não,LT,"112,122",1682,Avenida Santa Casa da Misericordia de Oeiras,Porto Salvo,n/a,2012/07
+-9.3078925772102,38.7145248306784,830,Bom,Fechado dos Lados,Sim,Não,LT,"112,122",1682,Avenida Santa Casa da Misericordia de Oeiras,Porto Salvo,n/a,2012/07
+-9.30484498438092,38.713974323204,829,Bom,Fechado dos Lados,Sim,Não,LT,"112,122",1682,Avenida Santa Casa da Misericordia de Oeiras,Porto Salvo,n/a,2012/07
+-9.30805175752235,38.7144441427387,295,Bom,Fechado dos Lados,Sim,Não,Vimeca,15,1682,Avenida Santa Casa da Misericordia de Oeiras,Porto Salvo,n/a,2012/07
+-9.30485773565587,38.7141285887594,293,Bom,Fechado dos Lados,Sim,Não,Vimeca,15,1682,Avenida Santa Casa da Misericordia de Oeiras,Porto Salvo,n/a,2012/07
+-9.3078925772102,38.7145248306784,292,Bom,Fechado dos Lados,Sim,Não,Vimeca,15,1682,Avenida Santa Casa da Misericordia de Oeiras,Porto Salvo,n/a,2012/07
+-9.30484498438092,38.713974323204,291,Bom,Fechado dos Lados,Sim,Não,Vimeca,15,1682,Avenida Santa Casa da Misericordia de Oeiras,Porto Salvo,n/a,2012/07
+-9.30987752141157,38.729257065147,761,Bom,Sem Abrigo,Não,Não,LT,"122,125,184",1651,Avenida Lopo Soares de Albergaria,Porto Salvo,n/a,2012/07
+-9.31003618901669,38.7292063755107,760,Bom,Fechado dos Lados,Não,Não,LT,"122,125,184",1651,Avenida Lopo Soares de Albergaria,Porto Salvo,n/a,2012/07
+-9.22148311186592,38.7212035781456,623,Bom,Sem Abrigo,Não,Não,Carris,714,365,Estrada da Portela,Carnaxide e Queijas,n/a,2012/07
+-9.2215028063493,38.7213204669017,620,Bom,Sem Abrigo,Não,Não,Vimeca,"01,10,13,15",365,Estrada da Portela,Carnaxide e Queijas,n/a,2012/07
+-9.22148311186592,38.7212035781456,45,Bom,Sem Abrigo,Não,Não,Vimeca,"01,10,13,15",365,Estrada da Portela,Carnaxide e Queijas,n/a,2012/07
+-9.21941582711637,38.7203384172876,979,Bom,Fechado dos Lados,Não,Não,Carris,714,1160,Rua Cincinato da Costa,Carnaxide e Queijas,n/a,2012/07
+-9.21956078058201,38.7202826629923,978,Bom,Fechado dos Lados,Não,Não,Carris,714,1160,Rua Cincinato da Costa,Carnaxide e Queijas,n/a,2012/07
+-9.21941582711637,38.7203384172876,602,Bom,Fechado dos Lados,Não,Não,Vimeca,"01,10,13,15",1160,Rua Cincinato da Costa,Carnaxide e Queijas,n/a,2012/07
+-9.21956078058201,38.7202826629923,601,Bom,Fechado dos Lados,Não,Não,Vimeca,"01,10,13,15",1160,Rua Cincinato da Costa,Carnaxide e Queijas,n/a,2012/07
+-9.33048498032988,38.6969994363795,997,Razoável,Fechado dos Lados,Sim,Não,n/a,n/a,0,<Sem Código de Rua>,,Paragem sem placas de operadora,2012/07
+-9.21729737098461,38.72783926178,951,Bom,Fechado dos Lados,Sim,Sim,LT,"107,113,138,149",0,<Sem Código de Rua>,Carnaxide e Queijas,n/a,2012/07
+-9.2228498823663,38.7320478783188,945,Bom,Sem Abrigo,Não,Não,LT,"107,113,138,149",0,<Sem Código de Rua>,Carnaxide e Queijas,n/a,2012/07
+-9.26131726133815,38.7034441244938,891,Bom,Sem Abrigo,Não,Não,LT,102,0,<Sem Código de Rua>,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.33125612640316,38.6970967400736,889,Razoável,Fechado dos Lados,Sim,Sim,n/a,n/a,0,<Sem Código de Rua>,,Paragem sem placas de operadora,2012/07
+-9.26110003043244,38.7033622478264,887,Bom,Sem Abrigo,Não,Não,LT,102,0,<Sem Código de Rua>,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.32243049247155,38.7059386452288,867,Bom,Fechado dos Lados,Não,Não,Vimeca,30,0,<Sem Código de Rua>,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.32631855818831,38.699563038352,866,Bom,Fechado dos Lados,Sim,Sim,Vimeca,30,0,<Sem Código de Rua>,,n/a,2012/07
+-9.26383544243487,38.7085041534153,839,Bom,Sem Abrigo,Não,Não,LT,102,0,<Sem Código de Rua>,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.29384675838858,38.7467145704273,702,Bom,Fechado dos Lados,Não,Não,Vimeca,"22,23",0,<Sem Código de Rua>,,n/a,2012/07
+-9.29384675838858,38.7467145704273,701,Bom,Fechado dos Lados,Sim,Não,LT,140,0,<Sem Código de Rua>,,n/a,2012/07
+-9.29674406561888,38.7469204305642,700,Bom,Fechado dos Lados,Sim,Não,Vimeca,"22,23",0,<Sem Código de Rua>,,n/a,2012/07
+-9.29674406561888,38.7469204305642,699,Bom,Fechado dos Lados,Sim,Não,LT,140,0,<Sem Código de Rua>,,n/a,2012/07
+-9.29914594177969,38.7470455817606,698,Bom,Fechado dos Lados,Sim,Não,LT,140,0,<Sem Código de Rua>,,n/a,2012/07
+-9.30214219541355,38.7480070848707,697,Bom,Fechado dos Lados,Sim,Sim,LT,"112,119,125,140",0,<Sem Código de Rua>,,n/a,2012/07
+-9.30293893238003,38.7511748601277,696,Razoável,Fechado dos Lados,Não,Não,LT,"112,119,125,140",0,<Sem Código de Rua>,,n/a,2012/07
+-9.30278400674663,38.751250412157,695,Bom,Fechado dos Lados,Sim,Não,LT,"112,119,125,140",0,<Sem Código de Rua>,,n/a,2012/07
+-9.21729737098461,38.72783926178,596,Bom,Fechado dos Lados,Sim,Sim,Vimeca,20,0,<Sem Código de Rua>,Carnaxide e Queijas,n/a,2012/07
+-9.2228498823663,38.7320478783188,589,Bom,Sem Abrigo,Não,Não,Vimeca,20,0,<Sem Código de Rua>,Carnaxide e Queijas,n/a,2012/07
+-9.26110003043244,38.7033622478264,451,Bom,Sem Abrigo,Não,Não,Vimeca,06,0,<Sem Código de Rua>,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.32242902120709,38.7059380218541,377,Bom,Fechado dos Lados,Não,Não,SCoTTURB,"470,485",0,<Sem Código de Rua>,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.32222953312207,38.7058299667546,374,Bom,Sem Abrigo,Não,Sim,SCoTTURB,"470,485",0,<Sem Código de Rua>,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.32631855818831,38.699563038352,373,Bom,Fechado dos Lados,Sim,Sim,SCoTTURB,"467,470,475,479,485,489",0,<Sem Código de Rua>,,n/a,2012/07
+-9.26383544243487,38.7085041534153,329,Bom,Sem Abrigo,Não,Não,Vimeca,06,0,<Sem Código de Rua>,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.26414483215179,38.7087756289991,328,Bom,Sem Abrigo,Não,Não,LT,102,0,<Sem Código de Rua>,"Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",n/a,2012/07
+-9.30130818762835,38.7471287060994,96,Bom,Sem Abrigo,Não,Não,Vimeca,"15,22,23",0,<Sem Código de Rua>,,n/a,2012/07
+-9.29914594177969,38.7470455817606,95,Bom,Fechado dos Lados,Sim,Não,Vimeca,"15,22,23",0,<Sem Código de Rua>,,n/a,2012/07
+-9.30198601877261,38.7480362310402,94,Bom,Fechado dos Lados,Sim,Sim,LT,"112,119,125",0,<Sem Código de Rua>,,n/a,2012/07
+-9.30214196904727,38.7480064771291,93,Bom,Fechado dos Lados,Sim,Sim,Vimeca,15,0,<Sem Código de Rua>,,n/a,2012/07
+-9.30293870346151,38.7511747208479,92,Razoável,Fechado dos Lados,Não,Não,Vimeca,15,0,<Sem Código de Rua>,,n/a,2012/07
+-9.30278395490106,38.7512503131468,91,Bom,Fechado dos Lados,Sim,Não,Vimeca,15,0,<Sem Código de Rua>,,n/a,2012/07
+-9.27579356569229,38.7013768397782,419,Bom,Fechado dos Lados,Não,Sim,LT,"106,117,158",849,Avenida António Florêncio dos Santos,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.2755558562728,38.70168813088,88,Bom,Fechado dos Lados,Sim,Sim,LT,"106,117,158",849,Avenida António Florêncio dos Santos,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.23180144888784,38.7174066473489,1003,Bom,Fechado dos Lados,Não,Não,COMBUS,n/a,1196,Rua Carlos Belo Morais,Carnaxide e Queijas,n/a,2012/07
+-9.22783738570782,38.7195257225557,625,Bom,Fechado dos Lados,Sim,Não,COMBUS,n/a,1196,Rua Carlos Belo Morais,Carnaxide e Queijas,n/a,2012/07
+-9.2275030889017,38.7199598768711,624,Bom,Fechado dos Lados,Não,Não,COMBUS,n/a,1196,Rua Carlos Belo Morais,Carnaxide e Queijas,Placa pouco legível,2012/07
+-9.23180144888784,38.7174066473489,611,Bom,Fechado dos Lados,Não,Não,Vimeca,"01,13,15",1196,Rua Carlos Belo Morais,Carnaxide e Queijas,n/a,2012/07
+-9.23183456868203,38.7173244549564,610,Bom,Sem Abrigo,Não,Não,Vimeca,"01,13,15",1196,Rua Carlos Belo Morais,Carnaxide e Queijas,n/a,2012/07
+-9.22783738570782,38.7195257225557,49,Bom,Fechado dos Lados,Sim,Não,Vimeca,"01,13,15",1196,Rua Carlos Belo Morais,Carnaxide e Queijas,n/a,2012/07
+-9.2275030889017,38.7199598768711,48,Bom,Fechado dos Lados,Não,Não,Vimeca,"01,13,15",1196,Rua Carlos Belo Morais,Carnaxide e Queijas,n/a,2012/07
+-9.28170494990803,38.7042151104328,443,Bom,Aberto dos Lados,Não,Não,LT,158,853,Rua Bartolomeu Dias,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.27846493465858,38.7080279232831,296,Bom,Sem Abrigo,Não,Não,LT,158,850,Rua António Pires,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.28555892753071,38.710613541733,833,Bom,Sem Abrigo,Não,Não,LT,158,1605,Avenida Professor António Maria Baptista Fernandes,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",n/a,2012/07
+-9.31712574710679,38.6886510657044,1029,Bom,Aberto dos Lados,Sim,Não,SCoTTURB,"470, 489",,<Sem Código de Rua>,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias","Terminal: 470 - Talaíde; 489 - Parede Terminal",2014.07.28
+-9.31720793072523,38.6886290213868,1028,Bom,Aberto dos Lados,Sim,Não,SCoTTURB,"467, 468",,<Sem Código de Rua>,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias","Terminal 467 -Ssintra Estação; 468 - Rio de Mouro Estação",2014.07.28
+-9.31713595933822,38.6886138410735,1027,Bom,Aberto dos Lados,Sim,Não,SCoTTURB,479,,<Sem Código de Rua>,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",Terminal 479 - Urb. Jardins da Parede,2014.07.24
+-9.31663940934252,38.6887832619402,1024,Bom,Aberto dos Lados,Sim,Sim,LT,"112, 115",,<Sem Código de Rua>,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",,2014.07.24
+-9.31663464155382,38.6886581586345,1023,Razoável,Aberto dos Lados,Sim,Sim,SCoTTURB,471,,<Sem Código de Rua>,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",,2014.07.24
+-9.31662825107578,38.6885988293521,1022,Razoável,Aberto dos Lados,Sim,Sim,LT,106,,<Sem Código de Rua>,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",,2014.07.24
+-9.31692493596739,38.6887008261595,1021,Bom,Aberto dos Lados,Sim,Não,LT,122,,<Sem Código de Rua>,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",,2014.07.24
+-9.31693887525757,38.6886434122905,1020,Bom,Aberto dos Lados,Sim,Não,LT,111,,<Sem Código de Rua>,"Oeiras e São Julião da Barra, Paço de Arcos e Caxias",,2014.07.24

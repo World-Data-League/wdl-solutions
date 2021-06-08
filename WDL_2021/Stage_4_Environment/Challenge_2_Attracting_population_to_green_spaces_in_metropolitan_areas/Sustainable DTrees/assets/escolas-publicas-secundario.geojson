@@ -1,0 +1,577 @@
+{
+  "type" : "FeatureCollection", 
+  "features" : [
+    {
+      "type" : "Feature", 
+      "id" : 1, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.14987161674606, 38.7118977803481
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 1, 
+        "COD_SIG" : "2201205011001001", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica e Secundária Passos Manuel", 
+        "INF_MORADA" : "Travessa do Convento de Jesus\n", 
+        "INF_TELEFONE" : "+351 213 955 191; +351 213 931 170", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "info@aepassosmanuel.pt (Agrupamento); espm@abc.edu.pt", 
+        "INF_SITE" : "http://passos.abc.edu.pt/; http://aepassosmanuel.pt/escolas/ebs-passos-manuel/", 
+        "INF_DESCRICAO" : "Agrupamento: Passos Manuel (Sede)\nInstalado no extinto Convento de Jesus desde 1910. Sofreu obras de remodelação que duraram 20 anos. Com amplas e adequadas instalações, gabinetes bem apetrechados, este estabelecimento de ensino não deixou de se desenvolver. Por ele passaram conhecidas personalidades de Lisboa.\n\nCursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  \nCiências e Tecnologias e Línguas e Humanidades\n\nÁreas de CURSOS PROFISSIONAIS: \nCiências Informáticas, Artes do Espetáculo e Turismo e Lazer\n\n\nO Liceu de Passos Manuel foi o 1º liceu português planeado de raiz a partir dos conceitos defendidos pelo modernizador do ensino público e obrigatório em Portugal, o ministro cujo nome figura na instituição em sua homenagem. Cerca de 20 anos passaram desde o arranque do projecto até à instalação definitiva do liceu num imóvel erguido nas antigas cercas dos Conventos dos Paulistas e de Jesus. O projecto inicial, da autoria de José Luís Monteiro, datado de 1882, foi alterado por Rafael da Silva e Castro em 1888 e por Rosendo Carvalheira em 1896, sendo revisto em 1907. A transferência definitiva para as novas instalações ficou concluída em 1911. Rosendo Carvalheira manteve a estrutura clássica de influência francesa do projecto original, apresentando uma planta simétrica em função de cujo eixo central se articulavam os diversos espaços. O processo de concepção e construção do edifício, bem destacado na envolvente urbana, constituiu sem dúvida a primeira tentativa para formular uma verdadeira arquitectura de utilidade pública, funcional e racionalista, com capacidade para dar resposta às necessidades logísticas e pedagógicas de um liceu urbano, assim como às exigências das mais recentes teorias higienistas, conferindo-lhe um carácter exemplar, como uma das referências da arquitectura escolar da época, e um evidente valor patrimonial. Este antigo liceu encontra-se classificado como Monumento de Interesse Público, incluindo o edifício principal, a residência do Reitor, a casa do porteiro, os pátios, a alameda, os jardins e a horta. Já com uma nova designação, Escola Básica e Secundária de Passos Manuel, o imóvel foi objecto de uma grande intervenção entre 2008 e 2010, no âmbito do Programa de Modernização das Escolas do Ensino Secundário, com projecto da autoria dos arquitectos Victor Mestre e Sofia Aleixo. A intervenção discreta e delicada, que realçou a identidade do edifício, assim como uma forma inteligente de acrescentar a obra nova, necessária aos usos actuais, valeu-lhe uma Menção Honrosa do Prémio Valmor de 2010 e o Prémio Europa Nostra do Património Cultural da União Europeia, na categoria de Conservação, em 2013.\n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "2dec32d9-2242-431e-b824-a9de4b8742a6"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 2, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.19559461604951, 38.699952975367
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 2, 
+        "COD_SIG" : "3201301162001001", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Secundária Marquês de Pombal", 
+        "INF_MORADA" : "Rua Alexandre de Sá Pinto", 
+        "INF_TELEFONE" : "+351 213 616 630", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "geral@esmp.pt", 
+        "INF_SITE" : "http://www.esmp.pt/", 
+        "INF_DESCRICAO" : "Cursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  \nCiências e Tecnologias\n\nÁreas de CURSOS PROFISSIONAIS:  \nAudiovisuais e Produção de Média, Desporto, Construção e Reparação de Veículos a Motor\n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "baf4b942-9e98-4020-8d8d-0b6dbfa86bd1"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 3, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.11301125320364, 38.7518716629711
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 3, 
+        "COD_SIG" : "2106901004001001", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Secundária D. Dinis - Lisboa", 
+        "INF_MORADA" : "Rua Manuel Teixeira Gomes ", 
+        "INF_TELEFONE" : "+351 926 734 195; +351 218 310 190", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "servicos.administrativos@aeddinis.pt; sa@aeddinis.pt; info@esecddinis.pt", 
+        "INF_SITE" : "http://www.esecddinis.pt/", 
+        "INF_DESCRICAO" : " Agrupamento: D. Dinis (Sede)\n\nCursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  \nCiências e Tecnologias, Ciências Socioeconómicas, Línguas e Humanidades\n\nÁreas de CURSOS PROFISSIONAIS:  \nAudiovisuais e Produção de Média, Serviços de Apoio a Crianças e Jovens, Ciências Informáticas, Desporto.", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "e866422b-8419-4279-8cc9-a3ee715183c3"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.10843130950853, 38.7703116928653
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 4, 
+        "COD_SIG" : "3307203001001001", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Secundária António Damásio", 
+        "INF_MORADA" : "Avenida Dr. Francisco Luís Gomes", 
+        "INF_TELEFONE" : "+351 218 536 433; +351 218 514 837 (Secretaria)", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "direcao@aeolivais.pt ", 
+        "INF_SITE" : "https://esad.edu.pt/; https://aeolivais.edu.pt/", 
+        "INF_DESCRICAO" : "Agrupamento: Santa Maria dos Olivais (Sede).\n\nCursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  \nCiências e Tecnologias, Ciências Socioeconómicas, Línguas e Humanidades, Artes Visuais\n\nÁreas de CURSOS PROFISSIONAIS:  \nCiências Informáticas, Comércio, Turismo e Lazer, Eletricidade e Energia, Eletrónica e Automação\n\nA Escola Secundária António Damásio foi objecto de uma intervenção, no âmbito do Programa de Modernização das Escolas do Ensino Secundário, com projecto do arq. Manuel Mendes Tainha, tendo sido distinguida com uma Menção Honrosa do Prémio Valmor de 2011. A intervenção focou-se na requalificação e ampliação dos edifícios existentes e na construção de um novo bloco. O corpo principal do edifício foi ampliado com base na lógica espacial da métrica do edifício existente. Os espaços desportivos cobertos foram objecto de processo semelhante, tendo sofrido igualmente uma ampliação. Por sua vez, em relação aos espaços exteriores, também, intervencionados, o projecto definiu três zonas diferenciadas: uma zona de entrada, uma zona de campos desportivos exteriores de menor dimensão e uma zona com um grande recinto desportivo e um campo de pistas de corrida. Equilíbrio e simplicidade, conciliando desenhos e métricas, originais e actuais, caracterizaram a intervenção nesta escola, com o objectivo de promover a coerência da construção escolar e dar resposta a novas exigências programáticas. Estas razões justificaram a atribuição da referida distinção.", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "49c4428f-b291-4539-b603-1b5a7268b458"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 5, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.16756628266635, 38.7131536138509
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 5, 
+        "COD_SIG" : "3503001002001001", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica e Secundária Josefa de Óbidos", 
+        "INF_MORADA" : "Rua Coronel Ribeiro Viana, 11 ", 
+        "INF_TELEFONE" : "+351 213 929 000; +351 925 260 536", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "geral@e-josefadeobidos.edu.pt; direcao@e-josefadeobidos.edu.pt", 
+        "INF_SITE" : "https://e-josefadeobidos.edu.pt/Portal/index.php/escolas/escola-basica-e-secundaria-josefa-de-obidos; https://e-josefadeobidos.edu.pt/Portal/", 
+        "INF_DESCRICAO" : "Agrupamento: Padre Bartolomeu de Gusmão (Sede).\n\nCursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:\nCiências e Tecnologias, Línguas e Humanidades\n\n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 1, 
+        "GlobalID" : "ef41a2d7-a4de-4354-82ab-9bf14c0ec86a"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 6, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.1413403632052, 38.7513554829074
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 6, 
+        "COD_SIG" : "4201702030001001", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Secundária Rainha D. Leonor", 
+        "INF_MORADA" : "Rua Maria Amália Vaz de Carvalho", 
+        "INF_TELEFONE" : "+351 218 428 880", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "informacoes@aerdl.eu", 
+        "INF_SITE" : "https://nsite.aerdl.eu/; https://nsite.aerdl.eu/index.php/agrupamento/es-rainha-dona-leonor", 
+        "INF_DESCRICAO" : "Agrupamento: Rainha Dona Leonor (Sede).\n\nCursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  \nCiências e Tecnologias, Ciências Socioeconómicas, Línguas e Humanidades, Artes Visuais\n\nÁreas de CURSOS PROFISSIONAIS:  \nCiências Informáticas\n\nA Escola Secundária com 3º Ciclo do Ensino Básico Rainha D. Leonor integra o conjunto de escolas pertencente ao período das construções escolares inaugurado em 1961 e ampliado em 1967. Objecto de nova intervenção, entre 2009 e 2010, no âmbito do Programa de Modernização das Escolas do Ensino Secundário, teve projecto da autoria do Atelier dos Remédios - Arquitectura e Renovação Urbana, Lda, que lhe valeu o Prémio Valmor e Municipal de Arquitectura de 2011, ex-aequo com as Escolas Vergílio Ferreira e Francisco Arruda. A riqueza e originalidade da intervenção permitiu criar uma nova escala e redefinir a relação plástica entre a escola e a comunidade, na medida em que o novo edifício, capaz de dar resposta à necessidade de ampliação da escola, permitiu igualmente uma redefinição da entrada principal, favorecendo a gestão e autonomia dos espaços com maior abertura à comunidade, nomeadamente a sala polivalente, a biblioteca e os espaços desportivos.", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "9ec4a4ef-35a9-42a4-ba4e-2f837de80110"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 7, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.12801990971196, 38.7164700571697
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 7, 
+        "COD_SIG" : "5100901026001001", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica e Secundária Gil Vicente", 
+        "INF_MORADA" : "Rua da Verónica, 37 ", 
+        "INF_TELEFONE" : "+351 218 860 041", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "geral@aegv.pt", 
+        "INF_SITE" : "https://www.aegv.site/gil-vicente; https://www.aegv.site/", 
+        "INF_DESCRICAO" : "Agrupamento: Gil Vicente (Sede).\n\nCursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  \nCiências e Tecnologias, Línguas e Humanidades\n\nÁreas de CURSOS PROFISSIONAIS:  \nCiências Informáticas, Turismo e Lazer, Artes do Espetáculo, Comércio", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "4bcd5216-312a-4af9-a8f4-e29f3fa0806f"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.2140597930401, 38.7097066539084
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 8, 
+        "COD_SIG" : "4001302007001001", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Secundária Restelo", 
+        "INF_MORADA" : "Rua Antão Gonçalves", 
+        "INF_TELEFONE" : "+351 213 016 528", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "geral@aerestelo.pt; direcao@aerestelo.pt", 
+        "INF_SITE" : "https://aerestelo.pt/", 
+        "INF_DESCRICAO" : "Agrupamento: Restelo (Sede)\n\nCursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  \nCiências e Tecnologias, Ciências Socioeconómicas, Línguas e Humanidades, Artes Visuais\n\nA Escola Secundária do Restelo iniciou a sua actividade lectiva no ano de 1980/81.", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "06dec26d-b4d1-427f-b98c-fcd7987cf507"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 9, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13562573411851, 38.7577435064438
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 9, 
+        "COD_SIG" : "4202501006001001", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Secundária Padre António Vieira", 
+        "INF_MORADA" : "Rua Marquês de Soveral ", 
+        "INF_TELEFONE" : "+351 218 484 111", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "espav@mail.telepac.pt", 
+        "INF_SITE" : "http://aealvalade.edu.pt (Agrupamento); http://aealvalade.edu.pt/index.php/agrupamento/escolas/espav/espav-contactos", 
+        "INF_DESCRICAO" : "Agrupamento: Alvalade (Sede)\n\nCursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  \nCiências e Tecnologias, Ciências Socioeconómicas, Línguas e Humanidades\n\nÁreas de CURSOS PROFISSIONAIS:  \nCiências Informáticas, Audiovisuais e Produção de Média, Saúde ", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "f718eac9-134a-47a3-824c-e2ea32aa4439"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 10, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.1622694645099, 38.7693639433044
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 10, 
+        "COD_SIG" : "1805802001001001", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Secundária Lumiar", 
+        "INF_MORADA" : "Rua Mário Sampaio Ribeiro", 
+        "INF_TELEFONE" : "+351 217 540 747", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "aelindleycintra@gmail.com", 
+        "INF_SITE" : "http://www.aelindleycintra.edu.pt/; http://www.aelindleycintra.edu.pt/index.php/escs/esl", 
+        "INF_DESCRICAO" : "Agrupamento: Professor Lindley Cintra (Sede).\n\nCursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  \nCiências e Tecnologias, Línguas e Humanidades\n\nÁreas de CURSOS PROFISSIONAIS:  \nTurismo e Lazer, Comércio, Ciências Informáticas", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "1a28ce2f-5c17-43f8-9bfe-74f77c74be9a"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 11, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.11241063690973, 38.7645920629
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 11, 
+        "COD_SIG" : "3310801002001001", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Secundária Eça de Queirós", 
+        "INF_MORADA" : "Rua Cidade de Benguela ", 
+        "INF_TELEFONE" : "+351 218 540 710", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "agrupamento@queiroz.pt", 
+        "INF_SITE" : "http://www.queiroz.pt/", 
+        "INF_DESCRICAO" : "Agrupamento: Eça de Queirós (Sede)\nEnsino Básico Regular, Ensino Secundário Regular, Ensino Secundário Profissional, Ensino Recorrente por Módulos Capitalizáveis, Cursos de Educação e Formação de Adultos (EFA), Centro de Novas Oportunidades (RVCC), Cursos de Educação Extra-Escolar (Informática, Língua estrangeira, Português para Estrangeiros), Português como língua não materna.\n\nCursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  \nCiências e Tecnologias, Ciências Socioeconómicas, Línguas e Humanidades\n\nÁreas de CURSOS PROFISSIONAIS:  \nArtes do Espetáculo, Gestão e Administração, Marketing e Publicidade, Audiovisuais e Produção de Média", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "6b6df123-2954-4148-8c28-4a20b577fa70"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 12, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15671327128989, 38.7265022222289
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 12, 
+        "COD_SIG" : "5001305007001001", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Secundária Maria Amália Vaz de Carvalho", 
+        "INF_MORADA" : "Rua Rodrigo da Fonseca, 115", 
+        "INF_TELEFONE" : "+351 213 841 910/18", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "direcao@esmavc.org; secretaria@esmavc.org; esmavc@mail.telepac.pt", 
+        "INF_SITE" : "https://www.esmavc.edu.pt/", 
+        "INF_DESCRICAO" : "Cursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  \nCiências e Tecnologias, Ciências Socioeconómicas, Línguas e Humanidades, Artes Visuais\n\nÁreas de CURSOS PROFISSIONAIS:  \nDesporto, Hotelaria e Restauração\n\nOcupando a quase totalidade de um quarteirão das Avenidas Novas, nas proximidades do Parque Eduardo VII, a actual Escola Secundária Maria Amália Vaz de Carvalho teve origem na Escola D. Maria Pia para o sexo feminino, criada em 1885 no Largo do Contador-Mor. Ao longo dos tempos assumiu várias designações e conheceu outras localizações. Em 1926, já no Largo do Carmo, recebeu o nome de Maria Amália Vaz de Carvalho, em homenagem à escritora e poetisa, defensora da criação de um liceu feminino em Portugal. A primeira fase de construção de um novo edifício, segundo projeto do arqº Miguel Ventura Terra, data de 1915, tendo sido suspensa em 1921. O arranque da segunda fase construtiva ocorreu em meados de 1930, já orientada pelo arqº António do Couto de Abreu. O edifício foi inaugurado em 1933, embora com algumas alterações ao projecto inicial. Em Vias de Classificação, trata-se do primeiro liceu feminino construído de raíz, cuja racionalidade e amplitude do projeto de Ventura Terra traduz um caso exemplar das construções escolares femininas. O seu modelo construtivo simples e funcional, estruturado em quatro pavilhões quadrangulares, com funções complementares perpendiculares à frontaria e articulados \"em pente\", evidencia uma clara influência dos modelos dos liceus franceses. A extensa frontaria desenvolvida em cinco corpos sucessivos de três pisos, apresenta torreões laterais seguidos por um corpo longitudinal que faz a ligação ao corpo central, avançado, onde se abre a porta principal encimada por três janelões. No interior, o acesso ao átrio central do primeiro andar, onde estão localizados o Salão Nobre, a Biblioteca e a antiga Sala do Conselho, é feito por uma escadaria dupla, em mármore. Nas alas laterais distribuem-se as salas de aulas e os espaços dedicados a Educação Física, incluindo o ginásio original. Por último, do seu património móvel integrado destacam-se o mobiliário e a coleção de instrumentos científicos dos laboratórios de Física e Química, ainda originais, e os espaços dedicados a Geografia e História, que conservam cartografia variada, e a Biologia-Geologia, incluindo o depósito de Geologia e Mineralogia. Após o 25 de Abril de 1974, este Liceu começou a integrar turmas mistas, de forma gradual.", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "194a0f34-9944-42ae-a8b1-c5fad25f8424"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 13, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.16222525841477, 38.7419865266753
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 13, 
+        "COD_SIG" : "2303802029001001", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Secundária D. Pedro V", 
+        "INF_MORADA" : "Estrada das Laranjeiras , 122\n", 
+        "INF_TELEFONE" : "+351 217 246 060", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "direcao@ael.edu.pt; secretaria.funcionarios@ael.edu.pt", 
+        "INF_SITE" : "https://ael.edu.pt/secundaria-d-pedro-v/; http://ael.edu.pt/ ", 
+        "INF_DESCRICAO" : "Agrupamento: Laranjeiras (Sede). GUAS: Centro.\n\nCursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  \nCiências e Tecnologias, Ciências Socioeconómicas, Línguas e Humanidades\n\nÁreas de CURSOS PROFISSIONAIS:  \nTurismo e Lazer, Artes do Espetáculo, Desporto, Ciências Informáticas, Saúde, Comércio, Secretariado e Trabalho Administrativo", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "13c1bddb-e7cc-4feb-870a-a5964c3fc1f5"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 14, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.19410643371218, 38.7474714340612
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 14, 
+        "COD_SIG" : "0806704002001001", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Secundária José Gomes Ferreira", 
+        "INF_MORADA" : "Rua Prof. José Sebastião e Silva", 
+        "INF_TELEFONE" : "+351 217 121 470", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "direcao.esjgferreira@aebenfica.pt; direcao@aebenfica.pt", 
+        "INF_SITE" : "https://sites.google.com/a/aebenfica.pt/aeb-jgf/", 
+        "INF_DESCRICAO" : "Agrupamento: Benfica (Sede)\n\nCursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  \nCiências e Tecnologias, Ciências Socioeconómicas, Línguas e Humanidades, Artes Visuais\n\nConstruída entre 1976 e 1980,por iniciativa do Ministério da Educação,com projeto da autoria dos arqs. Raúl Hestnes Ferreira,Jorge Gouveia e José Teixeira,foi inaugurada em 1982.Viu reconhecida a sua qualidade,nesse mesmo ano,com a atribuição de uma Menção Honrosa do Prémio Valmor,assim como do Prémio AICA (Associação Internacional dos Críticos de Arte).De grande sobriedade,grande clareza compositiva e simetria,este edifício,inovador para a época em que foi edificado,surge como uma nova proposta de vivência do espaço-escola,conferindo uma dimensão formal diferente à área onde foi implantado.Em betão descofrado cinzento,estrutura-se em 5 corpos diferentemente alongados,à semelhança dos 5 dedos da mão,terminando cada um deles em volume cilíndrico,rematados por terraços,que aproveitam os espaços exteriores,favorecendo uma relação harmoniosa e cuidada com a ampla área ajardinada.Por sua vez,as salas de aula,anfiteatros e outras áreas distribuem-se pelos seus 2 ou 3 pisos,favorecendo uma ocupação e uma vivência interior.", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "df2861fc-6c9d-4436-b7b8-7742914d0c76"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 15, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.18085197854456, 38.7615232380802
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 15, 
+        "COD_SIG" : "1103701026001001", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Secundária Vergílio Ferreira", 
+        "INF_MORADA" : "Rua do Seminário, Quinta dos Inglesinhos", 
+        "INF_TELEFONE" : "+351 217 122 020", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "esvf@aevf.pt", 
+        "INF_SITE" : "https://www.aevf.pt/", 
+        "INF_DESCRICAO" : "Agrupamento: Vergílio Ferreira (Sede).\n\nCursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  \nCiências e Tecnologias, Ciências Socioeconómicas, Línguas e Humanidades, Artes Visuais\n\nÁreas de CURSOS PROFISSIONAIS:  \nCiências Informáticas\n\nA Escola Secundária com 3º Ciclo do Ensino Básico Vergílio Ferreira, foi objecto de uma intervenção, entre 2009 e 2010, no âmbito do Programa de Modernização das Escolas do Ensino Secundário, centrada na reabilitação e reorganização dos edifícios existentes e na introdução de um novo edifício de entrada, o qual acolheu os serviços administrativos e assegurou a ligação com os edifícios da biblioteca, espaços para docentes e espaços de acolhimento a pais e encarregados de educação. O projecto, da autoria do Atelier Central, foi distinguido com o Prémio Valmor e Municipal de Arquitectura de 2011, ex-aequo com as Escolas Rainha D. Leonor e Francisco Arruda. A simplicidade e inteligência na criação de corredores capazes de unificaram esta escola até então desagregada, possibilitando-lhe uma nova fachada de representação, foram as razões que justificaram esta distinção.\n\n", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "67fc144e-5edc-4e71-93d8-d8e2841d3f7a"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 16, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13092466787873, 38.7265545168526
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 16, 
+        "COD_SIG" : "0601901071001001", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Secundária D. Luísa de Gusmão", 
+        "INF_MORADA" : "Rua da Penha de França, 173", 
+        "INF_TELEFONE" : "+351 218 161 160; +351 218 147 488", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "esd.luisagusmao@aenunogoncalves.com; sa.alunos.aeng@aenunogoncalves.com", 
+        "INF_SITE" : "http://aenunogoncalves.com/", 
+        "INF_DESCRICAO" : "Agrupamento: Nuno Gonçalves. GUAs: Centro Ribeirinho.\n\nCursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  \nCiências e Tecnologias, Ciências Socioeconómicas, Línguas e Humanidades\n\nÁreas de CURSOS PROFISSIONAIS:  \nSaúde, Desporto, Eletrónica e Automação", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "e5f17dac-2945-485e-9b2e-41396852683f"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 17, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.14016474068782, 38.739726985315
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 17, 
+        "COD_SIG" : "4302215004001001", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Básica e Secundária D. Filipa de Lencastre", 
+        "INF_MORADA" : "Avenida Magalhães Lima ", 
+        "INF_TELEFONE" : "+351 218 407 045", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "direcao@aedfl.edu.pt", 
+        "INF_SITE" : "http://www.aedfl.pt/es-23-d-filipa-de-lencastre/", 
+        "INF_DESCRICAO" : "Agrupamento: D. Filipa de Lencastre (Sede). GUAS:Centro.\n\nCursos nas Áreas CIENTÍFICO-HUMANÍSTICAS: \nCiências e Tecnologias, Ciências Socioeconómicas, Línguas e Humanidades", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "5f6200ae-e1d4-4375-87d7-01ac8c9d0068"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 18, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.11376807574567, 38.7339830004109
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 18, 
+        "COD_SIG" : "0702105019001", 
+        "IDTIPO" : "2", 
+        "INF_NOME" : "Escola Básica e Secundária Luís António Verney", 
+        "INF_MORADA" : "Rua Marquês de Olhão", 
+        "INF_TELEFONE" : "+351 218 610 100", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://aelaverney.pt/", 
+        "INF_DESCRICAO" : "Agrupamento: Luís António Verney (Sede)", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "ecd7e1e9-5c8f-4855-ab0b-7524719503b3"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 19, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.18883520855817, 38.7023861726557
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 19, 
+        "COD_SIG" : "0202901048001001", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Secundária Rainha D. Amélia", 
+        "INF_MORADA" : "Rua Jau, Alto de Santo Amaro", 
+        "INF_TELEFONE" : "+351 213 616 060", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "esrda@mail.telepac.pt; direcao@esrda.edu.pt", 
+        "INF_SITE" : "http://www.esrda.edu.pt/", 
+        "INF_DESCRICAO" : "Cursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  \nCiências e Tecnologias, Ciências Socioeconómicas, Línguas e Humanidades, Artes Visuais", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "797b1e73-5812-4c5c-98c0-2867ff73c34c"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 20, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.18883520855817, 38.7023861726557
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 20, 
+        "COD_SIG" : "0202901048001001", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Secundária Fonseca Benevides", 
+        "INF_MORADA" : "Rua Jau, Alto de Santo Amaro", 
+        "INF_TELEFONE" : "+351 213 617 440", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "info@esfb.pt", 
+        "INF_SITE" : "http://www.esfb.pt", 
+        "INF_DESCRICAO" : "Cursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  \nCiências e Tecnologias, Línguas e Humanidades\n\nÁreas de CURSOS PROFISSIONAIS:  \nEletrónica e Automação, Tecnologia dos Processos Químicos, Ciências Informáticas\n\nESCOLA com ENSINO À DISTÂNCIA no SECUNDÁRIO (10º, 11º e 12º Ano) apenas nos Cursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  \nCiências e Tecnologias, Línguas e Humanidades", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "86e76733-3503-4217-9bd3-5de509833758"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 21, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15847366471788, 38.7164183264087
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 21, 
+        "COD_SIG" : "3001301052001001", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Secundária Pedro Nunes", 
+        "INF_MORADA" : "Avenida Álvares Cabral", 
+        "INF_TELEFONE" : "+351 213 940 090; +351 213 976 265", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "secretarialunos@espn.edu.pt; direcao@espn.edu.pt", 
+        "INF_SITE" : "http://www.espn.edu.pt/", 
+        "INF_DESCRICAO" : "Cursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  \nCiências e Tecnologias, Ciências Socioeconómicas, Línguas e Humanidades, Artes Visuais", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "25949256-67ce-42ee-ad22-b0ca2c1e5a4a"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 22, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.1433131282478, 38.73016993011
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 22, 
+        "COD_SIG" : "4403701016001001", 
+        "IDTIPO" : "999", 
+        "INF_NOME" : "Escola Secundária Camões", 
+        "INF_MORADA" : "Praça José Fontana ", 
+        "INF_TELEFONE" : "+351 213 190 380", 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : "secretaria@escamoes.pt; direcao@escamoes.pt", 
+        "INF_SITE" : "https://liceucamoes.wixsite.com/camoes", 
+        "INF_DESCRICAO" : "Cursos nas Áreas CIENTÍFICO-HUMANÍSTICAS:  \nCiências e Tecnologias, Ciências Socioeconómicas, Línguas e Humanidades, Artes Visuais\n\nÁreas de CURSOS PROFISSIONAIS:  \nCiências Informáticas, Artes Visuais e Produção de Média\n\nProjetado em 1907, pelo arq. Miguel Ventura Terra, foi construído de raiz na Praça José Fontana, entre 1908-1909, ano em que foi inaugurado sob a designação oficial de \"Lyceu de Camões\", tornando-se uma referência pioneira na arquitectura escolar à época, inaugurando em conjunto com outros liceus um modelo de liceu moderno em Lisboa. Este novo modelo de liceu trouxe uma arquitetura de utilidade pública, funcionalmente racionalista, muito técnica, desenvolvida numa linha decorativamente despojada e de volumetrias simples. Tendo em conta a construção de um edifício essencialmente higiénico e confortável, bastante arejado e iluminado, o arq. projetou blocos retangulares articulados, recorrendo aos novos materiais da época, o ferro e o tijolo, assim como a um esquema compositivo que primava pela ausência de corredores fechados, preferindo salas abertas para o pátio ou para galerias exteriores, favorecendo a existência de múltiplos espaços de recreio. Estruturado em dois pisos, o edifício apresenta planta retangular e simétrica, segundo um esquema em tridente, inscrevendo-se num alongado retângulo seccionado por outros três, correspondentes a três alas paralelas entre si e perpendiculares à fachada principal, que possibilitam a formação de dois amplos espaços abertos, retangulares, destinados a recreio. A distribuição das salas de aula é feita pelos corpos laterais, encontrando-se os serviços administrativos, refeitórios e o ginásio instalados no corpo central. Em 1927 foram construídos dois pavilhões nos eixos dos Pátios Sul e Norte, respetivamente destinados a Laboratórios de Física e de Química. Em 1972 foi inaugurado à entrada do liceu, por ocasião do IV Centenário da Publicação de \"Os Lusíadas\", o busto de Camões, encomendado ao escultor Fernando Fernandes, para homenagear o grande poeta portugês, que deu nome a este liceu. A classificação como MIP inclui o edifício principal, os gabinetes de Física e de Química, os pátios, os jardins e os campos de jogos.", 
+        "INF_FONTE" : "Ministério da Educação", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "278aa478-ba85-41be-8a8d-7a23feb77545"
+      }
+    }
+  ]
+}

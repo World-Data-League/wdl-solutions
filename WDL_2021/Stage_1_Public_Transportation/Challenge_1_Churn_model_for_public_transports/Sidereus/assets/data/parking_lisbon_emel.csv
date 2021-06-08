@@ -1,0 +1,50 @@
+id_parque,nome,capacidade_max,ocupacao,position,add_data_ocupacao
+P005,Saldanha Residence,503,282,"{""coordinates"": [-9.14548192620168, 38.7323043382636], ""type"": ""Point""}",09/04/2021
+P008,Valbom,513,305,"{""coordinates"": [-9.15176054084168, 38.7366155609067], ""type"": ""Point""}",09/04/2021
+P057,Manuel Gouveia,398,51,"{""coordinates"": [-9.130995, 38.744327], ""type"": ""Point""}",09/04/2021
+P061,Parque Vila Maria,67,0,"{""coordinates"": [-9.166372, 38.725041], ""type"": ""Point""}",09/04/2021
+P029,Colégio Militar,415,210,"{""coordinates"": [-9.188327, 38.752172], ""type"": ""Point""}",09/04/2021
+P012,Berna,354,258,"{""coordinates"": [-9.1520223, 38.7394789], ""type"": ""Point""}",09/04/2021
+P035,Parque Mayer,81,30,"{""coordinates"": [-9.145547, 38.719062], ""type"": ""Point""}",09/04/2021
+P019,El Corte Inglés,2000,1005,"{""coordinates"": [-9.15528429, 38.7352591], ""type"": ""Point""}",09/04/2021
+P014,Alto do Parque,474,230,"{""coordinates"": [-9.153596, 38.731063], ""type"": ""Point""}",09/04/2021
+P062,Parque da Graça,115,0,"{""coordinates"": [-9.128867, 38.716819], ""type"": ""Point""}",09/04/2021
+P001,Marquês de Pombal,1145,764,"{""coordinates"": [-9.15104299999, 38.7247865], ""type"": ""Point""}",09/04/2021
+P016,Universidade,247,110,"{""coordinates"": [-9.158464, 38.750671], ""type"": ""Point""}",09/04/2021
+P018,Roma,602,488,"{""coordinates"": [-9.1418056, 38.7492735], ""type"": ""Point""}",09/04/2021
+P033,Lumiar,160,37,"{""coordinates"": [-9.159321, 38.773079], ""type"": ""Point""}",09/04/2021
+P003,Saldanha,503,299,"{""coordinates"": [-9.14573228492395, 38.7335172346174], ""type"": ""Point""}",09/04/2021
+P063,Cosme Damião,286,136,"{""coordinates"": [-9.128867, 38.716819], ""type"": ""Point""}",09/04/2021
+P002,Picoas Plaza,400,208,"{""coordinates"": [-9.1483930362, 38.7313746], ""type"": ""Point""}",09/04/2021
+P044,Telheiras Nascente,109,25,"{""coordinates"": [-9.164886, 38.761512], ""type"": ""Point""}",09/04/2021
+P015,Cidade Universitaria,620,156,"{""coordinates"": [-9.155042, 38.750596], ""type"": ""Point""}",09/04/2021
+P038,Sete Rios,110,56,"{""coordinates"": [-9.166597, 38.742347], ""type"": ""Point""}",09/03/2020
+P049,Pq. de Santos - D. Luis I,202,31,"{""coordinates"": [-9.15221, 38.707681], ""type"": ""Point""}",09/04/2021
+P023,Areeiro,180,15,"{""coordinates"": [-9.132344, 38.744081], ""type"": ""Point""}",09/04/2021
+P011,Gomes Freire,140,96,"{""coordinates"": [-9.14022, 38.724895], ""type"": ""Point""}",09/03/2020
+P007,Alves Redol,166,119,"{""coordinates"": [-9.14040499999999, 38.735297], ""type"": ""Point""}",09/04/2021
+P024,Belém,76,48,"{""coordinates"": [-9.203909, 38.69723], ""type"": ""Point""}",09/04/2021
+P034,Avenida Lusíada,92,82,"{""coordinates"": [-9.188309, 38.75214], ""type"": ""Point""}",09/04/2021
+P040,Mercado de Alvalade,118,24,"{""coordinates"": [-9.139498, 38.755424], ""type"": ""Point""}",09/04/2021
+P047,Damasceno Monteiro,81,38,"{""coordinates"": [-9.130581, 38.718095], ""type"": ""Point""}",09/04/2021
+P048,Campo das Cebolas,205,82,"{""coordinates"": [-9.131141, 38.70888], ""type"": ""Point""}",09/04/2021
+P058,Campo de Ourique,0,0,"{""coordinates"": [-9.170647, 38.719168], ""type"": ""Point""}",09/04/2021
+P017,Praça de Londres,240,180,"{""coordinates"": [-9.13714389999996, 38.7408069], ""type"": ""Point""}",09/04/2021
+P009,Centro Campo Pequeno,1250,347,"{""coordinates"": [-9.14493799209595, 38.7423520945922], ""type"": ""Point""}",09/04/2021
+P006,Arco Cego,255,208,"{""coordinates"": [-9.14209400000004, 38.737444], ""type"": ""Point""}",09/04/2021
+P041,Santos-Rio,210,134,"{""coordinates"": [-9.151017, 38.706138], ""type"": ""Point""}",09/04/2021
+P028,Chão do Loureiro,192,53,"{""coordinates"": [-9.135017, 38.712416], ""type"": ""Point""}",09/04/2021
+P030,Combatentes,155,29,"{""coordinates"": [-9.162904, 38.745735], ""type"": ""Point""}",09/04/2021
+P032,Estrada da Luz,98,89,"{""coordinates"": [-9.170943, 38.749827], ""type"": ""Point""}",09/04/2021
+P064,Olivais,248,200,"{""coordinates"": [-9.128867, 38.716819], ""type"": ""Point""}",09/04/2021
+P043,Ameixoeira,501,57,"{""coordinates"": [-9.158056, 38.779591], ""type"": ""Point""}",09/04/2021
+P037,Rego,238,44,"{""coordinates"": [-9.159954, 38.744582], ""type"": ""Point""}",09/04/2021
+P045,Aldeia de Telheiras,158,99,"{""coordinates"": [-9.166878, 38.760574], ""type"": ""Point""}",10/03/2020
+P013,Monumental,277,195,"{""coordinates"": [-9.14430800000002, 38.734036], ""type"": ""Point""}",30/06/2020
+P004,Atrium Saldanha,251,164,"{""coordinates"": [-9.1446021616448, 38.7332687356758], ""type"": ""Point""}",09/04/2021
+P046,Torres de Lisboa,98,29,"{""coordinates"": [-9.176896, 38.756548], ""type"": ""Point""}",09/04/2021
+P031,Calçada do Combro,248,55,"{""coordinates"": [-9.147541, 38.711188], ""type"": ""Point""}",09/04/2021
+P042,Alcântara,202,61,"{""coordinates"": [-9.175066, 38.706007], ""type"": ""Point""}",09/04/2021
+P020,Sousa Pinto,135,30,"{""coordinates"": [-9.157032, 38.724475], ""type"": ""Point""}",09/04/2021
+P025,Campo Grande,196,57,"{""coordinates"": [-9.155495, 38.757586], ""type"": ""Point""}",09/04/2021
+P027,Casal Vistoso,256,60,"{""coordinates"": [-9.128965, 38.742375], ""type"": ""Point""}",09/04/2021

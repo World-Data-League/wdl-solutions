@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>Active_Transportation</title>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract/>
+            <purpose>Active Transportation (Updated: Daily 13-Apr-2021 12:29) Summary: Inventory of Active Transportation</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Transportation</themekey>
+                <themekey>City</themekey>
+                <themekey>of</themekey>
+                <themekey>Kitchener</themekey>
+                <themekey>Kitchener</themekey>
+                <themekey>Open</themekey>
+                <themekey>Data</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst/>
+        <datacred>City of Kitchener - TIS - GeoSpatial Data and Analytics</datacred>
+    </idinfo>
+    <metainfo>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>

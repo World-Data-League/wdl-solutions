@@ -1,0 +1,1149 @@
+{
+  "type" : "FeatureCollection", 
+  "features" : [
+    {
+      "type" : "Feature", 
+      "id" : 1, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.11391723740532, 38.7549445533084
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 1, 
+        "COD_SIG" : "2105204020001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Chelas", 
+        "INF_MORADA" : "Avenida Dr. Augusto de Castro, Rua Engº Rodrigues de Carvalho", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Vermelha\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "fb9e5a0f-18e4-44c3-beae-231a04bc2b85"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 2, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.14401263737641, 38.7531285992408
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 2, 
+        "COD_SIG" : "4201401100001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Alvalade", 
+        "INF_MORADA" : "Praça de Alvalade", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Verde\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "ba78902e-c91a-4225-9085-96aa08cd8aac"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 3, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13523921600122, 38.7230823966241
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 3, 
+        "COD_SIG" : "0602601100001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Intendente", 
+        "INF_MORADA" : "Avenida Almirante Reis, ", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Verde\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "b27b9c54-e19e-4b28-bf49-28da8e6530bd"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.18001577188089, 38.7498812634593
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 4, 
+        "COD_SIG" : "3900309002001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Alto dos Moinhos", 
+        "INF_MORADA" : "Rua João de Freitas Branco", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Azul", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "eecb527a-b312-4445-8d1a-c99ac0638ab6"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 5, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15385312166352, 38.7343309951123
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 5, 
+        "COD_SIG" : "5001405003001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "São Sebastião", 
+        "INF_MORADA" : "Avenida António Augusto de Aguia; Rua Carlos Testa", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Azul; Linha Vermelha", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "2166a569-6b47-4cb9-8474-52231f9d91d6"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 6, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.14201189879583, 38.7157559240403
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 6, 
+        "COD_SIG" : "3100403001001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Restauradores", 
+        "INF_MORADA" : "Praça dos Restauradores", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Azul\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "e9661008-4f86-4bf2-986f-b2351d29fac0"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 7, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13588206928316, 38.7174124048768
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 7, 
+        "COD_SIG" : "3100304100001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Martim Moniz", 
+        "INF_MORADA" : "Praça Martim Moniz; Rua Fernandes da Fonseca ", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Verde", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "b79ca5ad-665e-45fd-8e96-b76f0d987128"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15933173907052, 38.7376847455753
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 8, 
+        "COD_SIG" : "1003106020001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Praça de Espanha", 
+        "INF_MORADA" : "Praça Espanha; Avenida Columbano Bordalo Pinheiro", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Azul\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "1991f028-67e0-4a3d-bd6d-ac17ff9a43f3"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 9, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.10513419058189, 38.7629321504256
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 9, 
+        "COD_SIG" : "3308401100001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Cabo Ruivo", 
+        "INF_MORADA" : "Avenida Infante Dom Henrique", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Vermelha", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "39780c13-cacb-4595-8d26-62d919af5bf0"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 10, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.18927301868156, 38.7532005829673
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 10, 
+        "COD_SIG" : "0806206004001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Colégio Militar", 
+        "INF_MORADA" : "Largo da Revista Militar; Rua Sul", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Azul\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "c6d60815-a946-4104-ae72-14e6ea840ae8"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 11, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.14664781561795, 38.7407804662788
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 11, 
+        "COD_SIG" : "2304604001001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Campo Pequeno", 
+        "INF_MORADA" : "Avenida da República", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Amarela\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "25cef7bf-54e2-47f4-90b8-8881f82517e6"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 12, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.11181636092509, 38.7608901884673
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 12, 
+        "COD_SIG" : "3309004050001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Olivais", 
+        "INF_MORADA" : "Rua Cidade de Bissau; Avenida Cidade de Luanda", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Vermelha\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "5f5b2179-1c05-4766-95f9-0bd3e7c3962b"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 13, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15078654906632, 38.7294785733962
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 13, 
+        "COD_SIG" : "5001604001002", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Parque", 
+        "INF_MORADA" : "Avenida António Augusto de Aguiar, Estação de Metro do Parque (Subterrâneo)", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Azul\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "6ff80dea-117a-45e7-b626-97c4d5e6a729"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 14, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.14023897746289, 38.7105109024855
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 14, 
+        "COD_SIG" : "2000105100001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Baixa-Chiado", 
+        "INF_MORADA" : "Rua do Crucifixo,  Largo do Chiado", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Verde / Linha Azul\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "75aa0c3e-2ba1-49ef-8748-e12457811b83"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 15, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15479163475995, 38.7201001145348
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 15, 
+        "COD_SIG" : "4601205001001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Rato", 
+        "INF_MORADA" : "Largo do Rato", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Amarela\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "451bdfe8-9114-43ae-bc8e-f550f333f312"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 16, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15958938577547, 38.7795719226158
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 16, 
+        "COD_SIG" : "0501303100001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Ameixoeira", 
+        "INF_MORADA" : "Azinhaga da Cidade", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Amarela\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "f3e97c94-4680-412c-aac8-d697e26fa796"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 17, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.14817403711601, 38.746810948503
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 17, 
+        "COD_SIG" : "2304305001001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Entrecampos", 
+        "INF_MORADA" : "Avenida da República", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Amarela\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "a5b0b103-60fa-432b-ac7f-566268a56d30"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 18, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13811167703858, 38.7140175952169
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 18, 
+        "COD_SIG" : "3100416002001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Rossio", 
+        "INF_MORADA" : "Praça da Figueira, Praça D. Pedro IV", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Verde\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "0a0e3bb5-1a10-41a6-afe7-fa498e1f5668"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 19, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13430953424232, 38.7326955674285
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 19, 
+        "COD_SIG" : "4401103100001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Arroios", 
+        "INF_MORADA" : "Praça do Chile,  Avenida Almirante Reis", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Verde\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "00de3f86-0583-41f5-94c8-2d615654b9ee"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 20, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.14952295722811, 38.7245582934613
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 20, 
+        "COD_SIG" : "1401001001001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Marquês de Pombal", 
+        "INF_MORADA" : "Avenida da Liberdade; Praça do Marquês de Pombal", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Amarela / Linha Azul\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "cd77e26a-35f0-49ba-872e-195056836080"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 21, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.12382138439832, 38.7396726627463
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 21, 
+        "COD_SIG" : "0302504020001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Olaias", 
+        "INF_MORADA" : "Avenida Engenheiro Arantes e Oliveira, Rua de Olivença", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Vermelha\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "ac88399a-e6c1-431f-8d0a-162c652e60b3"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 22, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.14513450919877, 38.7194083036329
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 22, 
+        "COD_SIG" : "4501203001001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Avenida", 
+        "INF_MORADA" : "Avenida da Liberdade", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Azul\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "602ed0cc-4597-43cd-bd32-7e65316985f8"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 23, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15555892986158, 38.7673684605358
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 23, 
+        "COD_SIG" : "1806802100001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Quinta das Conchas", 
+        "INF_MORADA" : "Rua Luís Pastor de Macedo", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Amarela\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "23a3c224-6089-41ce-bbd5-89cc93fcf847"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 24, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13483062358246, 38.7270577774147
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 24, 
+        "COD_SIG" : "0600101100001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Anjos", 
+        "INF_MORADA" : "Avenida Almirante Reis", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Verde\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "e4d14d53-6f33-4263-b0b6-46be39c705a2"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 25, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.16644828258285, 38.7599590497268
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 25, 
+        "COD_SIG" : "1807308004001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Telheiras", 
+        "INF_MORADA" : "Estrada de Telheiras", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Verde\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "fe9bb3ac-6112-4cd5-84b8-e5ecac2e9e3a"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 26, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.11760935095229, 38.7475646343437
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 26, 
+        "COD_SIG" : "2106703001001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Bela Vista", 
+        "INF_MORADA" : "Avenida do Santo Condestável", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Vermelha\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "31b9c2ac-b995-4949-943f-79bb7d455abe"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 27, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.1686745378256, 38.7417733264907
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 27, 
+        "COD_SIG" : "3907202001001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Jardim Zoológico", 
+        "INF_MORADA" : "Praça Marechal Humberto Delgado", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Azul", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "a3c8a81a-bfe1-40a1-b9f7-86e9459d68f9"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 28, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.14527928797817, 38.7348912277587
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 28, 
+        "COD_SIG" : "5000610001001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Saldanha", 
+        "INF_MORADA" : "Praça do Duque de Saldanha; Avenida da República", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Amarela / Linha Vermelha\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "79bd41ff-5da4-4867-b245-5a0ba705ef86"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 29, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15787081521218, 38.7601721970066
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 29, 
+        "COD_SIG" : "1804202009001", 
+        "IDTIPO" : "2", 
+        "INF_NOME" : "Campo Grande", 
+        "INF_MORADA" : "Rua Cipriano Dourado, Avenida General Norton de Matos, ", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Amarela / Linha Verde\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "ac29cb4b-cf54-442b-b8ce-a3a77cd30a9f"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 30, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13443704740198, 38.7070176344074
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 30, 
+        "COD_SIG" : "1900104002001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Terreiro do Paço", 
+        "INF_MORADA" : "Avenida Infante Dom Henrique; Praça do Comércio", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Azul\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "d7fde519-9754-4bcf-a54c-8550b232a25a"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 31, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.12229125522879, 38.7138246261135
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 31, 
+        "COD_SIG" : "2901704001001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Santa Apolónia", 
+        "INF_MORADA" : "Avenida Infante Dom Henrique;  Largo dos Caminhos de Ferro", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "- Transportes - Estações de Comboio", 
+        "INF_DESCRICAO" : "Linha Azul\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "b907205e-97e6-43cf-bafc-740587672395"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 32, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.10291585039507, 38.7749093040881
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 32, 
+        "COD_SIG" : "3307301054001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Moscavide", 
+        "INF_MORADA" : "Rua Primeiro de Maio ao Parque das Nações / Rua João Pinto Ribeiro", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : null, 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "e352f5c8-5135-4244-8447-aa0a3ce5513f"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 33, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.11539280020956, 38.7750855004156
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 33, 
+        "COD_SIG" : "3301301048001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Encarnação", 
+        "INF_MORADA" : "Rua General Silva Freire", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : null, 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "53e28aa7-9a85-4cc8-ba05-d5199f5616d6"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 34, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15939314880167, 38.7732344542826
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 34, 
+        "COD_SIG" : "1805201100001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Lumiar", 
+        "INF_MORADA" : "Largo República da Turquia,  Rua Cordeiro Ferreira", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Amarela\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "3e598465-1f93-497a-a307-1136de4b8f0d"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 35, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.09963710111767, 38.7678561232975
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 35, 
+        "COD_SIG" : "3308508002001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Oriente", 
+        "INF_MORADA" : "Praça do Oriente", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Vermelha", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "fbc6e836-0b4d-4917-a77d-4950e4d97b6e"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 36, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.1282870004055, 38.7684811006271
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 36, 
+        "COD_SIG" : "3305901503001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Aeroporto", 
+        "INF_MORADA" : "Aeroporto da Portela / Alameda das Comunidades Portuguesas", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : null, 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "720af6b1-ac58-491e-8c65-821fc70a52d7"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 37, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.14686550885233, 38.730388310721
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 37, 
+        "COD_SIG" : "4403501038001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Picoas", 
+        "INF_MORADA" : "Avenida Fontes Pereira de Melo, Rua Tomás Ribeiro, Rua Andrade Corvo", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Amarela. Umas das entradas para a Rua Andrade Corvo é designada por \"Acesso Guimard\". Trata-se de uma peça de mobiliário urbano Arte Nova e deve o nome ao seu autor, Hector Guimard, grande vulto da Arte Nova, que no início do séc. XX, 1900, criou um conjunto de acessos para ornamentar as entradas do Metropolitano de Paris. No âmbito de um programa de intercâmbio cultural entre redes de metropolitano, esta peça foi oferecida pelo Metropolitano de Paris (RATP) ao Metropolitano de Lisboa, encontrando-se instalada no átrio Sul da estação de metro das Picoas, que dá acesso à Rua Andrade Corvo.\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "d73a1b22-5473-44a9-8a17-83bfc776e696"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 38, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.17268513648015, 38.7486838780651
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 38, 
+        "COD_SIG" : "3905402016002", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Laranjeiras", 
+        "INF_MORADA" : "Estrada da Luz, Rua Xavier de Araújo", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Azul\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "2258d546-52af-47f1-98f8-5a4c3cd46d4f"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 39, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.19265468794108, 38.7591735411034
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 39, 
+        "COD_SIG" : "1102401050001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Carnide", 
+        "INF_MORADA" : "Avenida Marechal Teixeira Rebelo", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Azul\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "a0412c2a-8d11-4f52-a26c-763ef6c73bf3"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 40, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15911912401247, 38.75144635994
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 40, 
+        "COD_SIG" : "0902010301001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Cidade Universitária", 
+        "INF_MORADA" : "Alameda da Universidade; Avenida Professor Gama Pinto", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Amarela\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "e704054d-0ecc-4f3a-8247-8c0115091217"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 41, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.14126962177487, 38.7480585031517
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 41, 
+        "COD_SIG" : "0400401100001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Roma", 
+        "INF_MORADA" : "Avenida dos Estados Unidos da América; Avenida de Roma", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Verde\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "801324b6-819e-49c2-96d9-b8888abb36eb"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 42, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13351579363707, 38.7424493431537
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 42, 
+        "COD_SIG" : "4301205001001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Areeiro", 
+        "INF_MORADA" : "Avenida Padre Manuel da Nóbrega, Praça Francisco Sá Carneiro", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Verde\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "e71315ea-01e6-4ebf-8761-4a01adab8ff2"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 43, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.14658325549512, 38.7060565524877
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 43, 
+        "COD_SIG" : "4901022049001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Cais do Sodré", 
+        "INF_MORADA" : "Avenida Vinte e Quatro de Julho", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha Verde\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "dfbde0be-2705-42c6-a26c-2c716fc839f8"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 44, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13274740977733, 38.7372988092368
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 44, 
+        "COD_SIG" : "0301105100001", 
+        "IDTIPO" : "10005", 
+        "INF_NOME" : "Alameda", 
+        "INF_MORADA" : "Alameda Dom Afonso Henriques, Avenida Almirante Reis", 
+        "INF_TELEFONE" : null, 
+        "INF_FAX" : null, 
+        "INF_EMAIL" : null, 
+        "INF_SITE" : "http://metro.transporteslisboa.pt/", 
+        "INF_DESCRICAO" : "Linha vermelha / Linha Verde\n", 
+        "INF_FONTE" : "-", 
+        "INF_MUNICIPAL" : 0, 
+        "GlobalID" : "75d3c461-10c5-456a-8823-4328e7201c1b"
+      }
+    }
+  ]
+}

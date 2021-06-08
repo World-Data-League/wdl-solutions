@@ -1,0 +1,5 @@
+Daily Data Reports for Roseville, Ontario:
+https://climate.weather.gc.ca/climate_data/daily_data_e.html?hlyRange=%7C&dlyRange=1972-10-01%7C2021-04-29&mlyRange=1972-01-01%7C2006-12-01&StationID=4816&Prov=ON&urlExtension=_e.html&searchType=stnProx&optLimit=yearRange&StartYear=2005&EndYear=2018&selRowPerPage=25&Line=3&txtRadius=25&optProxType=city&selCity=43%7C27%7C80%7C29%7CKitchener&selPark=&txtCentralLatDeg=&txtCentralLatMin=0&txtCentralLatSec=0&txtCentralLongDeg=&txtCentralLongMin=0&txtCentralLongSec=0&txtLatDecDeg=&txtLongDecDeg=&timeframe=2&Day=30&Year=2014&Month=4#
+
+Roads in the City of Kitchener:
+https://data.waterloo.ca/datasets/KitchenerGIS::roads/explore?location=43.427250%2C-80.470550%2C12.29

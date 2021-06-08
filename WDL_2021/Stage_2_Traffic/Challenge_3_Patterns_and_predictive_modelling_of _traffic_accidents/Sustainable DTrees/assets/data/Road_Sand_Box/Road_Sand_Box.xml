@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>BusinessPark</title>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract/>
+            <purpose>Road Sand Box (Updated: Daily 07-Apr-2021 11:20) Summary: Locations of Road Sand Bins for free Sand pick up</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Transportation</themekey>
+                <themekey>Infrastructure</themekey>
+                <themekey>Services</themekey>
+                <themekey>City</themekey>
+                <themekey>of</themekey>
+                <themekey>Kitchener</themekey>
+                <themekey>Kitchener</themekey>
+                <themekey>Open</themekey>
+                <themekey>Data</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst/>
+        <datacred>City of Kitchener - TIS - GeoSpatial Data and Analytics</datacred>
+    </idinfo>
+    <metainfo>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>

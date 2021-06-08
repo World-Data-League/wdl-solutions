@@ -1,0 +1,5 @@
+Traffic collisions in the City of Kitchener:
+https://open-kitchenergis.opendata.arcgis.com/datasets/traffic-collisions/explore?location=43.426700%2C-80.472700%2C12.31
+
+Roads in the City of Kitchener:
+https://data.waterloo.ca/datasets/KitchenerGIS::roads/explore?location=43.427242%2C-80.470550%2C12.13

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>Traffic_Collisions</title>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract/>
+            <purpose>Traffic Collisions (Updated: Daily 19-Apr-2021 19:30) Summary: Traffic Collisions (Intersections)</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Transportation</themekey>
+                <themekey>City</themekey>
+                <themekey>of</themekey>
+                <themekey>Kitchener</themekey>
+                <themekey>Kitchener</themekey>
+                <themekey>Open</themekey>
+                <themekey>Data</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst/>
+        <datacred>City of Kitchener - Infrastructure Services - Transportation Services</datacred>
+    </idinfo>
+    <metainfo>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>

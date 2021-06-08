@@ -1,0 +1,36 @@
+﻿Concelho,Has_Metro,Has_Train
+Alcochete,FALSE,TRUE
+Almada,FALSE,TRUE
+Amadora,TRUE,TRUE
+Arouca,FALSE,TRUE
+Barreiro,FALSE,TRUE
+Cascais,FALSE,TRUE
+Espinho,FALSE,TRUE
+Gondomar,TRUE,TRUE
+Lisboa,TRUE,TRUE
+Loures,FALSE,TRUE
+Mafra,FALSE,TRUE
+Maia,TRUE,TRUE
+Matosinhos,TRUE,FALSE
+Moita,FALSE,TRUE
+Montijo,FALSE,TRUE
+Odivelas,TRUE,FALSE
+Oeiras,TRUE,TRUE
+Oliveira de Azeméis,FALSE,TRUE
+Palmela,FALSE,TRUE
+Paredes,FALSE,TRUE
+Porto,TRUE,TRUE
+Póvoa de Varzim,TRUE,FALSE
+Santa Maria da Feira,FALSE,TRUE
+Santo Tirso,FALSE,TRUE
+Seixal,FALSE,TRUE
+Sesimbra,FALSE,FALSE
+Setúbal,FALSE,TRUE
+Sintra,FALSE,TRUE
+São João da Madeira,FALSE,TRUE
+Trofa,FALSE,TRUE
+Vale de Cambra,FALSE,FALSE
+Valongo,FALSE,TRUE
+Vila Franca de Xira,FALSE,TRUE
+Vila Nova de Gaia,TRUE,TRUE
+Vila do Conde,TRUE,FALSE

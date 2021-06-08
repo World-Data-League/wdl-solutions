@@ -1,0 +1,666 @@
+county,month,rainfall,raindays
+Lisboa,09/2019,11.4,4
+Lisboa,10/2019,43.2,12
+Lisboa,11/2019,114.9,27
+Lisboa,12/2019,110,12
+Lisboa,01/2020,65.6,17
+Lisboa,02/2020,7.1,8
+Lisboa,03/2020,75.2,15
+Lisboa,04/2020,96.6,19
+Lisboa,05/2020,62.2,10
+Lisboa,06/2020,4.5,5
+Lisboa,07/2020,12.8,5
+Lisboa,08/2020,2.7,4
+Lisboa,09/2020,43.6,7
+Lisboa,10/2020,70.8,12
+Lisboa,11/2020,96.1,14
+Lisboa,12/2020,75.1,23
+Lisboa,01/2021,58.8,15
+Lisboa,02/2021,167.1,23
+Lisboa,03/2021,46.1,6
+Amadora,09/2019,13,4
+Amadora,10/2019,48.1,12
+Amadora,11/2019,122.2,27
+Amadora,12/2019,120.2,12
+Amadora,01/2020,72,17
+Amadora,02/2020,7.2,6
+Amadora,03/2020,75.9,16
+Amadora,04/2020,102,21
+Amadora,05/2020,63.1,10
+Amadora,06/2020,5.7,8
+Amadora,07/2020,13,5
+Amadora,08/2020,3.8,5
+Amadora,09/2020,57.1,7
+Amadora,10/2020,80.1,13
+Amadora,11/2020,112.1,14
+Amadora,12/2020,88.6,22
+Amadora,01/2021,58.5,17
+Amadora,02/2021,190.5,23
+Amadora,03/2021,42.5,5
+Porto,09/2019,49.3,8
+Porto,10/2019,260,15
+Porto,11/2019,306.5,30
+Porto,12/2019,406.5,15
+Porto,01/2020,228.4,17
+Porto,02/2020,58.6,10
+Porto,03/2020,111.1,14
+Porto,04/2020,163.5,21
+Porto,05/2020,50,11
+Porto,06/2020,28.3,11
+Porto,07/2020,7.2,5
+Porto,08/2020,34.5,6
+Porto,09/2020,53.1,12
+Porto,10/2020,179.9,15
+Porto,11/2020,123,19
+Porto,12/2020,326.4,26
+Porto,01/2021,172.8,15
+Porto,02/2021,320,21
+Porto,03/2021,13.3,11
+Cascais,09/2019,6.8,3
+Cascais,10/2019,33.4,14
+Cascais,11/2019,73.6,25
+Cascais,12/2019,49.6,12
+Cascais,01/2020,42.9,16
+Cascais,02/2020,5.5,8
+Cascais,03/2020,24,14
+Cascais,04/2020,62.2,19
+Cascais,05/2020,45.3,8
+Cascais,06/2020,3.6,5
+Cascais,07/2020,4.5,3
+Cascais,08/2020,2.9,4
+Cascais,09/2020,68.1,7
+Cascais,10/2020,45,14
+Cascais,11/2020,75.8,14
+Cascais,12/2020,73.1,22
+Cascais,01/2021,41.8,19
+Cascais,02/2021,75.1,21
+Cascais,03/2021,31.5,6
+Loures,09/2019,11.4,4
+Loures,10/2019,43.2,12
+Loures,11/2019,114.9,27
+Loures,12/2019,110,12
+Loures,01/2020,65.6,17
+Loures,02/2020,7.1,8
+Loures,03/2020,75.2,15
+Loures,04/2020,96.6,19
+Loures,05/2020,62.2,10
+Loures,06/2020,4.5,5
+Loures,07/2020,12.8,5
+Loures,08/2020,2.7,4
+Loures,09/2020,43.6,7
+Loures,10/2020,70.8,12
+Loures,11/2020,96.1,14
+Loures,12/2020,75.1,23
+Loures,01/2021,58.8,15
+Loures,02/2021,167.1,23
+Loures,03/2021,46.1,6
+Mafra,09/2019,12.3,4
+Mafra,10/2019,45.6,13
+Mafra,11/2019,146.7,29
+Mafra,12/2019,120.7,13
+Mafra,01/2020,81,18
+Mafra,02/2020,8,8
+Mafra,03/2020,71.5,15
+Mafra,04/2020,104.1,21
+Mafra,05/2020,85.8,10
+Mafra,06/2020,8,9
+Mafra,07/2020,10.8,6
+Mafra,08/2020,3.5,6
+Mafra,09/2020,58.9,7
+Mafra,10/2020,93.1,13
+Mafra,11/2020,122.4,14
+Mafra,12/2020,138.3,24
+Mafra,01/2021,81.2,17
+Mafra,02/2021,176.6,22
+Mafra,03/2021,54.9,7
+Setúbal,09/2019,8.1,2
+Setúbal,10/2019,41.2,11
+Setúbal,11/2019,80.9,23
+Setúbal,12/2019,130.1,11
+Setúbal,01/2020,44.5,17
+Setúbal,02/2020,4.2,5
+Setúbal,03/2020,52.5,14
+Setúbal,04/2020,114,21
+Setúbal,05/2020,74.3,10
+Setúbal,06/2020,5.1,5
+Setúbal,07/2020,7.4,4
+Setúbal,08/2020,2,4
+Setúbal,09/2020,33.8,7
+Setúbal,10/2020,97.4,12
+Setúbal,11/2020,131.1,14
+Setúbal,12/2020,68.8,20
+Setúbal,01/2021,44.3,14
+Setúbal,02/2021,182.7,21
+Setúbal,03/2021,39.8,7
+Odivelas,09/2019,11.4,4
+Odivelas,10/2019,43.2,12
+Odivelas,11/2019,114.9,27
+Odivelas,12/2019,110,12
+Odivelas,01/2020,65.6,17
+Odivelas,02/2020,7.1,8
+Odivelas,03/2020,75.2,15
+Odivelas,04/2020,96.6,19
+Odivelas,05/2020,62.2,10
+Odivelas,06/2020,4.5,5
+Odivelas,07/2020,12.8,5
+Odivelas,08/2020,2.7,4
+Odivelas,09/2020,43.6,7
+Odivelas,10/2020,70.8,12
+Odivelas,11/2020,96.1,14
+Odivelas,12/2020,75.1,23
+Odivelas,01/2021,58.8,15
+Odivelas,02/2021,167.1,23
+Odivelas,03/2021,46.1,6
+Sintra,09/2019,12.2,2
+Sintra,10/2019,34,12
+Sintra,11/2019,89.8,27
+Sintra,12/2019,97.1,11
+Sintra,01/2020,72.7,16
+Sintra,02/2020,5.6,9
+Sintra,03/2020,61.4,15
+Sintra,04/2020,93.8,19
+Sintra,05/2020,70.6,9
+Sintra,06/2020,3.5,6
+Sintra,07/2020,7.9,5
+Sintra,08/2020,1.6,4
+Sintra,09/2020,58.1,8
+Sintra,10/2020,49.1,13
+Sintra,11/2020,97.4,13
+Sintra,12/2020,60.6,23
+Sintra,01/2021,41.1,18
+Sintra,02/2021,159.2,21
+Sintra,03/2021,49.4,7
+Vila Franca de Xira,09/2019,10.8,3
+Vila Franca de Xira,10/2019,19.7,11
+Vila Franca de Xira,11/2019,87.9,23
+Vila Franca de Xira,12/2019,93.6,11
+Vila Franca de Xira,01/2020,52.4,16
+Vila Franca de Xira,02/2020,4.5,7
+Vila Franca de Xira,03/2020,67.7,14
+Vila Franca de Xira,04/2020,83.5,20
+Vila Franca de Xira,05/2020,51.4,9
+Vila Franca de Xira,06/2020,3.1,7
+Vila Franca de Xira,07/2020,8,5
+Vila Franca de Xira,08/2020,1.5,3
+Vila Franca de Xira,09/2020,25,7
+Vila Franca de Xira,10/2020,51.4,11
+Vila Franca de Xira,11/2020,82,13
+Vila Franca de Xira,12/2020,53.5,20
+Vila Franca de Xira,01/2021,45.9,14
+Vila Franca de Xira,02/2021,175.5,19
+Vila Franca de Xira,03/2021,51.3,6
+Oeiras,09/2019,6.7,2
+Oeiras,10/2019,28.5,12
+Oeiras,11/2019,71.1,24
+Oeiras,12/2019,53.9,11
+Oeiras,01/2020,40,15
+Oeiras,02/2020,5.3,7
+Oeiras,03/2020,50.7,17
+Oeiras,04/2020,74.2,18
+Oeiras,05/2020,54.6,9
+Oeiras,06/2020,5.1,6
+Oeiras,07/2020,12.4,4
+Oeiras,08/2020,3.6,5
+Oeiras,09/2020,65.7,7
+Oeiras,10/2020,47.3,13
+Oeiras,11/2020,86.5,15
+Oeiras,12/2020,42.4,22
+Oeiras,01/2021,30.3,18
+Oeiras,02/2021,120.3,21
+Oeiras,03/2021,43.7,3
+Alcochete,09/2019,3.9,2
+Alcochete,10/2019,22.5,11
+Alcochete,11/2019,54.9,21
+Alcochete,12/2019,60.1,10
+Alcochete,01/2020,32.9,16
+Alcochete,02/2020,4.1,7
+Alcochete,03/2020,57.2,14
+Alcochete,04/2020,54.5,19
+Alcochete,05/2020,44.8,10
+Alcochete,06/2020,4.8,5
+Alcochete,07/2020,8.1,3
+Alcochete,08/2020,1.3,3
+Alcochete,09/2020,25.3,6
+Alcochete,10/2020,34.4,11
+Alcochete,11/2020,78,15
+Alcochete,12/2020,29,20
+Alcochete,01/2021,23.4,16
+Alcochete,02/2021,110.7,20
+Alcochete,03/2021,29,5
+Almada,09/2019,3.3,2
+Almada,10/2019,19.1,12
+Almada,11/2019,44.3,23
+Almada,12/2019,43.3,10
+Almada,01/2020,25.5,15
+Almada,02/2020,2.4,4
+Almada,03/2020,29.7,15
+Almada,04/2020,38.6,17
+Almada,05/2020,22.9,8
+Almada,06/2020,2.7,4
+Almada,07/2020,4.7,3
+Almada,08/2020,0.8,2
+Almada,09/2020,22.6,6
+Almada,10/2020,32,12
+Almada,11/2020,51.9,14
+Almada,12/2020,37,20
+Almada,01/2021,25.7,15
+Almada,02/2021,67.1,19
+Almada,03/2021,18.5,5
+Barreiro,09/2019,3.3,2
+Barreiro,10/2019,19.1,12
+Barreiro,11/2019,44.3,23
+Barreiro,12/2019,43.3,10
+Barreiro,01/2020,25.5,15
+Barreiro,02/2020,2.4,4
+Barreiro,03/2020,29.7,15
+Barreiro,04/2020,38.6,17
+Barreiro,05/2020,22.9,8
+Barreiro,06/2020,2.7,4
+Barreiro,07/2020,4.7,3
+Barreiro,08/2020,0.8,2
+Barreiro,09/2020,22.6,6
+Barreiro,10/2020,32,12
+Barreiro,11/2020,51.9,14
+Barreiro,12/2020,37,20
+Barreiro,01/2021,25.7,15
+Barreiro,02/2021,67.1,19
+Barreiro,03/2021,18.5,5
+Montijo,09/2019,3.9,2
+Montijo,10/2019,22.5,11
+Montijo,11/2019,54.9,21
+Montijo,12/2019,60.1,10
+Montijo,01/2020,32.9,16
+Montijo,02/2020,4.1,7
+Montijo,03/2020,57.2,14
+Montijo,04/2020,54.5,19
+Montijo,05/2020,44.8,10
+Montijo,06/2020,4.8,5
+Montijo,07/2020,8.1,3
+Montijo,08/2020,1.3,3
+Montijo,09/2020,25.3,6
+Montijo,10/2020,34.4,11
+Montijo,11/2020,78,15
+Montijo,12/2020,29,20
+Montijo,01/2021,23.4,16
+Montijo,02/2021,110.7,20
+Montijo,03/2021,29,5
+Moita,09/2019,3.9,2
+Moita,10/2019,22.5,11
+Moita,11/2019,54.9,21
+Moita,12/2019,60.1,10
+Moita,01/2020,32.9,16
+Moita,02/2020,4.1,7
+Moita,03/2020,57.2,14
+Moita,04/2020,54.5,19
+Moita,05/2020,44.8,10
+Moita,06/2020,4.8,5
+Moita,07/2020,8.1,3
+Moita,08/2020,1.3,3
+Moita,09/2020,25.3,6
+Moita,10/2020,34.4,11
+Moita,11/2020,78,15
+Moita,12/2020,29,20
+Moita,01/2021,23.4,16
+Moita,02/2021,110.7,20
+Moita,03/2021,29,5
+Palmela,09/2019,8.1,2
+Palmela,10/2019,41.2,11
+Palmela,11/2019,80.9,23
+Palmela,12/2019,130.1,11
+Palmela,01/2020,44.5,17
+Palmela,02/2020,4.2,5
+Palmela,03/2020,52.5,14
+Palmela,04/2020,114,21
+Palmela,05/2020,74.3,10
+Palmela,06/2020,5.1,5
+Palmela,07/2020,7.4,4
+Palmela,08/2020,2,4
+Palmela,09/2020,33.8,7
+Palmela,10/2020,97.4,12
+Palmela,11/2020,131.1,14
+Palmela,12/2020,68.8,20
+Palmela,01/2021,44.3,14
+Palmela,02/2021,182.7,21
+Palmela,03/2021,39.8,7
+Seixal,09/2019,3.3,2
+Seixal,10/2019,19.1,12
+Seixal,11/2019,44.3,23
+Seixal,12/2019,43.3,10
+Seixal,01/2020,25.5,15
+Seixal,02/2020,2.4,4
+Seixal,03/2020,29.7,15
+Seixal,04/2020,38.6,17
+Seixal,05/2020,22.9,8
+Seixal,06/2020,2.7,4
+Seixal,07/2020,4.7,3
+Seixal,08/2020,0.8,2
+Seixal,09/2020,22.6,6
+Seixal,10/2020,32,12
+Seixal,11/2020,51.9,14
+Seixal,12/2020,37,20
+Seixal,01/2021,25.7,15
+Seixal,02/2021,67.1,19
+Seixal,03/2021,18.5,5
+Sesimbra,09/2019,8.1,2
+Sesimbra,10/2019,41.2,11
+Sesimbra,11/2019,80.9,23
+Sesimbra,12/2019,130.1,11
+Sesimbra,01/2020,44.5,17
+Sesimbra,02/2020,4.2,5
+Sesimbra,03/2020,52.5,14
+Sesimbra,04/2020,114,21
+Sesimbra,05/2020,74.3,10
+Sesimbra,06/2020,5.1,5
+Sesimbra,07/2020,7.4,4
+Sesimbra,08/2020,2,4
+Sesimbra,09/2020,33.8,7
+Sesimbra,10/2020,97.4,12
+Sesimbra,11/2020,131.1,14
+Sesimbra,12/2020,68.8,20
+Sesimbra,01/2021,44.3,14
+Sesimbra,02/2021,182.7,21
+Sesimbra,03/2021,39.8,7
+Espinho,09/2019,54.2,8
+Espinho,10/2019,211.2,14
+Espinho,11/2019,269.5,30
+Espinho,12/2019,382,15
+Espinho,01/2020,193.1,18
+Espinho,02/2020,56.8,10
+Espinho,03/2020,106.5,14
+Espinho,04/2020,166.4,24
+Espinho,05/2020,57.8,13
+Espinho,06/2020,33.7,13
+Espinho,07/2020,8.2,4
+Espinho,08/2020,28.2,5
+Espinho,09/2020,54.5,12
+Espinho,10/2020,158.9,14
+Espinho,11/2020,115.8,18
+Espinho,12/2020,240.2,25
+Espinho,01/2021,161.5,14
+Espinho,02/2021,351.1,21
+Espinho,03/2021,14.8,11
+Oliveira de Azeméis,09/2019,51.6,8
+Oliveira de Azeméis,10/2019,212.2,15
+Oliveira de Azeméis,11/2019,296.4,30
+Oliveira de Azeméis,12/2019,387.1,15
+Oliveira de Azeméis,01/2020,185,18
+Oliveira de Azeméis,02/2020,52.3,10
+Oliveira de Azeméis,03/2020,117.9,15
+Oliveira de Azeméis,04/2020,176.8,26
+Oliveira de Azeméis,05/2020,67.4,14
+Oliveira de Azeméis,06/2020,34.1,13
+Oliveira de Azeméis,07/2020,8.3,5
+Oliveira de Azeméis,08/2020,21.3,5
+Oliveira de Azeméis,09/2020,59.8,12
+Oliveira de Azeméis,10/2020,195.9,14
+Oliveira de Azeméis,11/2020,128.8,17
+Oliveira de Azeméis,12/2020,283.1,24
+Oliveira de Azeméis,01/2021,209.4,15
+Oliveira de Azeméis,02/2021,377.1,21
+Oliveira de Azeméis,03/2021,16.3,12
+São João da Madeira,09/2019,54.2,8
+São João da Madeira,10/2019,211.2,14
+São João da Madeira,11/2019,269.5,30
+São João da Madeira,12/2019,382,15
+São João da Madeira,01/2020,193.1,18
+São João da Madeira,02/2020,56.8,10
+São João da Madeira,03/2020,106.5,14
+São João da Madeira,04/2020,166.4,24
+São João da Madeira,05/2020,57.8,13
+São João da Madeira,06/2020,33.7,13
+São João da Madeira,07/2020,8.2,4
+São João da Madeira,08/2020,28.2,5
+São João da Madeira,09/2020,54.5,12
+São João da Madeira,10/2020,158.9,14
+São João da Madeira,11/2020,115.8,18
+São João da Madeira,12/2020,240.2,25
+São João da Madeira,01/2021,161.5,14
+São João da Madeira,02/2021,351.1,21
+São João da Madeira,03/2021,14.8,11
+Vale de Cambra,09/2019,51.6,8
+Vale de Cambra,10/2019,212.2,15
+Vale de Cambra,11/2019,296.4,30
+Vale de Cambra,12/2019,387.1,15
+Vale de Cambra,01/2020,185,18
+Vale de Cambra,02/2020,52.3,10
+Vale de Cambra,03/2020,117.9,15
+Vale de Cambra,04/2020,176.8,26
+Vale de Cambra,05/2020,67.4,14
+Vale de Cambra,06/2020,34.1,13
+Vale de Cambra,07/2020,8.3,5
+Vale de Cambra,08/2020,21.3,5
+Vale de Cambra,09/2020,59.8,12
+Vale de Cambra,10/2020,195.9,14
+Vale de Cambra,11/2020,128.8,17
+Vale de Cambra,12/2020,283.1,24
+Vale de Cambra,01/2021,209.4,15
+Vale de Cambra,02/2021,377.1,21
+Vale de Cambra,03/2021,16.3,12
+Arouca,09/2019,51.6,8
+Arouca,10/2019,212.2,15
+Arouca,11/2019,296.4,30
+Arouca,12/2019,387.1,15
+Arouca,01/2020,185,18
+Arouca,02/2020,52.3,10
+Arouca,03/2020,117.9,15
+Arouca,04/2020,176.8,26
+Arouca,05/2020,67.4,14
+Arouca,06/2020,34.1,13
+Arouca,07/2020,8.3,5
+Arouca,08/2020,21.3,5
+Arouca,09/2020,59.8,12
+Arouca,10/2020,195.9,14
+Arouca,11/2020,128.8,17
+Arouca,12/2020,283.1,24
+Arouca,01/2021,209.4,15
+Arouca,02/2021,377.1,21
+Arouca,03/2021,16.3,12
+Vila Nova de Gaia,09/2019,49.3,8
+Vila Nova de Gaia,10/2019,260,15
+Vila Nova de Gaia,11/2019,306.5,30
+Vila Nova de Gaia,12/2019,406.5,15
+Vila Nova de Gaia,01/2020,228.4,17
+Vila Nova de Gaia,02/2020,58.6,10
+Vila Nova de Gaia,03/2020,111.1,14
+Vila Nova de Gaia,04/2020,163.5,21
+Vila Nova de Gaia,05/2020,50,11
+Vila Nova de Gaia,06/2020,28.3,11
+Vila Nova de Gaia,07/2020,7.2,5
+Vila Nova de Gaia,08/2020,34.5,6
+Vila Nova de Gaia,09/2020,53.1,12
+Vila Nova de Gaia,10/2020,179.9,15
+Vila Nova de Gaia,11/2020,123,19
+Vila Nova de Gaia,12/2020,326.4,26
+Vila Nova de Gaia,01/2021,172.8,15
+Vila Nova de Gaia,02/2021,320,21
+Vila Nova de Gaia,03/2021,13.3,11
+Vila do Conde,09/2019,51.1,8
+Vila do Conde,10/2019,215.2,16
+Vila do Conde,11/2019,263.7,30
+Vila do Conde,12/2019,337.7,13
+Vila do Conde,01/2020,219.3,19
+Vila do Conde,02/2020,62.6,14
+Vila do Conde,03/2020,105.1,14
+Vila do Conde,04/2020,150.8,22
+Vila do Conde,05/2020,35,11
+Vila do Conde,06/2020,16.8,10
+Vila do Conde,07/2020,3.3,3
+Vila do Conde,08/2020,36.1,6
+Vila do Conde,09/2020,41.5,13
+Vila do Conde,10/2020,165.1,16
+Vila do Conde,11/2020,116.6,16
+Vila do Conde,12/2020,302.9,26
+Vila do Conde,01/2021,138.5,16
+Vila do Conde,02/2021,303.6,22
+Vila do Conde,03/2021,12.9,12
+Valongo,09/2019,59.4,8
+Valongo,10/2019,258.2,14
+Valongo,11/2019,303.7,30
+Valongo,12/2019,421.9,14
+Valongo,01/2020,228.5,17
+Valongo,02/2020,59.5,10
+Valongo,03/2020,113.6,12
+Valongo,04/2020,152.7,21
+Valongo,05/2020,60.9,12
+Valongo,06/2020,30.9,12
+Valongo,07/2020,8.4,4
+Valongo,08/2020,37.6,6
+Valongo,09/2020,52.7,12
+Valongo,10/2020,181.7,15
+Valongo,11/2020,122.3,18
+Valongo,12/2020,282.8,24
+Valongo,01/2021,173.7,14
+Valongo,02/2021,343.7,21
+Valongo,03/2021,8.5,10
+Trofa,09/2019,47.1,8
+Trofa,10/2019,271.4,16
+Trofa,11/2019,245.2,28
+Trofa,12/2019,429,16
+Trofa,01/2020,240.5,16
+Trofa,02/2020,73.9,14
+Trofa,03/2020,134,15
+Trofa,04/2020,153.6,21
+Trofa,05/2020,54.4,14
+Trofa,06/2020,20.3,12
+Trofa,07/2020,5.4,4
+Trofa,08/2020,35,6
+Trofa,09/2020,42.3,12
+Trofa,10/2020,128.6,16
+Trofa,11/2020,100.4,16
+Trofa,12/2020,248.5,24
+Trofa,01/2021,130.6,15
+Trofa,02/2021,338.2,20
+Trofa,03/2021,11,11
+Santo Tirso,09/2019,47.1,8
+Santo Tirso,10/2019,271.4,16
+Santo Tirso,11/2019,245.2,28
+Santo Tirso,12/2019,429,16
+Santo Tirso,01/2020,240.5,16
+Santo Tirso,02/2020,73.9,14
+Santo Tirso,03/2020,134,15
+Santo Tirso,04/2020,153.6,21
+Santo Tirso,05/2020,54.4,14
+Santo Tirso,06/2020,20.3,12
+Santo Tirso,07/2020,5.4,4
+Santo Tirso,08/2020,35,6
+Santo Tirso,09/2020,42.3,12
+Santo Tirso,10/2020,128.6,16
+Santo Tirso,11/2020,100.4,16
+Santo Tirso,12/2020,248.5,24
+Santo Tirso,01/2021,130.6,15
+Santo Tirso,02/2021,338.2,20
+Santo Tirso,03/2021,11,11
+Póvoa de Varzim,09/2019,51.1,8
+Póvoa de Varzim,10/2019,215.2,16
+Póvoa de Varzim,11/2019,263.7,30
+Póvoa de Varzim,12/2019,337.7,13
+Póvoa de Varzim,01/2020,219.3,19
+Póvoa de Varzim,02/2020,62.6,14
+Póvoa de Varzim,03/2020,105.1,14
+Póvoa de Varzim,04/2020,150.8,22
+Póvoa de Varzim,05/2020,35,11
+Póvoa de Varzim,06/2020,16.8,10
+Póvoa de Varzim,07/2020,3.3,3
+Póvoa de Varzim,08/2020,36.1,6
+Póvoa de Varzim,09/2020,41.5,13
+Póvoa de Varzim,10/2020,165.1,16
+Póvoa de Varzim,11/2020,116.6,16
+Póvoa de Varzim,12/2020,302.9,26
+Póvoa de Varzim,01/2021,138.5,16
+Póvoa de Varzim,02/2021,303.6,22
+Póvoa de Varzim,03/2021,12.9,12
+Paredes,09/2019,62.6,8
+Paredes,10/2019,258.4,15
+Paredes,11/2019,314.5,29
+Paredes,12/2019,464.9,16
+Paredes,01/2020,216.7,16
+Paredes,02/2020,71.8,11
+Paredes,03/2020,141.7,16
+Paredes,04/2020,192,24
+Paredes,05/2020,68.6,14
+Paredes,06/2020,41.5,12
+Paredes,07/2020,8.5,6
+Paredes,08/2020,31.2,7
+Paredes,09/2020,60.1,12
+Paredes,10/2020,192.5,16
+Paredes,11/2020,126.4,19
+Paredes,12/2020,304.3,25
+Paredes,01/2021,202.7,16
+Paredes,02/2021,384,21
+Paredes,03/2021,13.1,11
+Matosinhos,09/2019,49.2,8
+Matosinhos,10/2019,254.1,15
+Matosinhos,11/2019,261.7,30
+Matosinhos,12/2019,329.9,14
+Matosinhos,01/2020,211.5,18
+Matosinhos,02/2020,65,12
+Matosinhos,03/2020,95.9,13
+Matosinhos,04/2020,139.7,22
+Matosinhos,05/2020,39.5,13
+Matosinhos,06/2020,26,11
+Matosinhos,07/2020,4.7,4
+Matosinhos,08/2020,43.5,6
+Matosinhos,09/2020,50.4,12
+Matosinhos,10/2020,152.6,15
+Matosinhos,11/2020,99.5,18
+Matosinhos,12/2020,303.1,26
+Matosinhos,01/2021,135.9,15
+Matosinhos,02/2021,262.6,21
+Matosinhos,03/2021,14.5,10
+Maia,09/2019,49.2,8
+Maia,10/2019,254.1,15
+Maia,11/2019,261.7,30
+Maia,12/2019,329.9,14
+Maia,01/2020,211.5,18
+Maia,02/2020,65,12
+Maia,03/2020,95.9,13
+Maia,04/2020,139.7,22
+Maia,05/2020,39.5,13
+Maia,06/2020,26,11
+Maia,07/2020,4.7,4
+Maia,08/2020,43.5,6
+Maia,09/2020,50.4,12
+Maia,10/2020,152.6,15
+Maia,11/2020,99.5,18
+Maia,12/2020,303.1,26
+Maia,01/2021,135.9,15
+Maia,02/2021,262.6,21
+Maia,03/2021,14.5,10
+Gondomar,09/2019,59.4,8
+Gondomar,10/2019,258.2,14
+Gondomar,11/2019,303.7,30
+Gondomar,12/2019,421.9,14
+Gondomar,01/2020,228.5,17
+Gondomar,02/2020,59.5,10
+Gondomar,03/2020,113.6,12
+Gondomar,04/2020,152.7,21
+Gondomar,05/2020,60.9,12
+Gondomar,06/2020,30.9,12
+Gondomar,07/2020,8.4,4
+Gondomar,08/2020,37.6,6
+Gondomar,09/2020,52.7,12
+Gondomar,10/2020,181.7,15
+Gondomar,11/2020,122.3,18
+Gondomar,12/2020,282.8,24
+Gondomar,01/2021,173.7,14
+Gondomar,02/2021,343.7,21
+Gondomar,03/2021,8.5,10
+Santa Maria da Feira,09/2019,54.2,8
+Santa Maria da Feira,10/2019,211.2,14
+Santa Maria da Feira,11/2019,269.5,30
+Santa Maria da Feira,12/2019,382,15
+Santa Maria da Feira,01/2020,193.1,18
+Santa Maria da Feira,02/2020,56.8,10
+Santa Maria da Feira,03/2020,106.5,14
+Santa Maria da Feira,04/2020,166.4,24
+Santa Maria da Feira,05/2020,57.8,13
+Santa Maria da Feira,06/2020,33.7,13
+Santa Maria da Feira,07/2020,8.2,4
+Santa Maria da Feira,08/2020,28.2,5
+Santa Maria da Feira,09/2020,54.5,12
+Santa Maria da Feira,10/2020,158.9,14
+Santa Maria da Feira,11/2020,115.8,18
+Santa Maria da Feira,12/2020,240.2,25
+Santa Maria da Feira,01/2021,161.5,14
+Santa Maria da Feira,02/2021,351.1,21
+Santa Maria da Feira,03/2021,14.8,11
