@@ -1,0 +1,996 @@
+"Categoria criminologa","Sottocategoria Criminologica","Circoscrizione","Localita","Area Verde","Data","Ora"
+"Allarme Sociale","Altro",8,"D'AZEGLIO/MASSIMO (CORSO)                                             ",,"16/07/2018",
+"Allarme Sociale","Altro",1,"REGINA MARGHERITA/(CORSO)                                             ",,"17/07/2018",
+"Allarme Sociale","Altro",10,"DUINO/(VIA)                                                           ",,"14/09/2018",
+"Allarme Sociale","Altro",,,,"02/10/2018","09.40"
+"Allarme Sociale","Altro",9,"CARDUCCI/GIOSUE' (PIAZZA)                                             ",,"27/11/2018","11.53"
+"Allarme Sociale","Atti di vandalismo",3,"ADRIANO/(PIAZZA)                                                      ",,"28/08/2018",
+"Allarme Sociale","Atti di vandalismo",3,"MARMOLADA/(PIAZZA)                                                    ","Area Verde","10/09/2018",
+"Allarme Sociale","Atti di vandalismo",1,"ARBARELLO/VINCENZO (PIAZZA)                                           ",,"29/11/2018","11.43"
+"Convivenza Civile","Altro",9,"GUALA/PIETRO FRANCESCO (VIA)                                          ",,"02/07/2018",
+"Convivenza Civile","Altro",6,"BOCCHERINI/LUIGI (VIA)                                                ","Area Verde","03/07/2018",
+"Convivenza Civile","Altro",2,"CATTANEO/RICCARDO (PIAZZA)                                            ",,"04/07/2018",
+"Convivenza Civile","Altro",3,"ISONZO/(VIA)                                                          ",,"04/07/2018",
+"Convivenza Civile","Altro",3,"ISSIGLIO/(VIA)                                                        ",,"05/07/2018",
+"Convivenza Civile","Altro",6,"SANTHIA'/(VIA)                                                        ",,"05/07/2018",
+"Convivenza Civile","Altro",8,"BRAMANTE/(CORSO)                                                      ",,"05/07/2018",
+"Convivenza Civile","Altro",7,"S. MAURIZIO/(CORSO)                                                   ",,"06/07/2018",
+"Convivenza Civile","Altro",1,"VITTORIO EMANUELE II/(CORSO)                                          ",,"09/07/2018",
+"Convivenza Civile","Altro",4,"BORGOSESIA/(VIA)                                                      ",,"09/07/2018",
+"Convivenza Civile","Altro",7,"NAPOLI/(LUNGO DORA)                                                   ",,"09/07/2018",
+"Convivenza Civile","Altro",2,"NITTI/FRANCESCO SAVERIO (VIA)                                         ",,"11/07/2018",
+"Convivenza Civile","Altro",4,"EXILLES/(VIA)                                                         ",,"11/07/2018",
+"Convivenza Civile","Altro",6,"ROMANIA/(CORSO)                                                       ",,"11/07/2018",
+"Convivenza Civile","Altro",7,"S. MAURIZIO/(CORSO)                                                   ",,"11/07/2018",
+"Convivenza Civile","Altro",8,"MADAMA CRISTINA/(VIA)                                                 ",,"11/07/2018",
+"Convivenza Civile","Altro",3,"VANDALINO/(VIA)                                                       ",,"12/07/2018",
+"Convivenza Civile","Altro",4,"GALVANI/LUIGI (VIA)                                                   ",,"12/07/2018",
+"Convivenza Civile","Altro",1,"BERTOLA/ANTONIO GIUSEPPE (VIA)                                        ",,"13/07/2018",
+"Convivenza Civile","Altro",1,"VIOTTI/GIAMBATTISTA (VIA)                                             ",,"13/07/2018",
+"Convivenza Civile","Altro",1,"VIOTTI/GIAMBATTISTA (VIA)                                             ",,"13/07/2018",
+"Convivenza Civile","Altro",1,"VIOTTI/GIAMBATTISTA (VIA)                                             ",,"13/07/2018",
+"Convivenza Civile","Altro",5,"PIANEZZA/(VIA)                                                        ",,"13/07/2018",
+"Convivenza Civile","Altro",7,"MEISINO/(STRADA DEL)                                                  ",,"13/07/2018",
+"Convivenza Civile","Altro",6,"VILLARETTO/(STRADA DEL)                                               ",,"16/07/2018",
+"Convivenza Civile","Altro",1,"DONATI/VITALIANO (VIA)                                                ",,"17/07/2018",
+"Convivenza Civile","Altro",1,"ROMA/(VIA)                                                            ",,"17/07/2018",
+"Convivenza Civile","Altro",3,"CHALLANT/(VIA)                                                        ",,"17/07/2018",
+"Convivenza Civile","Altro",3,"S. AMBROGIO/(VIA)                                                     ",,"17/07/2018",
+"Convivenza Civile","Altro",5,"VERONESE/PAOLO (VIA)                                                  ",,"17/07/2018",
+"Convivenza Civile","Altro",5,"VIBO'/(VIA)                                                           ",,"19/07/2018",
+"Convivenza Civile","Altro",7,"VANCHIGLIA/(VIA)                                                      ",,"20/07/2018",
+"Convivenza Civile","Altro",8,"TIZIANO VECELLIO/(VIA)                                                ",,"24/07/2018",
+"Convivenza Civile","Altro",8,"GIACOSA/GIUSEPPE (VIA)                                                ",,"24/07/2018","12.21"
+"Convivenza Civile","Altro",1,"GRAMSCI/ANTONIO (VIA)                                                 ",,"26/07/2018",
+"Convivenza Civile","Altro",1,"RE UMBERTO/(CORSO)                                                    ",,"27/07/2018",
+"Convivenza Civile","Altro",1,"FERRARIS/GALILEO (CORSO)                                              ",,"28/07/2018",
+"Convivenza Civile","Altro",1,"ARSENALE/(VIA)                                                        ",,"30/07/2018",
+"Convivenza Civile","Altro",4,"BELLARDI/LUDOVICO (VIA)                                               ",,"30/07/2018",
+"Convivenza Civile","Altro",6,"SESIA/(VIA)                                                           ",,"30/07/2018",
+"Convivenza Civile","Altro",8,"MONCALIERI/(CORSO)                                                    ",,"30/07/2018",
+"Convivenza Civile","Altro",1,"SACCHI/PAOLO (VIA)                                                    ",,"31/07/2018",
+"Convivenza Civile","Altro",7,"GIULIO CESARE/(CORSO)                                                 ",,"01/08/2018","14.28"
+"Convivenza Civile","Altro",1,"QUATTRO MARZO/(LARGO)                                                 ",,"02/08/2018",
+"Convivenza Civile","Altro",6,"BOLOGNA/(VIA)                                                         ",,"02/08/2018","11.21"
+"Convivenza Civile","Altro",5,"LUCENTO/(VIA)                                                         ",,"03/08/2018",
+"Convivenza Civile","Altro",3,"FRANCIA/(CORSO)                                                       ",,"06/08/2018",
+"Convivenza Civile","Altro",6,"PALERMO/(CORSO)                                                       ",,"06/08/2018",
+"Convivenza Civile","Altro",3,"BRUNELLESCHI/FILIPPO (CORSO)                                          ",,"07/08/2018",
+"Convivenza Civile","Altro",3,"FENOGLIO GIUSEPPE (BEPPE) (VIA)                                       ","Area Verde","07/08/2018",
+"Convivenza Civile","Altro",3,"BEVILACQUA/QUINTO (VIA)                                               ",,"08/08/2018",
+"Convivenza Civile","Altro",7,"AOSTA/(VIA)                                                           ",,"08/08/2018",
+"Convivenza Civile","Altro",5,"MONTESOGLIO/(VIA)                                                     ",,"09/08/2018",
+"Convivenza Civile","Altro",1,"VALERIO/LORENZO (VIA)                                                 ",,"10/08/2018",
+"Convivenza Civile","Altro",5,"ROCCAVIONE CONTE DI/(VIA)                                             ",,"12/08/2018",
+"Convivenza Civile","Altro",7,"D'HARCOURT/(STRADA)                                                   ",,"14/08/2018",
+"Convivenza Civile","Altro",9,"STELLONE/(VIA)                                                        ",,"17/08/2018",
+"Convivenza Civile","Altro",1,"S. TOMMASO/(VIA)                                                      ",,"20/08/2018",
+"Convivenza Civile","Altro",7,"VANCHIGLIA/(VIA)                                                      ",,"20/08/2018",
+"Convivenza Civile","Altro",9,"CERCENASCO/(VIA)                                                      ",,"21/08/2018",
+"Convivenza Civile","Altro",2,"MONTE LUNGO/(CORSO)                                                   ",,"24/08/2018",
+"Convivenza Civile","Altro",3,"CARSO/(VIA)                                                           ",,"27/08/2018",
+"Convivenza Civile","Altro",4,"TASSONI/ALESSANDRO (CORSO)                                            ",,"31/08/2018",
+"Convivenza Civile","Altro",8,"PICCO/ALBERTO (CORSO)                                                 ",,"31/08/2018",
+"Convivenza Civile","Altro",5,"STAMPALIA/(PIAZZA)                                                    ",,"03/09/2018",
+"Convivenza Civile","Altro",6,"GIULIO CESARE/(CORSO)                                                 ",,"05/09/2018",
+"Convivenza Civile","Altro",2,"LESEGNO/(VIA)                                                         ",,"06/09/2018","10.27"
+"Convivenza Civile","Altro",1,"MAZZINI/GIUSEPPE (VIA)                                                ",,"07/09/2018",
+"Convivenza Civile","Altro",6,"BOTTESINI/GIOVANNI (PIAZZA)                                           ",,"09/09/2018",
+"Convivenza Civile","Altro",2,"MOMBASIGLIO/(VIA)                                                     ",,"10/09/2018",
+"Convivenza Civile","Altro",7,"BERGAMO/(VIA)                                                         ",,"10/09/2018",
+"Convivenza Civile","Altro",7,"URBINO/(VIA)                                                          ",,"10/09/2018","11.16"
+"Convivenza Civile","Altro",3,"DUCHESSA JOLANDA/(VIA)                                                ",,"11/09/2018",
+"Convivenza Civile","Altro",2,"ORBASSANO/(CORSO)                                                     ",,"13/09/2018",
+"Convivenza Civile","Altro",3,"RENIER/RODOLFO (VIA)                                                  ",,"13/09/2018",
+"Convivenza Civile","Altro",7,"CASALE/(CORSO)                                                        ",,"13/09/2018",
+"Convivenza Civile","Altro",10,"VIGLIANI/ONORATO (VIA)                                                ",,"13/09/2018",
+"Convivenza Civile","Altro",5,"STRADELLA/(VIA)                                                       ",,"13/09/2018","12.01"
+"Convivenza Civile","Altro",4,"PIEDICAVALLO/(VIA)                                                    ",,"14/09/2018",
+"Convivenza Civile","Altro",6,"CIMAROSA/DOMENICO (VIA)                                               ",,"14/09/2018","12.12"
+"Convivenza Civile","Altro",4,"CAPELLI/CARLO (VIA)                                                   ",,"17/09/2018",
+"Convivenza Civile","Altro",6,"RESPIGHI/OTTORINO (PIAZZA)                                            ",,"17/09/2018",
+"Convivenza Civile","Altro",3,"ADRIANO/(PIAZZA)                                                      ",,"18/09/2018",
+"Convivenza Civile","Altro",3,"ISSIGLIO/(VIA)                                                        ",,"18/09/2018",
+"Convivenza Civile","Altro",4,"CAPELLI/CARLO (VIA)                                                   ",,"19/09/2018",
+"Convivenza Civile","Altro",4,"CIBRARIO/LUIGI (VIA)                                                  ",,"24/09/2018",
+"Convivenza Civile","Altro",10,"ORBASSANO/(CORSO)                                                     ",,"24/09/2018","10.53"
+"Convivenza Civile","Altro",4,"ASCOLI/GRAZIADIO (VIA)                                                ",,"25/09/2018",
+"Convivenza Civile","Altro",1,"GARIBALDI/GIUSEPPE (VIA)                                              ",,"25/09/2018","14.54"
+"Convivenza Civile","Altro",1,"CAVOUR (VIA)                                                          ",,"26/09/2018",
+"Convivenza Civile","Altro",7,"TORTONA/(CORSO)                                                       ",,"26/09/2018",
+"Convivenza Civile","Altro",2,"AGNELLI/GIOVANNI (CORSO)                                              ",,"27/09/2018",
+"Convivenza Civile","Altro",1,"MILANO/(VIA)                                                          ",,"28/09/2018",
+"Convivenza Civile","Altro",3,"MONGINEVRO/(VIA)                                                      ",,"28/09/2018",
+"Convivenza Civile","Altro",9,"GALIMBERTI/TANCREDI (PIAZZA)                                          ",,"28/09/2018",
+"Convivenza Civile","Altro",6,"BIASONI/(STRADA DEI)                                                  ",,"29/09/2018",
+"Convivenza Civile","Altro",1,"TIRRENO/(VIA)                                                         ",,"01/10/2018",
+"Convivenza Civile","Altro",8,"BRAMANTE/(CORSO)                                                      ",,"01/10/2018",
+"Convivenza Civile","Altro",9,"GENOVA/(VIA)                                                          ",,"02/10/2018",
+"Convivenza Civile","Altro",3,"FRANCIA/(CORSO)                                                       ",,"03/10/2018",
+"Convivenza Civile","Altro",4,"UMBRIA/(CORSO)                                                        ",,"03/10/2018",
+"Convivenza Civile","Altro",6,"RESPIGHI/OTTORINO (PIAZZA)                                            ",,"03/10/2018",
+"Convivenza Civile","Altro",6,"SETTIMO/(STRADA DI)                                                   ",,"03/10/2018",
+"Convivenza Civile","Altro",7,"CECCHI/ANTONIO (VIA)                                                  ",,"03/10/2018","14.43"
+"Convivenza Civile","Altro",1,"CASTELFIDARDO/(CORSO)                                                 ",,"04/10/2018",
+"Convivenza Civile","Altro",5,"BADINI CONFALONIERI/ALFONSO (VIA)                                     ",,"04/10/2018",
+"Convivenza Civile","Altro",8,"VALPERGA/CALUSO (VIA)                                                 ",,"04/10/2018",
+"Convivenza Civile","Altro",2,"ORBASSANO/(CORSO)                                                     ",,"05/10/2018",
+"Convivenza Civile","Altro",4,"FRANCIA/(CORSO)                                                       ",,"05/10/2018",
+"Convivenza Civile","Altro",7,"MONGRENO/(STRADA)                                                     ",,"06/10/2018",
+"Convivenza Civile","Altro",1,"STATUTO/(PIAZZA)                                                      ",,"08/10/2018",
+"Convivenza Civile","Altro",4,"LECCE/(CORSO)                                                         ","Area Verde","09/10/2018",
+"Convivenza Civile","Altro",7,"GIULIO CESARE/(CORSO)                                                 ",,"09/10/2018",
+"Convivenza Civile","Altro",3,"CIALDINI/ENRICO (VIA)                                                 ",,"10/10/2018",
+"Convivenza Civile","Altro",6,"MAGRA/(STRADA DELLA)                                                  ",,"10/10/2018",
+"Convivenza Civile","Altro",8,"MONCALIERI/(CORSO)                                                    ","Area Verde","11/10/2018",
+"Convivenza Civile","Altro",1,"GOVONE/GIUSEPPE (CORSO)                                               ",,"12/10/2018",
+"Convivenza Civile","Altro",5,"BORSI/GIOSUE' (VIA)                                                   ",,"12/10/2018",
+"Convivenza Civile","Altro",9,"GIORDANO/BRUNO (VIA)                                                  ",,"13/10/2018",
+"Convivenza Civile","Altro",4,"CEVA/(VIA)                                                            ",,"16/10/2018",
+"Convivenza Civile","Altro",6,"DE ROSA/FERNANDO (VIA)                                                ",,"16/10/2018",
+"Convivenza Civile","Altro",2,"AGNELLI/GIOVANNI (CORSO)                                              ",,"16/10/2018","09.49"
+"Convivenza Civile","Altro",6,"TANARO/(VIA)                                                          ",,"17/10/2018",
+"Convivenza Civile","Altro",9,"TESTONA/(VIA)                                                         ",,"18/10/2018",
+"Convivenza Civile","Altro",1,"SACCHI/PAOLO (VIA)                                                    ",,"19/10/2018",
+"Convivenza Civile","Altro",1,"STATUTO/(PIAZZA)                                                      ",,"19/10/2018",
+"Convivenza Civile","Altro",7,"ALBERA/DON PAOLO (PIAZZA)                                             ",,"19/10/2018",
+"Convivenza Civile","Altro",2,"BARLETTA/(VIA)                                                        ",,"20/10/2018",
+"Convivenza Civile","Altro",5,"DRUENTO/(VIA)                                                         ",,"20/10/2018",
+"Convivenza Civile","Altro",3,"MONTE ORTIGARA/(VIA)                                                  ",,"22/10/2018",
+"Convivenza Civile","Altro",7,"CHIERI/(CORSO)                                                        ",,"22/10/2018",
+"Convivenza Civile","Altro",4,"TELESIO/BERNARDINO (CORSO)                                            ",,"23/10/2018",
+"Convivenza Civile","Altro",7,"GIAVENO/(VIA)                                                         ",,"23/10/2018",
+"Convivenza Civile","Altro",4,"BURONZO/(VIA)                                                         ",,"24/10/2018",
+"Convivenza Civile","Altro",1,"SACCHI/PAOLO (VIA)                                                    ",,"25/10/2018",
+"Convivenza Civile","Altro",3,"BORSELLINO/PAOLO (VIA)/                                               ",,"25/10/2018",
+"Convivenza Civile","Altro",8,"ORMEA/(VIA)                                                           ",,"29/10/2018",
+"Convivenza Civile","Altro",1,"ARSENALE/(VIA)                                                        ",,"30/10/2018","13.21"
+"Convivenza Civile","Altro",5,"ORBETELLO/(VIA)                                                       ",,"31/10/2018",
+"Convivenza Civile","Altro",3,"VILLAR FOCCHIARDO/(VIA)                                               ",,"02/11/2018",
+"Convivenza Civile","Altro",10,"ARTOM/EMANUELE (VIA)                                                  ",,"03/11/2018",
+"Convivenza Civile","Altro",4,"SALBERTRAND/(VIA)                                                     ",,"04/11/2018",
+"Convivenza Civile","Altro",5,"COSSA/PIETRO (VIA)                                                    ",,"05/11/2018",
+"Convivenza Civile","Altro",9,"MILLEFONTI/(VIA)                                                      ",,"05/11/2018",
+"Convivenza Civile","Altro",3,"DI NANNI/DANTE (VIA)                                                  ",,"06/11/2018",
+"Convivenza Civile","Altro",4,"VIDUA/CARLO (VIA)                                                     ",,"08/11/2018",
+"Convivenza Civile","Altro",5,"ALA DI STURA/(VIA)                                                    ",,"08/11/2018",
+"Convivenza Civile","Altro",6,"BALTEA/(VIA)                                                          ",,"08/11/2018",
+"Convivenza Civile","Altro",1,"BAVA/EUSEBIO (VIA)                                                    ",,"09/11/2018",
+"Convivenza Civile","Altro",4,"UMBRIA/(CORSO)                                                        ",,"10/11/2018",
+"Convivenza Civile","Altro",6,"COLONNA/VITTORIA (VIA)                                                ",,"11/11/2018",
+"Convivenza Civile","Altro",2,"S. MARINO/(VIA)                                                       ",,"12/11/2018",
+"Convivenza Civile","Altro",5,"SANSOVINO/ANDREA (VIA)                                                ",,"12/11/2018",
+"Convivenza Civile","Altro",8,"D'AZEGLIO/MASSIMO (CORSO)                                             ",,"12/11/2018",
+"Convivenza Civile","Altro",1,"CASSINI/GIAN DOMENICO (LARGO)                                         ",,"13/11/2018",
+"Convivenza Civile","Altro",4,"PIANEZZA/(VIA)                                                        ",,"13/11/2018",
+"Convivenza Civile","Altro",7,"PALERMO/(CORSO)                                                       ",,"13/11/2018",
+"Convivenza Civile","Altro",1,"CALANDRA FRATELLI/(VIA)                                               ",,"14/11/2018",
+"Convivenza Civile","Altro",1,"ROMA/(VIA)                                                            ",,"14/11/2018",
+"Convivenza Civile","Altro",5,"TERNI/(VIA)                                                           ",,"14/11/2018",
+"Convivenza Civile","Altro",8,"VAL PATTONERA/(STRADA)                                                ",,"14/11/2018",
+"Convivenza Civile","Altro",1,"TURATI/FILIPPO (CORSO)                                                ","Area Verde","15/11/2018",
+"Convivenza Civile","Altro",2,"SALVEMINI/GAETANO (CORSO)                                             ",,"15/11/2018",
+"Convivenza Civile","Altro",3,"AZZI/FRANCESCO (VIA)                                                  ",,"15/11/2018",
+"Convivenza Civile","Altro",3,"AZZI/FRANCESCO (VIA)                                                  ",,"15/11/2018",
+"Convivenza Civile","Altro",8,"PETITTI/ILARIONE (VIA)                                                ",,"15/11/2018",
+"Convivenza Civile","Altro",5,"BORGARO/(VIA)                                                         ",,"15/11/2018","08.52"
+"Convivenza Civile","Altro",1,"PASTRENGO/(VIA)                                                       ",,"19/11/2018",
+"Convivenza Civile","Altro",2,"GUIDOBONO/DOMENICO (VIA)                                              ",,"19/11/2018",
+"Convivenza Civile","Altro",5,"CARDINALE MASSAIA/GUGLIELMO (VIA)                                     ",,"19/11/2018",
+"Convivenza Civile","Altro",1,"QUATTRO MARZO/(LARGO)                                                 ",,"19/11/2018","13.05"
+"Convivenza Civile","Altro",3,"SANFRONT/(VIA)                                                        ",,"20/11/2018",
+"Convivenza Civile","Altro",4,"BIANCHI/NICOMEDE (VIA)                                                ",,"20/11/2018",
+"Convivenza Civile","Altro",5,"BREGLIO/(VIA)                                                         ",,"21/11/2018",
+"Convivenza Civile","Altro",1,"FERRARIS/GALILEO (CORSO)                                              ",,"22/11/2018",
+"Convivenza Civile","Altro",1,"S. FRANCESCO D'ASSISI/(VIA)                                           ",,"27/11/2018",
+"Convivenza Civile","Altro",6,"CIMAROSA/DOMENICO (VIA)                                               ",,"28/11/2018",
+"Convivenza Civile","Altro",7,"BENEVENTO/(VIA)                                                       ",,"28/11/2018",
+"Convivenza Civile","Altro",3,"RACCONIGI/(LARGO)                                                     ",,"29/11/2018",
+"Convivenza Civile","Altro",8,"MADAMA CRISTINA/(VIA)                                                 ",,"29/11/2018",
+"Convivenza Civile","Altro",1,"CALANDRA FRATELLI/(VIA)                                               ",,"30/11/2018",
+"Convivenza Civile","Altro",1,"VITTORIO EMANUELE II/(CORSO)                                          ",,"30/11/2018",
+"Convivenza Civile","Altro",7,"REGIO PARCO/(CORSO)                                                   ",,"05/12/2018",
+"Convivenza Civile","Altro",9,"ALBENGA/(VIA)                                                         ",,"05/12/2018",
+"Convivenza Civile","Altro",1,"ACCADEMIA DELLE SCIENZE/(VIA)                                         ",,"06/12/2018",
+"Convivenza Civile","Altro",6,"PACINI/GIOVANNI (VIA)                                                 ",,"06/12/2018",
+"Convivenza Civile","Altro",7,"BOLOGNA/(VIA)                                                         ",,"06/12/2018","09.39"
+"Convivenza Civile","Altro",4,"COSSA/PIETRO (VIA)                                                    ",,"07/12/2018",
+"Convivenza Civile","Altro",6,"LEMMI/FRANCESCO (VIA)                                                 ",,"09/12/2018",
+"Convivenza Civile","Altro",5,"ALTESSANO/(STRADA DI)                                                 ",,"12/12/2018",
+"Convivenza Civile","Altro",6,"LEINI'/(VIA)                                                          ",,"12/12/2018",
+"Convivenza Civile","Altro",4,"LECCE/(CORSO)                                                         ",,"14/12/2018",
+"Convivenza Civile","Altro",4,"ROSTA/(VIA)                                                           ",,"14/12/2018",
+"Convivenza Civile","Altro",5,"REISS ROMOLI/GUGLIELMO (VIA)                                          ",,"14/12/2018",
+"Convivenza Civile","Altro",6,"GIULIO CESARE/(CORSO)                                                 ",,"14/12/2018",
+"Convivenza Civile","Altro",1,"CERNAIA/(VIA)                                                         ",,"17/12/2018",
+"Convivenza Civile","Altro",1,"VESPUCCI/AMERIGO (VIA)                                                ",,"17/12/2018",
+"Convivenza Civile","Altro",10,"BARBERA/GASPERO (VIA)                                                 ",,"17/12/2018",
+"Convivenza Civile","Altro",3,"BIONAZ/(VIA)                                                          ",,"20/12/2018",
+"Convivenza Civile","Altro",1,"CARIGNANO/(PIAZZA)                                                    ",,"21/12/2018",
+"Convivenza Civile","Altro",6,"MONTE ROSA/(VIA)                                                      ",,"21/12/2018",
+"Convivenza Civile","Altro",7,"CIGNA/FRANCESCO (VIA)                                                 ",,"21/12/2018","13.19"
+"Convivenza Civile","Altro",3,"BORSELLINO/PAOLO (VIA)/                                               ",,"27/12/2018",
+"Convivenza Civile","Altro",1,"RE UMBERTO/(CORSO)                                                    ",,"29/12/2018",
+"Convivenza Civile","Altro",7,"BRESCIA/(CORSO)                                                       ",,"30/12/2018","09.55"
+"Convivenza Civile","Altro",3,"S. AMBROGIO/(VIA)                                                     ",,"31/12/2018",
+"Convivenza Civile","Comportamenti molesti",3,"DI NANNI/DANTE (VIA)                                                  ",,"02/07/2018",
+"Convivenza Civile","Comportamenti molesti",7,"BRESCIA/(CORSO)                                                       ",,"02/07/2018",
+"Convivenza Civile","Comportamenti molesti",3,"DELLA ROBBIA/LUCA (VIA)                                               ",,"04/07/2018",
+"Convivenza Civile","Comportamenti molesti",5,"MUZZANO/(VIA)                                                         ",,"04/07/2018",
+"Convivenza Civile","Comportamenti molesti",6,"SOFIA/(PIAZZA)                                                        ",,"04/07/2018",
+"Convivenza Civile","Comportamenti molesti",6,"BOLOGNA/(VIA)                                                         ",,"05/07/2018",
+"Convivenza Civile","Comportamenti molesti",6,"VERCELLI/(CORSO)                                                      ",,"05/07/2018",
+"Convivenza Civile","Comportamenti molesti",9,"VENTIMIGLIA/(VIA)                                                     ",,"06/07/2018",
+"Convivenza Civile","Comportamenti molesti",2,"BARLETTA/(VIA)                                                        ",,"13/07/2018",
+"Convivenza Civile","Comportamenti molesti",4,"FRANCIA/(CORSO)                                                       ","Area Verde","17/07/2018",
+"Convivenza Civile","Comportamenti molesti",3,"VIRLE/(VIA)                                                           ",,"21/07/2018",
+"Convivenza Civile","Comportamenti molesti",2,"SALICETO/(VIA)                                                        ",,"23/07/2018",
+"Convivenza Civile","Comportamenti molesti",8,"BIDONE/GIORGIO (VIA)                                                  ",,"23/07/2018",
+"Convivenza Civile","Comportamenti molesti",2,"BAINSIZZA/(VIA)                                                       ",,"31/07/2018","10.09"
+"Convivenza Civile","Comportamenti molesti",1,"BAVA/EUSEBIO (VIA)                                                    ",,"02/08/2018",
+"Convivenza Civile","Comportamenti molesti",3,"CIRENAICA/(VIA)                                                       ","Area Verde","02/08/2018",
+"Convivenza Civile","Comportamenti molesti",4,"ASCOLI/GRAZIADIO (VIA)                                                ",,"02/08/2018",
+"Convivenza Civile","Comportamenti molesti",7,"ROVIGO/(VIA)                                                          ",,"02/08/2018",
+"Convivenza Civile","Comportamenti molesti",9,"UNITA' D'ITALIA/(CORSO)                                               ",,"02/08/2018",
+"Convivenza Civile","Comportamenti molesti",4,"FRANCIA/(CORSO)                                                       ",,"03/08/2018",
+"Convivenza Civile","Comportamenti molesti",7,"ANTONELLI/ALESSANDRO (LUNGO PO)                                       ",,"13/08/2018",
+"Convivenza Civile","Comportamenti molesti",9,"SPEZIA/(CORSO)                                                        ",,"13/08/2018",
+"Convivenza Civile","Comportamenti molesti",9,"CORSICA/(CORSO)                                                       ",,"30/08/2018",
+"Convivenza Civile","Comportamenti molesti",4,"GHEMME/(VIA)                                                          ",,"05/09/2018","15.05"
+"Convivenza Civile","Comportamenti molesti",3,"DELLEANI/LORENZO (VIA)                                                ",,"06/09/2018",
+"Convivenza Civile","Comportamenti molesti",3,"REVELLO/(VIA)                                                         ",,"07/09/2018",
+"Convivenza Civile","Comportamenti molesti",3,"MORETTA/(VIA)                                                         ",,"11/09/2018","11.13"
+"Convivenza Civile","Comportamenti molesti",5,"VAL DELLA TORRE/(VIA)                                                 ",,"12/09/2018",
+"Convivenza Civile","Comportamenti molesti",7,"GIULIO CESARE/(CORSO)                                                 ",,"12/09/2018",
+"Convivenza Civile","Comportamenti molesti",2,"DE BERNARDI/LAMBERTO (VIA)                                            ",,"13/09/2018",
+"Convivenza Civile","Comportamenti molesti",9,"NIZZA/(VIA)                                                           ",,"13/09/2018",
+"Convivenza Civile","Comportamenti molesti",2,"TRIPOLI/(VIA)                                                         ",,"14/09/2018",
+"Convivenza Civile","Comportamenti molesti",6,"CIMAROSA/DOMENICO (PIAZZA)                                            ",,"14/09/2018",
+"Convivenza Civile","Comportamenti molesti",7,"FORTINO/(STRADA DEL)                                                  ",,"14/09/2018",
+"Convivenza Civile","Comportamenti molesti",7,"NAPIONE/GIOVANNI FRANCESCO (VIA)                                      ",,"14/09/2018",
+"Convivenza Civile","Comportamenti molesti",3,"BRACCINI/PAOLO (VIA)                                                  ",,"17/09/2018",
+"Convivenza Civile","Comportamenti molesti",7,"SINEO/RICCARDO (VIA)                                                  ",,"21/09/2018",
+"Convivenza Civile","Comportamenti molesti",8,"D'AZEGLIO/MASSIMO (CORSO)                                             ",,"29/09/2018",
+"Convivenza Civile","Comportamenti molesti",2,"ORBASSANO/(CORSO)                                                     ",,"08/10/2018",
+"Convivenza Civile","Comportamenti molesti",1,"BRAMANTE/(CORSO)                                                      ",,"11/10/2018",
+"Convivenza Civile","Comportamenti molesti",4,"COSSA/PIETRO (VIA)                                                    ",,"12/10/2018",
+"Convivenza Civile","Comportamenti molesti",1,"S. MASSIMO/(VIA)                                                      ",,"15/10/2018",
+"Convivenza Civile","Comportamenti molesti",5,"GOTTI/ENRICO (VIA)                                                    ",,"15/10/2018",
+"Convivenza Civile","Comportamenti molesti",1,"CONFIENZA/(VIA)                                                       ",,"15/10/2018","11.09"
+"Convivenza Civile","Comportamenti molesti",3,"BARGE/(VIA)                                                           ",,"18/10/2018",
+"Convivenza Civile","Comportamenti molesti",2,"TAZZOLI/ENRICO (CORSO)                                                ",,"26/10/2018",
+"Convivenza Civile","Comportamenti molesti",5,"BOCCARDO/GIOVANNI MICHELE (VIA)                                       ",,"26/10/2018","13.32"
+"Convivenza Civile","Comportamenti molesti",1,"DUCA D'AOSTA/(PIAZZALE)                                               ",,"27/10/2018",
+"Convivenza Civile","Comportamenti molesti",5,"VEROLENGO/(VIA)                                                       ",,"29/10/2018",
+"Convivenza Civile","Comportamenti molesti",7,"NAPOLI/(LUNGO DORA)                                                   ",,"29/10/2018",
+"Convivenza Civile","Comportamenti molesti",6,"PERGOLESI/GIAMBATTISTA (VIA)                                          ",,"30/10/2018",
+"Convivenza Civile","Comportamenti molesti",5,"PAOLO DELLA CELLA/(VIA)                                               ",,"31/10/2018",
+"Convivenza Civile","Comportamenti molesti",6,"DONATORE DI SANGUE/(PIAZZA DEL)                                       ",,"05/11/2018",
+"Convivenza Civile","Comportamenti molesti",1,"FERRARIS/GALILEO (CORSO)                                              ",,"09/11/2018",
+"Convivenza Civile","Comportamenti molesti",7,"ARTISTI/(VIA)                                                         ",,"18/11/2018",
+"Convivenza Civile","Comportamenti molesti",6,"CENA/GIOVANNI (VIA)                                                   ",,"19/11/2018",
+"Convivenza Civile","Comportamenti molesti",,,,"20/11/2018",
+"Convivenza Civile","Comportamenti molesti",7,"S. MAURIZIO/(CORSO)                                                   ",,"29/11/2018",
+"Convivenza Civile","Comportamenti molesti",4,"CIBRARIO/LUIGI (VIA)                                                  ",,"29/11/2018","11.30"
+"Convivenza Civile","Comportamenti molesti",9,"POLONIA/(PIAZZA)                                                      ",,"03/12/2018",
+"Convivenza Civile","Comportamenti molesti",1,"MONTECUCCOLI/RAIMONDO (VIA)                                           ",,"04/12/2018",
+"Convivenza Civile","Comportamenti molesti",8,"SALINO/(STRADA DEL)                                                   ",,"05/12/2018",
+"Convivenza Civile","Comportamenti molesti",6,"SETTIMO/(STRADA DI)                                                   ",,"07/12/2018",
+"Convivenza Civile","Comportamenti molesti",6,"TASCA/ANGELO (VIA)                                                    ",,"07/12/2018",
+"Convivenza Civile","Comportamenti molesti",6,"PETRELLA/ERRICO (VIA)                                                 ","Area Verde","11/12/2018",
+"Convivenza Civile","Comportamenti molesti",7,"RICASOLI/BETTINO (VIA)                                                ",,"11/12/2018",
+"Convivenza Civile","Comportamenti molesti",7,"MARIA AUSILIATRICE/(PIAZZA)                                           ",,"13/12/2018",
+"Convivenza Civile","Comportamenti molesti",4,"BELLI/PIETRINO (VIA)                                                  ",,"21/12/2018",
+"Convivenza Civile","Disturbi altri animali",7,"CASALE/(CORSO)                                                        ",,"01/10/2018",
+"Convivenza Civile","Disturbi Cani",3,"CARAGLIO/(VIA)                                                        ",,"03/07/2018",
+"Convivenza Civile","Disturbi Cani",7,"S. GIULIA/(VIA)                                                       ",,"03/07/2018",
+"Convivenza Civile","Disturbi Cani",7,"BOCCACCIO/GIOVANNI (VIA)                                              ",,"05/07/2018",
+"Convivenza Civile","Disturbi Cani",4,"PASTEUR/LUIGI (VIA)                                                   ",,"18/07/2018",
+"Convivenza Civile","Disturbi Cani",8,"S. VITO REVIGLIASCO/(STRADA)                                          ","Area Verde","08/08/2018",
+"Convivenza Civile","Disturbi Cani",4,"COLLEGNO/(STRADA ANTICA DI)                                           ",,"11/08/2018",
+"Convivenza Civile","Disturbi Cani",5,"COLAUTTI/ARTURO (VIA)                                                 ",,"16/08/2018",
+"Convivenza Civile","Disturbi Cani",3,"CARAGLIO/(VIA)                                                        ",,"19/08/2018",
+"Convivenza Civile","Disturbi Cani",3,"ISSIGLIO/(VIA)                                                        ",,"19/08/2018",
+"Convivenza Civile","Disturbi Cani",3,"TRAPANI/(CORSO)                                                       ","Area Verde","21/08/2018",
+"Convivenza Civile","Disturbi Cani",9,"GENOVA/(VIA)                                                          ",,"24/08/2018",
+"Convivenza Civile","Disturbi Cani",,,"Area Verde","06/09/2018",
+"Convivenza Civile","Disturbi Cani",6,"SCARAFIOTTI/(STRADA)                                                  ",,"07/09/2018","14.14"
+"Convivenza Civile","Disturbi Cani",2,"BUENOS AIRES/(VIA)                                                    ","Area Verde","10/09/2018",
+"Convivenza Civile","Disturbi Cani",5,"LEMIE/(VIA)                                                           ",,"10/09/2018","10.40"
+"Convivenza Civile","Disturbi Cani",4,"SALBERTRAND/(VIA)                                                     ",,"13/09/2018",
+"Convivenza Civile","Disturbi Cani",7,"DAMIANO/LUIGI (VIA)                                                   ",,"14/09/2018",
+"Convivenza Civile","Disturbi Cani",7,"AGUDIO/TOMMASO (VIA)                                                  ","Area Verde","17/09/2018",
+"Convivenza Civile","Disturbi Cani",2,"PINCHIA/CARLO (VIA)                                                   ","Area Verde","17/09/2018","13.40"
+"Convivenza Civile","Disturbi Cani",9,"CANELLI/(VIA)                                                         ",,"18/09/2018",
+"Convivenza Civile","Disturbi Cani",8,"MONCALIERI/(CORSO)                                                    ",,"19/09/2018",
+"Convivenza Civile","Disturbi Cani",8,"BOIARDO/MATTEO MARIA (VIALE)                                          ","Area Verde","20/09/2018",
+"Convivenza Civile","Disturbi Cani",2,"TINTORETTO/(VIA)                                                      ",,"27/09/2018",
+"Convivenza Civile","Disturbi Cani",7,"ANTONELLI/ALESSANDRO (LUNGO PO)                                       ",,"27/09/2018","13.45"
+"Convivenza Civile","Disturbi Cani",7,"BRA/(VIA)                                                             ",,"02/10/2018",
+"Convivenza Civile","Disturbi Cani",7,"BOCCACCIO/GIOVANNI (VIA)                                              ",,"16/10/2018",
+"Convivenza Civile","Disturbi Cani",5,"COPPINO/MICHELE (VIA)                                                 ",,"19/10/2018",
+"Convivenza Civile","Disturbi Cani",3,"SESTRIERE/(VIA)                                                       ",,"21/10/2018",
+"Convivenza Civile","Disturbi Cani",4,"FRANCIA/(CORSO)                                                       ","Area Verde","21/10/2018",
+"Convivenza Civile","Disturbi Cani",8,"SELLA/QUINTINO (CORSO)                                                ",,"25/10/2018","12.35"
+"Convivenza Civile","Disturbi Cani",7,"BOCCACCIO/GIOVANNI (VIA)                                              ",,"26/10/2018","11.01"
+"Convivenza Civile","Disturbi Cani",4,"ROSTA/(VIA)                                                           ",,"30/10/2018",
+"Convivenza Civile","Disturbi Cani",1,"BOGINO/CONTE GIAMBATTISTA (VIA)                                       ",,"05/11/2018",
+"Convivenza Civile","Disturbi Cani",4,"DOMODOSSOLA/(VIA)                                                     ",,"08/11/2018",
+"Convivenza Civile","Disturbi Cani",6,"TANARO/(VIA)                                                          ",,"09/11/2018",
+"Convivenza Civile","Disturbi Cani",6,"SOANA/(VIA)                                                           ",,"12/11/2018",
+"Convivenza Civile","Disturbi Cani",2,"GAIDANO/PAOLO (VIA)                                                   ",,"13/11/2018",
+"Convivenza Civile","Disturbi Cani",9,"GIORDANO/BRUNO (VIA)                                                  ",,"26/11/2018","13.54"
+"Convivenza Civile","Disturbi Cani",5,"COSSA/PIETRO (VIA)                                                    ",,"14/12/2018","13.01"
+"Convivenza Civile","Disturbi Cani",6,"TANARO/(VIA)                                                          ",,"26/12/2018",
+"Convivenza Civile","Disturbi da locali",5,"VEROLENGO/(VIA)                                                       ",,"01/07/2018",
+"Convivenza Civile","Disturbi da locali",8,"MUZIO SCEVOLA/(PIAZZA)                                                ",,"03/07/2018",
+"Convivenza Civile","Disturbi da locali",7,"ARTISTI/(VIA)                                                         ",,"03/07/2018","12.24"
+"Convivenza Civile","Disturbi da locali",3,"GERMANASCA/(VIA)                                                      ",,"04/07/2018",
+"Convivenza Civile","Disturbi da locali",5,"AEROPORTO/(STRADA DELL')                                              ",,"04/07/2018",
+"Convivenza Civile","Disturbi da locali",1,"BONELLI/FRANCO (VIA)                                                  ",,"05/07/2018",
+"Convivenza Civile","Disturbi da locali",8,"VALPERGA/CALUSO (VIA)                                                 ",,"05/07/2018",
+"Convivenza Civile","Disturbi da locali",4,"SVIZZERA/(CORSO)                                                      ",,"06/07/2018",
+"Convivenza Civile","Disturbi da locali",8,"SICILIA/(CORSO)                                                       ",,"08/07/2018",
+"Convivenza Civile","Disturbi da locali",1,"MARIA VITTORIA/(VIA)                                                  ",,"09/07/2018",
+"Convivenza Civile","Disturbi da locali",5,"TRINCEE/(VIA DELLE)                                                   ",,"09/07/2018",
+"Convivenza Civile","Disturbi da locali",5,"BORSI/GIOSUE' (VIA)                                                   ",,"11/07/2018",
+"Convivenza Civile","Disturbi da locali",7,"REGIO PARCO/(CORSO)                                                   ",,"11/07/2018",
+"Convivenza Civile","Disturbi da locali",1,"S. OTTAVIO/(VIA)                                                      ",,"12/07/2018","10.56"
+"Convivenza Civile","Disturbi da locali",10,"NEGARVILLE/CELESTE (VIA)                                              ",,"13/07/2018","12.28"
+"Convivenza Civile","Disturbi da locali",1,"GIOVANNI DA VERAZZANO/(VIA)                                           ",,"17/07/2018",
+"Convivenza Civile","Disturbi da locali",8,"PELLICO/SILVIO (VIA)                                                  ",,"17/07/2018","10.44"
+"Convivenza Civile","Disturbi da locali",4,"COSSA/PIETRO (VIA)                                                    ",,"22/07/2018",
+"Convivenza Civile","Disturbi da locali",8,"LANZA/GIOVANNI (CORSO)                                                ",,"22/07/2018",
+"Convivenza Civile","Disturbi da locali",1,"CARLO ALBERTO/(VIA)                                                   ",,"23/07/2018",
+"Convivenza Civile","Disturbi da locali",1,"CALANDRA FRATELLI/(VIA)                                               ",,"23/07/2018","10.05"
+"Convivenza Civile","Disturbi da locali",7,"S. MAURIZIO/(CORSO)                                                   ",,"24/07/2018",
+"Convivenza Civile","Disturbi da locali",7,"MEISINO/(STRADA DEL)                                                  ",,"25/07/2018",
+"Convivenza Civile","Disturbi da locali",1,"MONTECUCCOLI/RAIMONDO (VIA)                                           ",,"27/07/2018",
+"Convivenza Civile","Disturbi da locali",1,"SANTAROSA/PIETRO (VIA)                                                ",,"08/08/2018",
+"Convivenza Civile","Disturbi da locali",8,"PRINCIPE TOMMASO/(VIA)                                                ",,"09/08/2018","11.44"
+"Convivenza Civile","Disturbi da locali",3,"MONGINEVRO/(VIA)                                                      ",,"10/08/2018","10.20"
+"Convivenza Civile","Disturbi da locali",5,"FOLIGNO/(VIA)                                                         ",,"10/08/2018","10.56"
+"Convivenza Civile","Disturbi da locali",2,"SEBASTOPOLI/(CORSO)                                                   ",,"16/08/2018",
+"Convivenza Civile","Disturbi da locali",2,"MONTE LUNGO/(CORSO)                                                   ",,"17/08/2018",
+"Convivenza Civile","Disturbi da locali",9,"FLECCHIA/GIOVANNI (VIA)                                               ",,"27/08/2018",
+"Convivenza Civile","Disturbi da locali",1,"S. QUINTINO/(VIA)                                                     ",,"28/08/2018",
+"Convivenza Civile","Disturbi da locali",2,"S. RITA DA CASCIA/(PIAZZA)                                            ",,"28/08/2018",
+"Convivenza Civile","Disturbi da locali",1,"S. MARTINO/(CORSO)                                                    ",,"05/09/2018","14.53"
+"Convivenza Civile","Disturbi da locali",8,"BERTHOLLET/CLAUDIO LUIGI (VIA)                                        ",,"06/09/2018","09.00"
+"Convivenza Civile","Disturbi da locali",1,"MARIA VITTORIA/(VIA)                                                  ",,"10/09/2018","12.46"
+"Convivenza Civile","Disturbi da locali",,,,"10/09/2018","10.49"
+"Convivenza Civile","Disturbi da locali",7,"MONTEMAGNO/(VIA)                                                      ",,"14/09/2018",
+"Convivenza Civile","Disturbi da locali",7,"VIGEVANO/(CORSO)                                                      ",,"14/09/2018",
+"Convivenza Civile","Disturbi da locali",7,"VIGEVANO/(CORSO)                                                      ",,"14/09/2018",
+"Convivenza Civile","Disturbi da locali",1,"DORIA/ANDREA (VIA)                                                    ",,"17/09/2018",
+"Convivenza Civile","Disturbi da locali",1,"S. MASSIMO/(VIA)                                                      ",,"19/09/2018",
+"Convivenza Civile","Disturbi da locali",7,"TORTONA/(CORSO)                                                       ",,"20/09/2018","11.03"
+"Convivenza Civile","Disturbi da locali",3,"VIRLE/(VIA)                                                           ",,"21/09/2018",
+"Convivenza Civile","Disturbi da locali",8,"NIZZA/(VIA)                                                           ",,"21/09/2018",
+"Convivenza Civile","Disturbi da locali",1,"PIGAFETTA/ANTONIO (VIA)                                               ",,"24/09/2018",
+"Convivenza Civile","Disturbi da locali",2,"BASILICATA/(PIAZZA)                                                   ",,"24/09/2018",
+"Convivenza Civile","Disturbi da locali",7,"BUNIVA/MICHELE (VIA)                                                  ",,"24/09/2018",
+"Convivenza Civile","Disturbi da locali",2,"CIMABUE/(VIA)                                                         ",,"25/09/2018","11.03"
+"Convivenza Civile","Disturbi da locali",6,"QUITTENGO/(VIA)                                                       ",,"29/09/2018",
+"Convivenza Civile","Disturbi da locali",5,"MADONNA DI CAMPAGNA/(VIALE)                                           ",,"29/09/2018","09.20"
+"Convivenza Civile","Disturbi da locali",7,"BOCCACCIO/GIOVANNI (VIA)                                              ",,"29/09/2018","10.25"
+"Convivenza Civile","Disturbi da locali",6,"BRANDIZZO/(VIA)                                                       ",,"01/10/2018",
+"Convivenza Civile","Disturbi da locali",3,"BRUNELLESCHI/FILIPPO (CORSO)                                          ",,"02/10/2018",
+"Convivenza Civile","Disturbi da locali",7,"BRESCIA/(CORSO)                                                       ",,"05/10/2018","08.43"
+"Convivenza Civile","Disturbi da locali",1,"ORFANE/(VIA DELLE)                                                    ",,"11/10/2018","11.56"
+"Convivenza Civile","Disturbi da locali",7,"REGGIO/(VIA)                                                          ",,"18/10/2018","10.44"
+"Convivenza Civile","Disturbi da locali",8,"BERTHOLLET/CLAUDIO LUIGI (VIA)                                        ",,"19/10/2018",
+"Convivenza Civile","Disturbi da locali",3,"VIRLE/(VIA)                                                           ",,"21/10/2018","13.34"
+"Convivenza Civile","Disturbi da locali",6,"PALERMO/(CORSO)                                                       ",,"23/10/2018",
+"Convivenza Civile","Disturbi da locali",8,"VITTORIO EMANUELE II/(CORSO)                                          ",,"23/10/2018","12.03"
+"Convivenza Civile","Disturbi da locali",8,"BERTHOLLET/CLAUDIO LUIGI (VIA)                                        ",,"23/10/2018","12.27"
+"Convivenza Civile","Disturbi da locali",1,"PO/(VIA)                                                              ",,"29/10/2018",
+"Convivenza Civile","Disturbi da locali",6,"AOSTA/(VIA)                                                           ",,"06/11/2018",
+"Convivenza Civile","Disturbi da locali",1,"S. TERESA/(VIA)                                                       ",,"07/11/2018",
+"Convivenza Civile","Disturbi da locali",1,"GIOLITTI/GIOVANNI (VIA)                                               ",,"09/11/2018","11.34"
+"Convivenza Civile","Disturbi da locali",1,"DES AMBROIS/LUIGI (VIA)                                               ",,"14/11/2018",
+"Convivenza Civile","Disturbi da locali",1,"DES AMBROIS/LUIGI (VIA)                                               ",,"14/11/2018",
+"Convivenza Civile","Disturbi da locali",1,"MARCO POLO/(VIA)                                                      ",,"14/11/2018",
+"Convivenza Civile","Disturbi da locali",6,"QUITTENGO/(VIA)                                                       ",,"14/11/2018",
+"Convivenza Civile","Disturbi da locali",7,"ANDREIS/VITTORIO (VIA)                                                ",,"14/11/2018",
+"Convivenza Civile","Disturbi da locali",6,"BOLOGNA/(VIA)                                                         ",,"14/11/2018","13.21"
+"Convivenza Civile","Disturbi da locali",6,"VERCELLI/(CORSO)                                                      ",,"22/11/2018",
+"Convivenza Civile","Disturbi da locali",3,"ERITREA/(VIA)                                                         ",,"22/11/2018","10.03"
+"Convivenza Civile","Disturbi da locali",6,"PALERMO/(CORSO)                                                       ",,"24/11/2018",
+"Convivenza Civile","Disturbi da locali",3,"STELVIO/(VIA)                                                         ",,"29/11/2018",
+"Convivenza Civile","Disturbi da locali",1,"VITTORIO EMANUELE II/(CORSO)                                          ",,"29/11/2018","11.00"
+"Convivenza Civile","Disturbi da locali",10,"GARRONE FRATELLI (VIA)                                                ",,"30/11/2018",
+"Convivenza Civile","Disturbi da locali",7,"MONTEBELLO/(LARGO)                                                    ",,"01/12/2018",
+"Convivenza Civile","Disturbi da locali",8,"BELFIORE/(VIA)                                                        ",,"01/12/2018",
+"Convivenza Civile","Disturbi da locali",1,"MARIA VITTORIA/(VIA)                                                  ",,"03/12/2018",
+"Convivenza Civile","Disturbi da locali",7,"GUASTALLA/(VIA)                                                       ",,"04/12/2018",
+"Convivenza Civile","Disturbi da locali",9,"UNIONE SOVIETICA/(CORSO)                                              ",,"04/12/2018","11.09"
+"Convivenza Civile","Disturbi da locali",4,"COLLEGNO/(STRADA ANTICA DI)                                           ",,"07/12/2018","10.37"
+"Convivenza Civile","Disturbi da locali",10,"TRAIANO/(CORSO)                                                       ",,"11/12/2018","10.22"
+"Convivenza Civile","Disturbi da locali",6,"PALERMO/(CORSO)                                                       ",,"14/12/2018","11.38"
+"Convivenza Civile","Disturbi da locali",4,"CAPELLINA/DOMENICO (VIA)                                              ",,"28/12/2018",
+"Convivenza Civile","Disturbi da locali",3,"SPALATO/(VIA)                                                         ",,"30/12/2018",
+"Convivenza Civile","Disturbi da locali",6,"BOLOGNA/(VIA)                                                         ",,"30/12/2018",
+"Convivenza Civile","Rumori molesti",3,"BERNINI/LORENZO (PIAZZA)                                              ",,"02/07/2018",
+"Convivenza Civile","Rumori molesti",4,"S. DONATO/(VIA)                                                       ",,"03/07/2018",
+"Convivenza Civile","Rumori molesti",7,"COMO/(VIA)                                                            ","Area Verde","03/07/2018",
+"Convivenza Civile","Rumori molesti",1,"VALDOCCO/(CORSO)                                                      ",,"04/07/2018",
+"Convivenza Civile","Rumori molesti",3,"CAVALLERMAGGIORE/(VIA)                                                ",,"04/07/2018",
+"Convivenza Civile","Rumori molesti",7,"ROSSINI/GIOACHINO (VIA)                                               ",,"05/07/2018",
+"Convivenza Civile","Rumori molesti",2,"BARLETTA/(VIA)                                                        ",,"07/07/2018",
+"Convivenza Civile","Rumori molesti",1,"S. MASSIMO/(VIA)                                                      ",,"09/07/2018",
+"Convivenza Civile","Rumori molesti",2,"SEBASTOPOLI/(CORSO)                                                   ",,"09/07/2018",
+"Convivenza Civile","Rumori molesti",6,"VALPRATO/(VIA)                                                        ",,"11/07/2018",
+"Convivenza Civile","Rumori molesti",8,"PRINCIPE TOMMASO/(VIA)                                                ",,"11/07/2018",
+"Convivenza Civile","Rumori molesti",1,"ASSAROTTI/OTTAVIO (VIA)                                               ",,"12/07/2018",
+"Convivenza Civile","Rumori molesti",7,"VERCELLI/(CORSO)                                                      ",,"13/07/2018",
+"Convivenza Civile","Rumori molesti",6,"MONTANARO/(VIA)                                                       ",,"14/07/2018",
+"Convivenza Civile","Rumori molesti",3,"MONGINEVRO/(VIA)                                                      ",,"18/07/2018",
+"Convivenza Civile","Rumori molesti",1,"MONTEVECCHIO/RODOLFO (VIA)                                            ",,"19/07/2018",
+"Convivenza Civile","Rumori molesti",7,"S. GIULIA/(PIAZZA)                                                    ",,"20/07/2018",
+"Convivenza Civile","Rumori molesti",8,"ORISTANO/(VIA)                                                        ",,"24/07/2018",
+"Convivenza Civile","Rumori molesti",3,"DUCHESSA JOLANDA/(VIA)                                                ",,"25/07/2018",
+"Convivenza Civile","Rumori molesti",3,"MONGINEVRO/(VIA)                                                      ",,"25/07/2018",
+"Convivenza Civile","Rumori molesti",4,"ASINARI DI BERNEZZO/VITTORIO (VIA)                                    ",,"25/07/2018",
+"Convivenza Civile","Rumori molesti",8,"GIURIA/PIETRO (VIA)                                                   ",,"25/07/2018",
+"Convivenza Civile","Rumori molesti",7,"VAL S. MARTINO SUPERIORE/(STRADA)                                     ",,"26/07/2018",
+"Convivenza Civile","Rumori molesti",1,"GARIBALDI/GIUSEPPE (VIA)                                              ",,"01/08/2018",
+"Convivenza Civile","Rumori molesti",1,"S. SECONDO/(PIAZZA)                                                   ",,"03/08/2018",
+"Convivenza Civile","Rumori molesti",7,"COMO/(VIA)                                                            ",,"08/08/2018","11.17"
+"Convivenza Civile","Rumori molesti",5,"VITTORIA/(PIAZZA DELLA)                                               ",,"09/08/2018",
+"Convivenza Civile","Rumori molesti",1,"RE UMBERTO/(CORSO)                                                    ",,"09/08/2018","11.37"
+"Convivenza Civile","Rumori molesti",7,"CASALE/(CORSO)                                                        ",,"10/08/2018",
+"Convivenza Civile","Rumori molesti",8,"S. ANSELMO/(VIA)                                                      ",,"10/08/2018","13.54"
+"Convivenza Civile","Rumori molesti",5,"GROSSETO/(CORSO)                                                      ",,"13/08/2018",
+"Convivenza Civile","Rumori molesti",1,"PASTRENGO/(VIA)                                                       ",,"13/08/2018","08.40"
+"Convivenza Civile","Rumori molesti",9,"GIORDANO/BRUNO (VIA)                                                  ",,"17/08/2018",
+"Convivenza Civile","Rumori molesti",5,"BORGARO/(VIA)                                                         ",,"20/08/2018",
+"Convivenza Civile","Rumori molesti",2,"BUENOS AIRES/(VIA)                                                    ",,"23/08/2018",
+"Convivenza Civile","Rumori molesti",5,"CHIESA DELLA SALUTE/(VIA)                                             ",,"24/08/2018",
+"Convivenza Civile","Rumori molesti",1,"TURATI/FILIPPO (CORSO)                                                ",,"27/08/2018",
+"Convivenza Civile","Rumori molesti",1,"VITTORIO VENETO/(PIAZZA)                                              ",,"28/08/2018",
+"Convivenza Civile","Rumori molesti",3,"BARGE/(VIA)                                                           ",,"29/08/2018",
+"Convivenza Civile","Rumori molesti",1,"QUATTRO MARZO/(LARGO)                                                 ",,"31/08/2018",
+"Convivenza Civile","Rumori molesti",2,"S. RITA DA CASCIA/(PIAZZA)                                            ",,"31/08/2018",
+"Convivenza Civile","Rumori molesti",1,"CAVOUR (VIA)                                                          ",,"04/09/2018",
+"Convivenza Civile","Rumori molesti",1,"ARQUATA/(VIA)                                                         ",,"05/09/2018",
+"Convivenza Civile","Rumori molesti",2,"DINA/GIACOMO (VIA)                                                    ",,"06/09/2018",
+"Convivenza Civile","Rumori molesti",2,"RUBINO/EDOARDO (VIA)                                                  ",,"11/09/2018",
+"Convivenza Civile","Rumori molesti",3,"ADAMELLO/(VIA)                                                        ",,"14/09/2018",
+"Convivenza Civile","Rumori molesti",9,"BIZZOZERO/GIULIO (VIA)                                                ",,"20/09/2018","10.08"
+"Convivenza Civile","Rumori molesti",3,"CHANOUX/PIETRO ABATE (VIA)                                            ",,"21/09/2018",
+"Convivenza Civile","Rumori molesti",4,"REGINA MARGHERITA/(CORSO)                                             ",,"21/09/2018",
+"Convivenza Civile","Rumori molesti",3,"MONTE ALBERGIAN/(VIA)                                                 ",,"21/09/2018","11.41"
+"Convivenza Civile","Rumori molesti",8,"GALLIARI/BERNARDINO (VIA)                                             ",,"23/09/2018",
+"Convivenza Civile","Rumori molesti",3,"CESANA/(VIA)                                                          ",,"04/10/2018",
+"Convivenza Civile","Rumori molesti",1,"GIOVANNI DA VERAZZANO/(VIA)                                           ",,"15/10/2018",
+"Convivenza Civile","Rumori molesti",5,"GANDINO/GIOVANNI BATTISTA (VIA)                                       ",,"17/10/2018",
+"Convivenza Civile","Rumori molesti",9,"FINALMARINA/(VIA)                                                     ",,"23/10/2018",
+"Convivenza Civile","Rumori molesti",1,"S. CHIARA/(VIA)                                                       ",,"29/10/2018",
+"Convivenza Civile","Rumori molesti",7,"VERONA/(CORSO)                                                        ",,"29/10/2018",
+"Convivenza Civile","Rumori molesti",5,"LUINI/BERNARDINO (VIA)                                                ",,"05/11/2018",
+"Convivenza Civile","Rumori molesti",4,"REGINA MARGHERITA/(CORSO)                                             ",,"05/11/2018","15.07"
+"Convivenza Civile","Rumori molesti",1,"VIRGINIO/GIOVANNI (VIA)                                               ",,"09/11/2018",
+"Convivenza Civile","Rumori molesti",1,"CASTELLO/(PIAZZA)                                                     ",,"12/11/2018",
+"Convivenza Civile","Rumori molesti",1,"CASTELLO/(PIAZZA)                                                     ",,"12/11/2018",
+"Convivenza Civile","Rumori molesti",3,"S. PAOLO/(VIA)                                                        ",,"12/11/2018",
+"Convivenza Civile","Rumori molesti",8,"BERTHOLLET/CLAUDIO LUIGI (VIA)                                        ",,"12/11/2018",
+"Convivenza Civile","Rumori molesti",1,"LAGRANGE/GIUSEPPE LUIGI (VIA)                                         ",,"14/11/2018","12.36"
+"Convivenza Civile","Rumori molesti",1,"BERTOLA/ANTONIO GIUSEPPE (VIA)                                        ",,"22/11/2018",
+"Convivenza Civile","Rumori molesti",2,"GAIDANO/PAOLO (VIA)                                                   ",,"23/11/2018",
+"Convivenza Civile","Rumori molesti",7,"CADORE/(CORSO)                                                        ",,"04/12/2018",
+"Convivenza Civile","Rumori molesti",5,"ALTESSANO/(STRADA DI)                                                 ",,"06/12/2018",
+"Convivenza Civile","Rumori molesti",4,"LIVORNO/(VIA)                                                         ","Area Verde","11/12/2018",
+"Convivenza Civile","Rumori molesti",7,"GIULIO CESARE/(CORSO)                                                 ",,"11/12/2018",
+"Convivenza Civile","Rumori molesti",7,"BRIANZA/(CORSO)                                                       ",,"13/12/2018",
+"Convivenza Civile","Rumori molesti",1,"MERCANTI/(VIA)                                                        ",,"18/12/2018",
+"Convivenza Civile","Rumori molesti",1,"PIAVE/(VIA)                                                           ",,"21/12/2018",
+"Convivenza Civile","Rumori molesti",2,"TINTORETTO/(VIA)                                                      ",,"24/12/2018",
+"Convivenza Civile","Uso improprio parti comuni",3,"ISSIGLIO/(VIA)                                                        ",,"26/07/2018",
+"Convivenza Civile","Uso improprio parti comuni",4,"AQUILA/(VIA)                                                          ",,"08/08/2018",
+"Convivenza Civile","Uso improprio parti comuni",1,"S. FRANCESCO DA PAOLA/(VIA)                                           ",,"10/10/2018",
+"Convivenza Civile","Uso improprio parti comuni",2,"GRAZIOLI/DON BARTOLOMEO (VIA)                                         ",,"30/10/2018",
+"Qualità Urbana","Altro",10,"CANDIOLO/(VIA)                                                        ",,"02/07/2018","10.52"
+"Qualità Urbana","Altro",5,"CHIESA DELLA SALUTE/(VIA)                                             ",,"03/07/2018",
+"Qualità Urbana","Altro",6,"CHERUBINI/LUIGI SALVATORE (VIA)                                       ",,"03/07/2018",
+"Qualità Urbana","Altro",4,"PIFFETTI/PIETRO (VIA)                                                 ",,"03/07/2018","14.31"
+"Qualità Urbana","Altro",7,"BRA/(VIA)                                                             ",,"04/07/2018",
+"Qualità Urbana","Altro",8,"D'AZEGLIO/MASSIMO (CORSO)                                             ",,"04/07/2018","09.23"
+"Qualità Urbana","Altro",4,"REGINA MARGHERITA/(CORSO)                                             ",,"05/07/2018",
+"Qualità Urbana","Altro",4,"COSSA/PIETRO (VIA)                                                    ",,"06/07/2018","09.29"
+"Qualità Urbana","Altro",8,"GIOTTO/(VIA)                                                          ",,"06/07/2018","11.13"
+"Qualità Urbana","Altro",6,"VIRIGLIO/ALBERTO (VIA)                                                ",,"06/07/2018","11.39"
+"Qualità Urbana","Altro",6,"DONATORE DI SANGUE/(PIAZZA DEL)                                       ",,"06/07/2018","12.15"
+"Qualità Urbana","Altro",4,"FRANCIA/(CORSO)                                                       ",,"08/07/2018",
+"Qualità Urbana","Altro",4,"MURRONI/(STRADA)                                                      ",,"09/07/2018",
+"Qualità Urbana","Altro",7,"BRESCIA/(CORSO)                                                       ",,"09/07/2018",
+"Qualità Urbana","Altro",1,"BOGINO/CONTE GIAMBATTISTA (VIA)                                       ",,"10/07/2018","08.03"
+"Qualità Urbana","Altro",4,"ROSTA/(VIA)                                                           ",,"11/07/2018","09.43"
+"Qualità Urbana","Altro",3,"RACCONIGI/(CORSO)                                                     ",,"11/07/2018","13.25"
+"Qualità Urbana","Altro",5,"SOSPELLO/(VIA)                                                        ","Area Verde","12/07/2018",
+"Qualità Urbana","Altro",1,"CONTE VERDE/(VIA)                                                     ",,"12/07/2018","09.01"
+"Qualità Urbana","Altro",6,"MARTINA/GIOVANNI (VIA)                                                ",,"17/07/2018",
+"Qualità Urbana","Altro",1,"PESCATORE/MATTEO (VIA)                                                ",,"17/07/2018","09.45"
+"Qualità Urbana","Altro",3,"RACCONIGI/(CORSO)                                                     ",,"17/07/2018","13.37"
+"Qualità Urbana","Altro",7,"BELGIO/(CORSO)                                                        ",,"18/07/2018",
+"Qualità Urbana","Altro",4,"CLEMENTE/STEFANO (VIA)                                                ",,"18/07/2018","08.07"
+"Qualità Urbana","Altro",8,"PETRARCA/FRANCESCO (VIA)                                              ",,"19/07/2018","13.20"
+"Qualità Urbana","Altro",8,"FOSCOLO/UGO (VIA)                                                     ",,"20/07/2018",
+"Qualità Urbana","Altro",1,"ROMA/(VIA)                                                            ",,"23/07/2018",
+"Qualità Urbana","Altro",5,"RANDACCIO/GIOVANNI (VIA)                                              ",,"23/07/2018",
+"Qualità Urbana","Altro",4,"SVIZZERA/(CORSO)                                                      ",,"23/07/2018","12.44"
+"Qualità Urbana","Altro",4,"TELESIO/BERNARDINO (CORSO)                                            ",,"24/07/2018","12.08"
+"Qualità Urbana","Altro",,,"Area Verde","25/07/2018",
+"Qualità Urbana","Altro",1,"GARIBALDI/GIUSEPPE (VIA)                                              ",,"25/07/2018",
+"Qualità Urbana","Altro",1,"GARIBALDI/GIUSEPPE (VIA)                                              ",,"25/07/2018",
+"Qualità Urbana","Altro",7,"CASALE/(CORSO)                                                        ",,"25/07/2018",
+"Qualità Urbana","Altro",7,"MICHELOTTI/SUOR GIOVANNA FRANCESCA (VIALE)                            ",,"25/07/2018",
+"Qualità Urbana","Altro",1,"MERCANTI/(VIA)                                                        ",,"27/07/2018","12.56"
+"Qualità Urbana","Altro",9,"VIGLIANI/ONORATO (VIA)                                                ",,"27/07/2018","13.55"
+"Qualità Urbana","Altro",2,"BARLETTA/(VIA)                                                        ",,"31/07/2018","14.35"
+"Qualità Urbana","Altro",6,"SETTIMO/(STRADA DI)                                                   ",,"01/08/2018",
+"Qualità Urbana","Altro",1,"S. OTTAVIO/(VIA)                                                      ",,"01/08/2018","11.10"
+"Qualità Urbana","Altro",8,"SOMMACAMPAGNA/(VIA)                                                   ",,"02/08/2018","10.38"
+"Qualità Urbana","Altro",3,"CESANA/(VIA)                                                          ",,"02/08/2018","14.17"
+"Qualità Urbana","Altro",1,"SOMMEILLER/GERMANO (CORSO)                                            ",,"02/08/2018","14.45"
+"Qualità Urbana","Altro",6,"SETTIMO/(STRADA DI)                                                   ",,"03/08/2018",
+"Qualità Urbana","Altro",6,"CASCINOTTO/(STRADA DEL)                                               ",,"03/08/2018","12.30"
+"Qualità Urbana","Altro",8,"ORMEA/(VIA)                                                           ",,"06/08/2018","10.32"
+"Qualità Urbana","Altro",7,"FONTANESI/ANTONIO (VIA)                                               ",,"06/08/2018","10.49"
+"Qualità Urbana","Altro",4,"PRINCIPI D'ACAJA/(VIA)                                                ",,"07/08/2018","08.51"
+"Qualità Urbana","Altro",3,"SERAO/MATILDE (VIA)                                                   ",,"07/08/2018","09.44"
+"Qualità Urbana","Altro",1,"DICIOTTO DICEMBRE/(PIAZZA)                                            ",,"07/08/2018","11.04"
+"Qualità Urbana","Altro",2,"TRIPOLI/(VIA)                                                         ",,"08/08/2018","09.56"
+"Qualità Urbana","Altro",3,"PRINCIPI D'ACAJA/(VIA)                                                ",,"10/08/2018","09.57"
+"Qualità Urbana","Altro",7,"CASALE/(CORSO)                                                        ",,"10/08/2018","10.41"
+"Qualità Urbana","Altro",2,"BARLETTA/(VIA)                                                        ",,"14/08/2018","09.42"
+"Qualità Urbana","Altro",7,"NAPIONE/GIOVANNI FRANCESCO (VIA)                                      ",,"14/08/2018","10.30"
+"Qualità Urbana","Altro",5,"BORGARO/(VIA)                                                         ",,"16/08/2018","09.38"
+"Qualità Urbana","Altro",2,"DINA/GIACOMO (VIA)                                                    ",,"16/08/2018","10.30"
+"Qualità Urbana","Altro",6,"SEMPIONE/(LARGO)                                                      ",,"16/08/2018","12.29"
+"Qualità Urbana","Altro",9,"SPEZIA/(CORSO)                                                        ",,"17/08/2018","09.53"
+"Qualità Urbana","Altro",7,"S. ANNA/(STRADA)                                                      ",,"20/08/2018",
+"Qualità Urbana","Altro",9,"GENOVA/(VIA)                                                          ",,"20/08/2018","13.11"
+"Qualità Urbana","Altro",1,"DE GASPERI/ALCIDE (CORSO)                                             ",,"26/08/2018",
+"Qualità Urbana","Altro",1,"BERTOLA/ANTONIO GIUSEPPE (VIA)                                        ",,"29/08/2018",
+"Qualità Urbana","Altro",4,"SCHINA/MICHELE (VIA)                                                  ",,"29/08/2018",
+"Qualità Urbana","Altro",6,"TOCE/(VIA)                                                            ",,"01/09/2018",
+"Qualità Urbana","Altro",10,"PISACANE/CARLO (VIA)                                                  ",,"01/09/2018","09.37"
+"Qualità Urbana","Altro",9,"NICHELINO/(VIA)                                                       ",,"04/09/2018","10.31"
+"Qualità Urbana","Altro",1,"TIRRENO/(VIA)                                                         ",,"06/09/2018",
+"Qualità Urbana","Altro",7,"DELEDDA/GRAZIA (VIA)                                                  ",,"06/09/2018",
+"Qualità Urbana","Altro",4,"CARENA/GIACINTO (VIA)                                                 ",,"06/09/2018","10.55"
+"Qualità Urbana","Altro",3,"BRISSOGNE/(VIA)                                                       ",,"10/09/2018",
+"Qualità Urbana","Altro",7,"REGGIO/(VIA)                                                          ",,"11/09/2018",
+"Qualità Urbana","Altro",7,"ANCONA/(VIA)                                                          ",,"12/09/2018",
+"Qualità Urbana","Altro",8,"SOMMEILLER/GERMANO (CORSO)                                            ",,"12/09/2018",
+"Qualità Urbana","Altro",1,"AMENDOLA/GIOVANNI (VIA)                                               ",,"17/09/2018","10.39"
+"Qualità Urbana","Altro",5,"GROSSO/GIACOMO (VIA)                                                  ",,"17/09/2018","11.01"
+"Qualità Urbana","Altro",4,"CAMPANELLA/TOMMASO (PIAZZA)                                           ",,"17/09/2018","11.27"
+"Qualità Urbana","Altro",6,"SOFIA/(PIAZZA)                                                        ",,"18/09/2018",
+"Qualità Urbana","Altro",1,"MARIA VITTORIA/(VIA)                                                  ",,"18/09/2018","10.55"
+"Qualità Urbana","Altro",7,"TONELLO/MICHELANGELO (VIA)                                            ",,"19/09/2018",
+"Qualità Urbana","Altro",5,"POTENZA/(CORSO)                                                       ",,"20/09/2018","12.31"
+"Qualità Urbana","Altro",3,"TRAPANI/(CORSO)                                                       ",,"21/09/2018",
+"Qualità Urbana","Altro",5,"LULLI/G. BATTISTA (VIA)                                               ",,"21/09/2018","13.22"
+"Qualità Urbana","Altro",5,"CHIESA DELLA SALUTE/(VIA)                                             ",,"22/09/2018",
+"Qualità Urbana","Altro",6,"SETTIMO/(STRADA DI)                                                   ",,"22/09/2018",
+"Qualità Urbana","Altro",1,"GRAMSCI/ANTONIO (VIA)                                                 ",,"24/09/2018",
+"Qualità Urbana","Altro",3,"MONGINEVRO/(VIA)                                                      ",,"24/09/2018","14.52"
+"Qualità Urbana","Altro",3,"GERMANASCA/(VIA)                                                      ",,"25/09/2018","10.14"
+"Qualità Urbana","Altro",4,"COSTAGUTA/ANDREA (VIA)                                                ",,"26/09/2018","10.35"
+"Qualità Urbana","Altro",8,"VAL SALICE/(STRADA)                                                   ",,"26/09/2018","11.34"
+"Qualità Urbana","Altro",6,"VERONESE/PAOLO (VIA)                                                  ",,"27/09/2018",
+"Qualità Urbana","Altro",1,"CALANDRA FRATELLI/(VIA)                                               ",,"28/09/2018","11.03"
+"Qualità Urbana","Altro",1,"CALANDRA FRATELLI/(VIA)                                               ",,"28/09/2018","13.02"
+"Qualità Urbana","Altro",1,"SPALLANZANI/LAZZARO (VIA)                                             ",,"29/09/2018",
+"Qualità Urbana","Altro",7,"VERONA/(CORSO)                                                        ",,"29/09/2018","09.37"
+"Qualità Urbana","Altro",1,"MASSENA/ANDREA (VIA)                                                  ",,"02/10/2018",
+"Qualità Urbana","Altro",5,"BORGARO/(VIA)                                                         ",,"02/10/2018",
+"Qualità Urbana","Altro",8,"GALLIARI/BERNARDINO (VIA)                                             ",,"02/10/2018",
+"Qualità Urbana","Altro",8,"MONCALIERI/(CORSO)                                                    ",,"03/10/2018",
+"Qualità Urbana","Altro",6,"VERCELLI/(CORSO)                                                      ",,"04/10/2018",
+"Qualità Urbana","Altro",7,"ANCONA/(VIA)                                                          ",,"04/10/2018",
+"Qualità Urbana","Altro",1,"S. SECONDO/(VIA)                                                      ",,"05/10/2018",
+"Qualità Urbana","Altro",8,"MONCALIERI/(CORSO)                                                    ",,"05/10/2018",
+"Qualità Urbana","Altro",3,"FIDIA/(VIA)                                                           ",,"06/10/2018",
+"Qualità Urbana","Altro",5,"ALA DI STURA/(VIA)                                                    ",,"06/10/2018",
+"Qualità Urbana","Altro",7,"SINEO/RICCARDO (VIA)                                                  ",,"07/10/2018",
+"Qualità Urbana","Altro",7,"GIAVENO/(VIA)                                                         ",,"08/10/2018",
+"Qualità Urbana","Altro",4,"PACINOTTI/ANTONIO (VIA)                                               ",,"08/10/2018","10.46"
+"Qualità Urbana","Altro",9,"CAIO PLINIO/(CORSO)                                                   ",,"09/10/2018",
+"Qualità Urbana","Altro",5,"MADONNA DI CAMPAGNA/(VIALE)                                           ",,"09/10/2018","09.54"
+"Qualità Urbana","Altro",1,"S. MAURIZIO/(CORSO)                                                   ",,"09/10/2018","10.59"
+"Qualità Urbana","Altro",5,"RIDOTTO/(VIA DEL)                                                     ",,"09/10/2018","11.46"
+"Qualità Urbana","Altro",3,"SERRANO/(VIA)                                                         ",,"10/10/2018",
+"Qualità Urbana","Altro",5,"FOLIGNO/(VIA)                                                         ",,"10/10/2018","13.10"
+"Qualità Urbana","Altro",2,"SALICETO/(VIA)                                                        ",,"11/10/2018",
+"Qualità Urbana","Altro",3,"S. MARIA MAZZARELLO/(VIA)                                             ",,"11/10/2018","11.08"
+"Qualità Urbana","Altro",7,"KOSSUTH/LUIGI (CORSO)                                                 ",,"15/10/2018","10.15"
+"Qualità Urbana","Altro",5,"VERONESE/PAOLO (VIA)                                                  ",,"15/10/2018","11.40"
+"Qualità Urbana","Altro",1,"S. DOMENICO/(VIA)                                                     ",,"17/10/2018",
+"Qualità Urbana","Altro",4,"CAMPANELLA/TOMMASO (PIAZZA)                                           ",,"17/10/2018","11.59"
+"Qualità Urbana","Altro",1,"CARMINE/(VIA DEL)                                                     ",,"18/10/2018",
+"Qualità Urbana","Altro",2,"GRAGLIA/(VIA)                                                         ",,"18/10/2018",
+"Qualità Urbana","Altro",5,"VAL DELLA TORRE/(VIA)                                                 ",,"19/10/2018",
+"Qualità Urbana","Altro",6,"BRANDIZZO/(VIA)                                                       ",,"19/10/2018",
+"Qualità Urbana","Altro",4,"S. DONATO/(VIA)                                                       ",,"19/10/2018","10.09"
+"Qualità Urbana","Altro",7,"MONGRENO/(STRADA)                                                     ",,"19/10/2018","13.51"
+"Qualità Urbana","Altro",8,"SALUZZO/(VIA)                                                         ",,"22/10/2018","08.28"
+"Qualità Urbana","Altro",6,"CAVAGNOLO/(VIA)                                                       ",,"22/10/2018","11.47"
+"Qualità Urbana","Altro",7,"RIVAROLO/(VIA)                                                        ",,"23/10/2018",
+"Qualità Urbana","Altro",8,"MADAMA CRISTINA/(VIA)                                                 ",,"23/10/2018","11.05"
+"Qualità Urbana","Altro",10,"RICCIO/CAMILLO (VIA)                                                  ",,"24/10/2018",
+"Qualità Urbana","Altro",1,"VENTI SETTEMBRE/(VIA)                                                 ",,"25/10/2018","20.23"
+"Qualità Urbana","Altro",5,"VAL DELLA TORRE/(VIA)                                                 ",,"26/10/2018","08.47"
+"Qualità Urbana","Altro",5,"GROSSETO/(CORSO)                                                      ",,"26/10/2018","11.30"
+"Qualità Urbana","Altro",7,"BELGIO/(CORSO)                                                        ",,"29/10/2018","08.26"
+"Qualità Urbana","Altro",4,"DRONERO/(VIA)                                                         ",,"29/10/2018","09.34"
+"Qualità Urbana","Altro",2,"ORBASSANO/(CORSO)                                                     ",,"29/10/2018","09.47"
+"Qualità Urbana","Altro",5,"MORTARA/(CORSO)                                                       ",,"29/10/2018","12.35"
+"Qualità Urbana","Altro",8,"RONCHI/(STRADA DEI)                                                   ",,"29/10/2018","12.53"
+"Qualità Urbana","Altro",1,"MATTEOTTI/GIACOMO (CORSO)                                             ",,"30/10/2018","09.23"
+"Qualità Urbana","Altro",2,"S. RITA DA CASCIA/(PIAZZA)                                            ",,"30/10/2018","10.59"
+"Qualità Urbana","Altro",6,"SCARLATTI/ALESSANDRO (VIA)                                            ",,"31/10/2018","09.14"
+"Qualità Urbana","Altro",1,"S. QUINTINO/(VIA)                                                     ",,"31/10/2018","13.27"
+"Qualità Urbana","Altro",4,"CAPELLI/CARLO (VIA)                                                   ",,"02/11/2018","10.52"
+"Qualità Urbana","Altro",6,"SETTIMO/(STRADA DI)                                                   ",,"02/11/2018","11.31"
+"Qualità Urbana","Altro",6,"BALTEA/(VIA)                                                          ",,"05/11/2018","12.59"
+"Qualità Urbana","Altro",5,"CHIESA DELLA SALUTE/(VIA)                                             ",,"06/11/2018",
+"Qualità Urbana","Altro",5,"STRADELLA/(VIA)                                                       ",,"06/11/2018",
+"Qualità Urbana","Altro",3,"CENISCHIA/(VIA)                                                       ",,"07/11/2018",
+"Qualità Urbana","Altro",3,"BEAULARD/(VIA)                                                        ",,"07/11/2018","13.07"
+"Qualità Urbana","Altro",6,"MONTANARO/(VIA)                                                       ",,"08/11/2018",
+"Qualità Urbana","Altro",10,"SETTEMBRINI/LUIGI (CORSO)                                             ",,"12/11/2018",
+"Qualità Urbana","Altro",7,"ANDREIS/VITTORIO (VIA)                                                ",,"12/11/2018","09.15"
+"Qualità Urbana","Altro",8,"MANCINI/PASQUALE STANISLAO (VIA)                                      ",,"12/11/2018","11.28"
+"Qualità Urbana","Altro",3,"MONTE CUCCO/(CORSO)                                                   ",,"13/11/2018",
+"Qualità Urbana","Altro",7,"PRINCIPE ODDONE/(CORSO)                                               ",,"14/11/2018","11.34"
+"Qualità Urbana","Altro",7,"REGINA MARGHERITA/(CORSO)                                             ",,"14/11/2018","13.54"
+"Qualità Urbana","Altro",7,"GENE'/GIUSEPPE (VIA)                                                  ",,"14/11/2018","14.07"
+"Qualità Urbana","Altro",8,"VAL SALICE/(STRADA)                                                   ",,"15/11/2018",
+"Qualità Urbana","Altro",10,"PAVESE/CESARE (VIA)                                                   ",,"15/11/2018","10.23"
+"Qualità Urbana","Altro",7,"GIOVANNI DALLE BANDE NERE/(PIAZZA)                                    ",,"17/11/2018",
+"Qualità Urbana","Altro",9,"SEBASTOPOLI/(CORSO)                                                   ",,"18/11/2018",
+"Qualità Urbana","Altro",2,"GUIDOBONO/DOMENICO (VIA)                                              ",,"19/11/2018",
+"Qualità Urbana","Altro",3,"S. ANTONINO/(VIA)                                                     ",,"19/11/2018","09.51"
+"Qualità Urbana","Altro",7,"PALERMO/(CORSO)                                                       ",,"20/11/2018",
+"Qualità Urbana","Altro",6,"SPONTINI/GASPARE (VIA)                                                ",,"21/11/2018","07.43"
+"Qualità Urbana","Altro",1,"VITTORIO EMANUELE II/(CORSO)                                          ",,"22/11/2018",
+"Qualità Urbana","Altro",6,"BERTOLLA/(STRADA)                                                     ",,"22/11/2018",
+"Qualità Urbana","Altro",6,"FRANCESE/(STRADA DEL)                                                 ",,"22/11/2018",
+"Qualità Urbana","Altro",7,"VITALE/MAURIZIO (LARGO)/                                              ",,"23/11/2018",
+"Qualità Urbana","Altro",5,"ORVIETO/(VIA)                                                         ",,"23/11/2018","07.59"
+"Qualità Urbana","Altro",3,"CRISSOLO/(VIA)                                                        ",,"23/11/2018","09.06"
+"Qualità Urbana","Altro",2,"FILADELFIA/(VIA)                                                      ",,"23/11/2018","11.25"
+"Qualità Urbana","Altro",6,"LAZIO/(LUNGO STURA)                                                   ",,"23/11/2018","12.53"
+"Qualità Urbana","Altro",6,"GIULIO CESARE/(CORSO)                                                 ",,"26/11/2018",
+"Qualità Urbana","Altro",7,"REGINA MARGHERITA/(CORSO)                                             ",,"26/11/2018","11.27"
+"Qualità Urbana","Altro",,,,"27/11/2018",
+"Qualità Urbana","Altro",2,"MONTE NOVEGNO/(VIA)                                                   ",,"28/11/2018",
+"Qualità Urbana","Altro",3,"ISSIGLIO/(VIA)                                                        ",,"28/11/2018","11.18"
+"Qualità Urbana","Altro",5,"RULFI/MICHELANGELO (VIA)                                              ",,"28/11/2018","13.20"
+"Qualità Urbana","Altro",1,"CORTE D'APPELLO/(VIA)                                                 ",,"29/11/2018",
+"Qualità Urbana","Altro",2,"S. GABRIELE DI GORIZIA/(PIAZZALE)                                     ",,"29/11/2018","11.13"
+"Qualità Urbana","Altro",6,"VESTIGNE'/(VIA)                                                       ",,"29/11/2018","12.02"
+"Qualità Urbana","Altro",2,"SIRACUSA/(CORSO)                                                      ",,"30/11/2018",
+"Qualità Urbana","Altro",2,"UNIONE SOVIETICA/(CORSO)                                              ",,"30/11/2018","14.20"
+"Qualità Urbana","Altro",6,"MADDALENE/(VIA)                                                       ",,"03/12/2018",
+"Qualità Urbana","Altro",8,"NIZZA/(VIA)                                                           ",,"03/12/2018",
+"Qualità Urbana","Altro",5,"LORENZINI/CARLO (VIA)                                                 ",,"04/12/2018",
+"Qualità Urbana","Altro",3,"VIPACCO/(VIA)                                                         ",,"04/12/2018","15.14"
+"Qualità Urbana","Altro",6,"S. MAURO/(STRADA)                                                     ",,"05/12/2018",
+"Qualità Urbana","Altro",8,"NIZZA/(VIA)                                                           ",,"05/12/2018",
+"Qualità Urbana","Altro",2,"SEBASTOPOLI/(CORSO)                                                   ",,"05/12/2018","12.47"
+"Qualità Urbana","Altro",,,,"06/12/2018","11.24"
+"Qualità Urbana","Altro",8,"MONCALIERI/(CORSO)                                                    ",,"07/12/2018",
+"Qualità Urbana","Altro",9,"UNITA' D'ITALIA/(CORSO)                                               ","Area Verde","07/12/2018",
+"Qualità Urbana","Altro",5,"TOSCANA/(CORSO)                                                       ",,"07/12/2018","09.57"
+"Qualità Urbana","Altro",3,"VANDALINO/(VIA)                                                       ",,"07/12/2018","11.14"
+"Qualità Urbana","Altro",5,"VISCHE/(VIA)                                                          ",,"10/12/2018","13.21"
+"Qualità Urbana","Altro",5,"PRIMULE/(VIA DELLE)                                                   ",,"10/12/2018","14.08"
+"Qualità Urbana","Altro",2,"GRADISCA/(VIA)                                                        ",,"12/12/2018",
+"Qualità Urbana","Altro",3,"RACCONIGI/(CORSO)                                                     ",,"12/12/2018",
+"Qualità Urbana","Altro",6,"DESANA/(VIA)                                                          ",,"12/12/2018","12.45"
+"Qualità Urbana","Altro",8,"SENECA/(VIALE)                                                        ",,"12/12/2018","13.20"
+"Qualità Urbana","Altro",1,"LAGRANGE/GIUSEPPE LUIGI (PIAZZA)                                      ",,"12/12/2018","14.22"
+"Qualità Urbana","Altro",6,"ANCINA/GIOVENALE (VIA)                                                ",,"14/12/2018",
+"Qualità Urbana","Altro",9,"VOLI/MELCHIORRE (VIA)                                                 ",,"14/12/2018","09.57"
+"Qualità Urbana","Altro",4,"MIGLIETTI/VINCENZO MARIA (VIA)                                        ",,"18/12/2018","09.58"
+"Qualità Urbana","Altro",7,"FENESTRELLE/(STRADA DI)                                               ",,"18/12/2018","10.37"
+"Qualità Urbana","Altro",7,"CASALE/(CORSO)                                                        ",,"19/12/2018",
+"Qualità Urbana","Altro",3,"BOSSOLASCO/(VIA)                                                      ",,"20/12/2018",
+"Qualità Urbana","Altro",6,"GIULIO CESARE/(LARGO)                                                 ",,"20/12/2018",
+"Qualità Urbana","Altro",2,"SALICETO/(VIA)                                                        ",,"20/12/2018","10.00"
+"Qualità Urbana","Altro",6,"POGGIO/GIOVANNI (VIA)                                                 ",,"23/12/2018",
+"Qualità Urbana","Altro",7,"BUTTIGLIERA/(VIA)                                                     ",,"28/12/2018","12.39"
+"Qualità Urbana","Altro",3,"FATTORI/GIOVANNI (VIA)                                                ",,"28/12/2018","12.57"
+"Qualità Urbana","Decoro e degrado urbano",1,"FERRARIS/GALILEO (CORSO)                                              ",,"02/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",3,"ROSSELLI/CARLO E NELLO (CORSO)                                        ","Area Verde","02/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",5,"CINCINNATO/L. QUINZIO (CORSO)                                         ",,"02/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"REGIO PARCO/(CORSO)                                                   ","Area Verde","02/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",3,"INGHILTERRA/(CORSO)                                                   ",,"03/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",5,"BOCCARDO/GIOVANNI MICHELE (VIA)                                       ",,"03/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",5,"FERMI/ENRICO (VIA)                                                    ",,"03/07/2018","11.19"
+"Qualità Urbana","Decoro e degrado urbano",5,"LEMIE/(VIA)                                                           ",,"03/07/2018","14.19"
+"Qualità Urbana","Decoro e degrado urbano",7,"CARMAGNOLA/(VIA)                                                      ",,"03/07/2018","14.48"
+"Qualità Urbana","Decoro e degrado urbano",1,"MILLE/(VIA DEI)                                                       ",,"04/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",1,"VITTORIO EMANUELE II/(CORSO)                                          ",,"04/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",3,"VITTORIO EMANUELE II/(CORSO)                                          ",,"04/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",5,"LUCCA/(VIA)                                                           ",,"04/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",2,"ORBASSANO/(CORSO)                                                     ","Area Verde","05/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",5,"CINCINNATO/L. QUINZIO (CORSO)                                         ",,"06/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",1,"PRINCIPE AMEDEO/(VIA)                                                 ",,"07/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",9,"TEPICE/(VIA)                                                          ",,"07/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",6,"GIULIO CESARE/(LARGO)                                                 ",,"08/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",9,"VENTIMIGLIA/(VIA)                                                     ",,"08/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",2,"MONFALCONE/(VIA)                                                      ",,"09/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",6,"CASCINOTTO/(STRADA DEL)                                               ",,"09/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"BRESCIA/(CORSO)                                                       ",,"09/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",4,"FABRIZI/NICOLA (LARGO)                                                ",,"10/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",5,"PRIMULE/(VIA DELLE)                                                   ",,"10/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"TORTONA/(CORSO)                                                       ",,"10/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",6,"BOTTICELLI/SANDRO (VIA)                                               ",,"11/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",6,"VISTRORIO/(VIA)                                                       ","Area Verde","11/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",,,,"12/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"CIRIE'/(CORSO)                                                        ",,"13/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"SASSARI/(VIA)                                                         ","Area Verde","13/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",8,"DANTE/(CORSO)                                                         ",,"13/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",9,"TUNISI/(VIA)                                                          ",,"13/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",6,"VERCELLI/(CORSO)                                                      ",,"13/07/2018","09.44"
+"Qualità Urbana","Decoro e degrado urbano",9,"PASSO BUOLE/(VIA)                                                     ",,"13/07/2018","13.02"
+"Qualità Urbana","Decoro e degrado urbano",9,"MADONNA DELLE ROSE/(VIA)                                              ",,"16/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",4,"MONTE GRAPPA/(CORSO)                                                  ",,"17/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",2,"DE BERNARDI/LAMBERTO (VIA)                                            ",,"17/07/2018","08.58"
+"Qualità Urbana","Decoro e degrado urbano",4,"BAGETTI/PIETRO (VIA)                                                  ",,"18/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",2,"SALVEMINI/GAETANO (CORSO)                                             ",,"19/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",5,"STAMPALIA/(PIAZZA)                                                    ",,"19/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"FONTANESI/ANTONIO (VIA)                                               ",,"19/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",8,"BARETTI/GIUSEPPE (VIA)                                                ",,"19/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",8,"FOA'/PIO (VIA)                                                        ",,"19/07/2018","07.47"
+"Qualità Urbana","Decoro e degrado urbano",7,"CATANIA/(VIA)                                                         ","Area Verde","19/07/2018","11.14"
+"Qualità Urbana","Decoro e degrado urbano",7,"BRIANZA/(CORSO)                                                       ",,"20/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",6,"MARTORELLI/RENATO (VIA)                                               ",,"20/07/2018","10.37"
+"Qualità Urbana","Decoro e degrado urbano",2,"ORBASSANO/(CORSO)                                                     ",,"23/07/2018","09.12"
+"Qualità Urbana","Decoro e degrado urbano",5,"STRADELLA/(VIA)                                                       ",,"23/07/2018","09.35"
+"Qualità Urbana","Decoro e degrado urbano",1,"ACCADEMIA MILITARE/(PIAZZETTA)                                        ",,"24/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",5,"VILLARI/PASQUALE (PIAZZA)                                             ","Area Verde","24/07/2018","11.21"
+"Qualità Urbana","Decoro e degrado urbano",3,"DELLEANI/LORENZO (VIA)                                                ",,"25/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",4,"UMBRIA/(CORSO)                                                        ",,"25/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"GIOVANNI DALLE BANDE NERE/(PIAZZA)                                    ",,"25/07/2018","09.30"
+"Qualità Urbana","Decoro e degrado urbano",5,"BOCCARDO/GIOVANNI MICHELE (VIA)                                       ",,"30/07/2018","11.55"
+"Qualità Urbana","Decoro e degrado urbano",6,"GIULIO CESARE/(LARGO)                                                 ",,"30/07/2018","12.45"
+"Qualità Urbana","Decoro e degrado urbano",6,"SCOTELLARO/ROCCO (VIA)                                                ","Area Verde","31/07/2018",
+"Qualità Urbana","Decoro e degrado urbano",5,"TOSCANA/(CORSO)                                                       ",,"31/07/2018","12.22"
+"Qualità Urbana","Decoro e degrado urbano",6,"CARO ANNIBAL/(VIA) (LEGGI ANNIBAL CARO)                               ",,"01/08/2018","10.39"
+"Qualità Urbana","Decoro e degrado urbano",3,"FREJUS/(VIA)                                                          ",,"01/08/2018","11.34"
+"Qualità Urbana","Decoro e degrado urbano",7,"ANDORNO/(VIA)                                                         ",,"02/08/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"VERCELLI/(CORSO)                                                      ",,"02/08/2018",
+"Qualità Urbana","Decoro e degrado urbano",9,"MARONCELLI/PIERO (CORSO)                                              ",,"02/08/2018","09.09"
+"Qualità Urbana","Decoro e degrado urbano",7,"S. OTTAVIO/(VIA)                                                      ",,"02/08/2018","13.45"
+"Qualità Urbana","Decoro e degrado urbano",1,"VESPUCCI/AMERIGO (VIA)                                                ",,"03/08/2018",
+"Qualità Urbana","Decoro e degrado urbano",6,"ULIVI/(VIA DEGLI)                                                     ",,"03/08/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"GIULIO CESARE/(CORSO)                                                 ",,"03/08/2018","08.44"
+"Qualità Urbana","Decoro e degrado urbano",7,"ANTONELLI/ALESSANDRO (LUNGO PO)                                       ",,"03/08/2018","12.11"
+"Qualità Urbana","Decoro e degrado urbano",2,"ORBASSANO/(CORSO)                                                     ",,"06/08/2018",
+"Qualità Urbana","Decoro e degrado urbano",3,"MONTE ALBERGIAN/(VIA)                                                 ",,"06/08/2018","08.46"
+"Qualità Urbana","Decoro e degrado urbano",7,"PALERMO/(CORSO)                                                       ",,"06/08/2018","12.41"
+"Qualità Urbana","Decoro e degrado urbano",7,"GUASTALLA/(VIA)                                                       ",,"07/08/2018","10.54"
+"Qualità Urbana","Decoro e degrado urbano",2,"MONFALCONE/(VIA)                                                      ",,"10/08/2018","09.41"
+"Qualità Urbana","Decoro e degrado urbano",7,"VOGHERA/(LUNGO DORA)                                                  ",,"13/08/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"BORGOFRANCO/(VIA)                                                     ",,"13/08/2018","12.05"
+"Qualità Urbana","Decoro e degrado urbano",5,"SAURO/NAZARIO (PIAZZA)                                                ",,"13/08/2018","13.23"
+"Qualità Urbana","Decoro e degrado urbano",4,"FRANCIA/(CORSO)                                                       ",,"14/08/2018",
+"Qualità Urbana","Decoro e degrado urbano",8,"MADAMA CRISTINA/(VIA)                                                 ",,"14/08/2018","11.52"
+"Qualità Urbana","Decoro e degrado urbano",1,"S. MARIA/(VIA)                                                        ",,"17/08/2018","11.21"
+"Qualità Urbana","Decoro e degrado urbano",6,"GERMAGNANO/(VIA)                                                      ",,"20/08/2018",
+"Qualità Urbana","Decoro e degrado urbano",6,"VERCELLI/(CORSO)                                                      ",,"21/08/2018",
+"Qualità Urbana","Decoro e degrado urbano",6,"SOFIA/(PIAZZA)                                                        ",,"22/08/2018",
+"Qualità Urbana","Decoro e degrado urbano",2,"BARLETTA/(VIA)                                                        ",,"23/08/2018",
+"Qualità Urbana","Decoro e degrado urbano",5,"RULFI/MICHELANGELO (VIA)                                              ",,"23/08/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"CHIERI/(CORSO)                                                        ",,"23/08/2018",
+"Qualità Urbana","Decoro e degrado urbano",6,"VERCELLI/(CORSO)                                                      ",,"24/08/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"AGUDIO/TOMMASO (VIA)                                                  ",,"24/08/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"AGUDIO/TOMMASO (VIA)                                                  ",,"24/08/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"ALESSANDRIA/(VIA)                                                     ",,"24/08/2018",
+"Qualità Urbana","Decoro e degrado urbano",9,"MARONCELLI/PIERO (CORSO)                                              ","Area Verde","24/08/2018",
+"Qualità Urbana","Decoro e degrado urbano",1,"JUVARRA/FILIPPO(VIA)                                                  ",,"27/08/2018",
+"Qualità Urbana","Decoro e degrado urbano",2,"BUENOS AIRES/(VIA)                                                    ",,"28/08/2018",
+"Qualità Urbana","Decoro e degrado urbano",2,"ORBASSANO/(CORSO)                                                     ",,"29/08/2018",
+"Qualità Urbana","Decoro e degrado urbano",3,"BEAUMONT/CLAUDIO (VIA)                                                ",,"29/08/2018",
+"Qualità Urbana","Decoro e degrado urbano",3,"BRUNELLESCHI/FILIPPO (CORSO)                                          ",,"29/08/2018",
+"Qualità Urbana","Decoro e degrado urbano",4,"PIANEZZA/(VIA)                                                        ",,"29/08/2018",
+"Qualità Urbana","Decoro e degrado urbano",6,"GIULIO CESARE/(LARGO)                                                 ",,"29/08/2018",
+"Qualità Urbana","Decoro e degrado urbano",10,"TONALE/(VIA)                                                          ",,"29/08/2018",
+"Qualità Urbana","Decoro e degrado urbano",4,"SERVAIS/GIOVANNI (VIA)                                                ",,"30/08/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"FOGGIA/(VIA)                                                          ",,"30/08/2018",
+"Qualità Urbana","Decoro e degrado urbano",,,"Area Verde","31/08/2018",
+"Qualità Urbana","Decoro e degrado urbano",5,"SANSOVINO/ANDREA (VIA)                                                ",,"31/08/2018",
+"Qualità Urbana","Decoro e degrado urbano",,,,"03/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",1,"RE UMBERTO/(CORSO)                                                    ",,"03/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",3,"CHAMBERY/(VIA)                                                        ",,"03/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"RIMINI/(VIA)                                                          ",,"03/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",1,"TURATI/FILIPPO (CORSO)                                                ","Area Verde","04/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",2,"MONFALCONE/(VIA)                                                      ",,"04/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",3,"BENA/BATTISTA (VIA)                                                   ",,"04/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",4,"BELLARDI/LUDOVICO (VIA)                                               ",,"05/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",8,"LANFRANCHI/FRANCESCO (VIA)                                            ",,"05/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",1,"CASSINI/GIAN DOMENICO (VIA)                                           ",,"06/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",3,"CESANA/(VIA)                                                          ",,"06/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",5,"VENARIA/(STRADA)                                                      ",,"06/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",6,"COLONNA/VITTORIA (VIA)                                                ",,"09/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",5,"BARACCA/FRANCESCO (VIA)                                               ",,"10/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",2,"BAINSIZZA/(VIA)                                                       ",,"11/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",5,"REISS ROMOLI/GUGLIELMO (VIA)                                          ",,"11/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",3,"ISONZO/(VIA)                                                          ","Area Verde","12/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",5,"STAMPALIA/(PIAZZA)                                                    ",,"12/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",8,"NIZZA/(VIA)                                                           ",,"12/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",6,"BOTTICELLI/SANDRO (VIA)                                               ",,"13/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",10,"VIGLIANI/ONORATO (VIA)                                                ",,"13/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",1,"CORTE D'APPELLO/(VIA)                                                 ",,"14/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",1,"MANZONI/ALESSANDRO (VIA)                                              ",,"14/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",1,"NIZZA/(VIA)                                                           ",,"14/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",8,"VENTICINQUE APRILE/(VIALE)                                            ",,"14/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",9,"FRATEL TEODORETO/(VIA)                                                ",,"14/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",1,"MASSENA/ANDREA (VIA)                                                  ",,"14/09/2018","11.25"
+"Qualità Urbana","Decoro e degrado urbano",1,"COLOMBO/CRISTOFORO (VIA)                                              ",,"15/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",2,"SEBASTOPOLI/(CORSO)                                                   ",,"17/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",3,"BIXIO/NINO (VIA)                                                      ",,"17/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"REGIO PARCO/(CORSO)                                                   ",,"17/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",8,"PETITTI/ILARIONE (VIA)                                                ",,"17/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",1,"MATTEOTTI/GIACOMO (CORSO)                                             ",,"18/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",1,"SANTAROSA/PIETRO (VIA)                                                ",,"18/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",4,"GAGLIANICO/(VIA)                                                      ",,"18/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",8,"CURRENO/GIACOMO (VIALE)                                               ",,"18/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",4,"FABRIZI/NICOLA (VIA)                                                  ",,"19/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",4,"TASSONI/ALESSANDRO (CORSO)                                            ",,"19/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",8,"NIZZA/(PIAZZA)                                                        ",,"19/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",1,"RE UMBERTO/(CORSO)                                                    ",,"20/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",4,"S. GIOVANNI BOSCO/(VIA)                                               ",,"20/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",,,,"21/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",9,"GENOVA/(VIA)                                                          ",,"21/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",6,"SCOTELLARO/ROCCO (VIA)                                                ",,"21/09/2018","13.26"
+"Qualità Urbana","Decoro e degrado urbano",2,"S. GABRIELE DI GORIZIA/(PIAZZALE)                                     ",,"22/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"MONZA/(VIA)                                                           ",,"22/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",1,"COSTANTINO IL GRANDE/(PIAZZALE)                                       ",,"22/09/2018","13.27"
+"Qualità Urbana","Decoro e degrado urbano",7,"AOSTA/(VIA)                                                           ",,"24/09/2018","14.45"
+"Qualità Urbana","Decoro e degrado urbano",7,"ANTONELLI/ALESSANDRO (LUNGO PO)                                       ",,"26/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",6,"MONTANARO/(VIA)                                                       ",,"27/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"DENZA/PADRE FRANCESCO (VIA)                                           ","Area Verde","27/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"NOVARA/(CORSO)                                                        ",,"27/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",1,"GOVONE/GIUSEPPE (CORSO)                                               ",,"27/09/2018","12.08"
+"Qualità Urbana","Decoro e degrado urbano",2,"SEBASTOPOLI/(CORSO)                                                   ",,"28/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"RAGAZZONI/ERNESTO (VIA)                                               ",,"29/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",1,"MILANO/(VIA)                                                          ",,"30/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",2,"PALATUCCI/GIOVANNI (VIA)                                              ",,"30/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",10,"VIGLIANI/ONORATO (VIA)                                                ",,"30/09/2018",
+"Qualità Urbana","Decoro e degrado urbano",1,"PESCATORE/MATTEO (VIA)                                                ",,"01/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",3,"CENISCHIA/(VIA)                                                       ",,"02/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",6,"TARANTO/(CORSO)                                                       ",,"02/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",8,"BIDONE/GIORGIO (VIA)                                                  ",,"02/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",4,"SERVAIS/GIOVANNI (VIA)                                                ",,"03/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",6,"BOLOGNA/(VIA)                                                         ",,"03/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",6,"VILLARETTO/(STRADA DEL)                                               ",,"03/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",2,"BARLETTA/(VIA)                                                        ",,"06/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",2,"ORBASSANO/(LARGO)                                                     ",,"06/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",4,"REGINA MARGHERITA/(CORSO)                                             ",,"08/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"FIRENZE/(LUNGO DORA)                                                  ",,"08/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"GIAVENO/(VIA)                                                         ",,"08/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",,,,"09/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",6,"SEMPIONE/(LARGO)                                                      ","Area Verde","09/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"GIAVENO/(VIA)                                                         ",,"09/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"VERONA/(CORSO)                                                        ",,"10/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",8,"THOVEZ/ENRICO (VIALE)                                                 ",,"10/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"OROPA/(VIA)                                                           ",,"11/10/2018","09.48"
+"Qualità Urbana","Decoro e degrado urbano",4,"MONTE GRAPPA/(CORSO)                                                  ",,"12/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",6,"BOLOGNA/(VIA)                                                         ",,"12/10/2018","08.20"
+"Qualità Urbana","Decoro e degrado urbano",1,"ARQUATA/(VIA)                                                         ",,"13/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",1,"FERRARIS/GALILEO (CORSO)                                              ",,"15/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",4,"SCAPACINO/GIOVANNI BATTISTA (VIA)                                     ",,"15/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"URBINO/(VIA)                                                          ",,"15/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",8,"VAL SALICE/(STRADA)                                                   ",,"15/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",6,"GHIRLANDAIO/(PIAZZA)                                                  ","Area Verde","16/10/2018","10.16"
+"Qualità Urbana","Decoro e degrado urbano",1,"DE GASPERI/ALCIDE (CORSO)                                             ",,"17/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",5,"SOSPELLO/(VIA)                                                        ",,"17/10/2018","09.41"
+"Qualità Urbana","Decoro e degrado urbano",7,"S. ANNA/(STRADA)                                                      ",,"19/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",8,"MORGARI/ODDINO (VIA)                                                  ",,"19/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",4,"CIBRARIO/LUIGI (VIA)                                                  ",,"19/10/2018","14.13"
+"Qualità Urbana","Decoro e degrado urbano",6,"COLONNA/VITTORIA (VIA)                                                ",,"20/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",1,"CASELLE/(VIA)                                                         ",,"22/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",1,"JONIO/(VIA)                                                           ",,"22/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",4,"SALBERTRAND/(VIA)                                                     ","Area Verde","22/10/2018","12.46"
+"Qualità Urbana","Decoro e degrado urbano",3,"MONGINEVRO/(VIA)                                                      ",,"23/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",3,"MORETTA/(VIA)                                                         ",,"23/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",6,"MONTANARO/(VIA)                                                       ",,"23/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"CASALE/(CORSO)                                                        ",,"23/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",5,"SANSOVINO/ANDREA (VIA)                                                ",,"24/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",6,"GIULIO CESARE/(CORSO)                                                 ","Area Verde","24/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",8,"PRINCIPE TOMMASO/(VIA)                                                ",,"24/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",2,"BALTIMORA/(VIA)                                                       ",,"25/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",5,"SOSPELLO/(VIA)                                                        ",,"25/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"DAMIANO/LUIGI (VIA)                                                   ",,"25/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"NIETZSCHE/FEDERICO (VIA)                                              ",,"25/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",4,"TASSONI/ALESSANDRO (CORSO)                                            ",,"25/10/2018","13.17"
+"Qualità Urbana","Decoro e degrado urbano",6,"BOTTICELLI/SANDRO (VIA)                                               ",,"26/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",6,"GIULIO CESARE/(CORSO)                                                 ",,"26/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",8,"S. VITO REVIGLIASCO/(STRADA)                                          ","Area Verde","26/10/2018","11.52"
+"Qualità Urbana","Decoro e degrado urbano",8,"PRINCIPE TOMMASO/(VIA)                                                ",,"27/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",9,"MONTE PASUBIO/(VIA)                                                   ",,"28/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",1,"PO/(VIA)                                                              ",,"29/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",4,"ROSAI/OTTONE(CORSO)                                                   ",,"29/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"GIULIO CESARE/(CORSO)                                                 ",,"29/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",8,"ASPROMONTE/(VIA)                                                      ",,"29/10/2018",
+"Qualità Urbana","Decoro e degrado urbano",4,"PESSINETTO/(VIA)                                                      ",,"29/10/2018","10.18"
+"Qualità Urbana","Decoro e degrado urbano",1,"SAVOIA/(PIAZZA)                                                       ",,"04/11/2018",
+"Qualità Urbana","Decoro e degrado urbano",8,"S. ANSELMO/(VIA)                                                      ",,"04/11/2018",
+"Qualità Urbana","Decoro e degrado urbano",3,"RIVOLI/(PIAZZA)                                                       ",,"05/11/2018",
+"Qualità Urbana","Decoro e degrado urbano",5,"BREGLIO/(VIA)                                                         ",,"05/11/2018","10.50"
+"Qualità Urbana","Decoro e degrado urbano",4,"SALBERTRAND/(VIA)                                                     ","Area Verde","06/11/2018",
+"Qualità Urbana","Decoro e degrado urbano",5,"POTENZA/(CORSO)                                                       ",,"07/11/2018",
+"Qualità Urbana","Decoro e degrado urbano",5,"SAORGIO/(VIA)                                                         ",,"07/11/2018",
+"Qualità Urbana","Decoro e degrado urbano",8,"BROCCA/(VIA DELLA)                                                    ",,"07/11/2018","10.19"
+"Qualità Urbana","Decoro e degrado urbano",9,"CAIO PLINIO/(CORSO)                                                   ",,"09/11/2018","11.10"
+"Qualità Urbana","Decoro e degrado urbano",1,"S. CARLO/(PIAZZA)                                                     ",,"12/11/2018",
+"Qualità Urbana","Decoro e degrado urbano",5,"LANZO/(STRADA)                                                        ",,"12/11/2018",
+"Qualità Urbana","Decoro e degrado urbano",4,"TELESIO/BERNARDINO (CORSO)                                            ",,"12/11/2018","10.59"
+"Qualità Urbana","Decoro e degrado urbano",3,"INGHILTERRA/(CORSO)                                                   ",,"12/11/2018","12.24"
+"Qualità Urbana","Decoro e degrado urbano",6,"GHIRLANDAIO/(PIAZZA)                                                  ",,"12/11/2018","14.57"
+"Qualità Urbana","Decoro e degrado urbano",7,"NAPOLI/(LUNGO DORA)                                                   ",,"14/11/2018",
+"Qualità Urbana","Decoro e degrado urbano",3,"ENTRACQUE/(VIA)                                                       ",,"16/11/2018",
+"Qualità Urbana","Decoro e degrado urbano",4,"GRAVERE/(VIA)                                                         ",,"17/11/2018",
+"Qualità Urbana","Decoro e degrado urbano",8,"MICHELOTTI/IGNAZIO (PARCO)                                            ",,"19/11/2018",
+"Qualità Urbana","Decoro e degrado urbano",3,"BEAUMONT/CLAUDIO (VIA)                                                ",,"21/11/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"MONGRANDO/(VIA)                                                       ",,"21/11/2018",
+"Qualità Urbana","Decoro e degrado urbano",10,"CASTELLO DI MIRAFIORI/(STRADA)                                        ",,"22/11/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"ANCONA/(VIA)                                                          ",,"23/11/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"REGGIO/(VIA)                                                          ",,"26/11/2018","12.12"
+"Qualità Urbana","Decoro e degrado urbano",1,"PIAZZI/GIUSEPPE (VIA)                                                 ",,"27/11/2018",
+"Qualità Urbana","Decoro e degrado urbano",3,"ISONZO/(VIA)                                                          ",,"28/11/2018",
+"Qualità Urbana","Decoro e degrado urbano",1,"BERTOLA/ANTONIO GIUSEPPE (VIA)                                        ",,"29/11/2018",
+"Qualità Urbana","Decoro e degrado urbano",1,"QUATTRO MARZO/(VIA)                                                   ",,"29/11/2018",
+"Qualità Urbana","Decoro e degrado urbano",4,"CAMPANELLA/TOMMASO (PIAZZA)                                           ",,"29/11/2018",
+"Qualità Urbana","Decoro e degrado urbano",5,"CINCINNATO/L. QUINZIO (CORSO)                                         ",,"29/11/2018",
+"Qualità Urbana","Decoro e degrado urbano",8,"ORNATO/LUIGI (VIA)                                                    ",,"29/11/2018",
+"Qualità Urbana","Decoro e degrado urbano",4,"BIANCHI/NICOMEDE (VIA)                                                ",,"30/11/2018",
+"Qualità Urbana","Decoro e degrado urbano",4,"SALBERTRAND/(VIA)                                                     ",,"30/11/2018",
+"Qualità Urbana","Decoro e degrado urbano",5,"TOSCANA/(LARGO)                                                       ",,"30/11/2018","13.29"
+"Qualità Urbana","Decoro e degrado urbano",1,"DUCA DEGLI ABRUZZI/(CORSO)                                            ",,"01/12/2018",
+"Qualità Urbana","Decoro e degrado urbano",4,"BALME/(VIA)                                                           ",,"03/12/2018",
+"Qualità Urbana","Decoro e degrado urbano",9,"ZINI/ZINO GIACOMO (VIA)                                               ",,"03/12/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"BELGIO/(CORSO)                                                        ",,"05/12/2018",
+"Qualità Urbana","Decoro e degrado urbano",2,"GORIZIA/(VIA)                                                         ",,"06/12/2018",
+"Qualità Urbana","Decoro e degrado urbano",2,"ORBASSANO/(CORSO)                                                     ",,"09/12/2018",
+"Qualità Urbana","Decoro e degrado urbano",1,"BLIGNY/(VIA)                                                          ",,"10/12/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"MONGRENO/(STRADA)                                                     ",,"10/12/2018",
+"Qualità Urbana","Decoro e degrado urbano",4,"SAVIGLIANO/(VIA)                                                      ",,"10/12/2018","12.57"
+"Qualità Urbana","Decoro e degrado urbano",1,"VESPUCCI/AMERIGO (VIA)                                                ",,"10/12/2018","13.37"
+"Qualità Urbana","Decoro e degrado urbano",7,"NIETZSCHE/FEDERICO (VIA)                                              ",,"11/12/2018",
+"Qualità Urbana","Decoro e degrado urbano",6,"DONATORE DI SANGUE/(PIAZZA DEL)                                       ",,"12/12/2018",
+"Qualità Urbana","Decoro e degrado urbano",,,"Area Verde","12/12/2018","11.39"
+"Qualità Urbana","Decoro e degrado urbano",1,"PRATI/GIOVANNI (VIA)                                                  ",,"13/12/2018","08.33"
+"Qualità Urbana","Decoro e degrado urbano",3,"PESCHIERA/(CORSO)                                                     ",,"14/12/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"REGIO PARCO/(CORSO)                                                   ",,"14/12/2018","10.30"
+"Qualità Urbana","Decoro e degrado urbano",1,"CAIROLI/(CORSO)                                                       ",,"16/12/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"REGINA MARGHERITA/(CORSO)                                             ",,"16/12/2018","13.42"
+"Qualità Urbana","Decoro e degrado urbano",7,"REGINA MARGHERITA/(CORSO)                                             ",,"16/12/2018","13.54"
+"Qualità Urbana","Decoro e degrado urbano",7,"VANCHIGLIA/(VIA)                                                      ",,"16/12/2018","14.05"
+"Qualità Urbana","Decoro e degrado urbano",5,"GIACHINO/ERRICO (VIA)                                                 ",,"17/12/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"UNDICI FEBBRAIO/(CORSO)                                               ",,"17/12/2018",
+"Qualità Urbana","Decoro e degrado urbano",3,"RACCONIGI/(CORSO)                                                     ",,"17/12/2018","11.43"
+"Qualità Urbana","Decoro e degrado urbano",7,"VERONA/(CORSO)                                                        ",,"18/12/2018",
+"Qualità Urbana","Decoro e degrado urbano",3,"CESANA/(VIA)                                                          ",,"20/12/2018",
+"Qualità Urbana","Decoro e degrado urbano",5,"NOLE/(VIA)                                                            ",,"20/12/2018","10.45"
+"Qualità Urbana","Decoro e degrado urbano",2,"TRIPOLI/(VIA)                                                         ",,"21/12/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"REGIO PARCO/(CORSO)                                                   ",,"21/12/2018",
+"Qualità Urbana","Decoro e degrado urbano",6,"CENA/GIOVANNI (VIA)                                                   ",,"21/12/2018","08.51"
+"Qualità Urbana","Decoro e degrado urbano",1,"PROVANA/ANDREA (VIA)                                                  ",,"22/12/2018",
+"Qualità Urbana","Decoro e degrado urbano",3,"RACCONIGI/(CORSO)                                                     ",,"23/12/2018",
+"Qualità Urbana","Decoro e degrado urbano",3,"MONTE CUCCO/(CORSO)                                                   ",,"24/12/2018",
+"Qualità Urbana","Decoro e degrado urbano",7,"PARMA/(VIA)                                                           ",,"27/12/2018","11.22"
+"Qualità Urbana","Decoro e degrado urbano",2,"CATTANEO/RICCARDO (PIAZZA)                                            ",,"27/12/2018","12.43"
+"Qualità Urbana","Decoro e degrado urbano",8,"CARDINALE MAURIZIO/(VIA)                                              ",,"28/12/2018",
+"Qualità Urbana","Decoro e degrado urbano",6,"VERCELLI/(CORSO)                                                      ",,"31/12/2018","11.08"
+"Qualità Urbana","Veicoli abbandonati",4,"BOSELLI/PAOLO (VIA)                                                   ",,"17/09/2018",
+"Qualità Urbana","Veicoli abbandonati",4,"PIFFETTI/PIETRO (VIA)                                                 ",,"22/09/2018","14.01"
+"Qualità Urbana","Veicoli abbandonati",6,"FOSSATA/(VIA)                                                         ",,"22/09/2018","09.55"
+"Qualità Urbana","Veicoli abbandonati",9,"ROSARIO SANTA FE'/(VIA)                                               ",,"16/10/2018",

@@ -1,0 +1,2 @@
+Mapping of the locations to their correspondent area type
+https://webgis.arpa.piemonte.it/Geoviewer2D/?config=other-configs/acustica_config.json

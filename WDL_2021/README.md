@@ -38,18 +38,18 @@ The leaderboard for the League can be seen below.
 |30      |JAI Explorers         |Nigeria       |80    |
 
 ## Finals
-The WDL 2021 Finals took place between 2nd and 4th July, and from there the top-3 teams were selected. The 1st place team was crowned **World's Best Data Scientists**.
+The WDL 2021 Finals took place between 2nd and 4th July, and from there the top-3 teams were selected. The top-3 teams presnted live on 10th July. The 1st place team was crowned **World's Best Data Scientists**.
 The leaderboads can be seen below.
 
 |Position|Team                  |Country       |Points|
 |--------|----------------------|--------------|------|
-|01🏅    |Data Sloths           |International |718   |
-|02🏅    |Tech Moguls           |Portugal      |713   |
-|03🏅    |Children of Jupyter   |Portugal      |596   |
-|04🏅    |NextEpoch             |International |575   |
-|05🏅    |AKITA                 |China         |564   |
-|06🏅    |i bellissimi di rete 4|Italy         |567   |
-|07🏅    |Sidereus              |International |550   |
-|08🏅    |DataChics             |Spain         |547   |
-|09🏅    |urbanata              |India         |544   |
-|10🏅    |BelManunel Soto       |International |541   |
+|01🥇    |Data Sloths           |International |245   |
+|02🥈    |Tech Moguls           |Portugal      |242   |
+|03🥉    |Children of Jupyter   |Portugal      |236   |
+|04      |NextEpoch             |International |214   |
+|05      |AKITA                 |China         |200   |
+|06      |BelManunel Soto       |International |168   |
+|07      |DataChics             |Spain         |167   |
+|08      |i bellissimi di rete 4|Italy         |142   |
+|09      |Sidereus              |International |130   |
+|10      |urbanata              |India         |119   |

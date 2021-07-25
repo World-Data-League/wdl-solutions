@@ -1,0 +1,553 @@
+{
+    "meta": {
+        "code": 200
+    },
+    "response": {
+        "holidays": [
+            {
+                "name": "New Year's Day",
+                "description": "New Year\u2019s Day is celebrated in Italy on January 1 each year.",
+                "country": {
+                    "id": "it",
+                    "name": "Italy"
+                },
+                "date": {
+                    "iso": "2021-01-01",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 1,
+                        "day": 1
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Epiphany",
+                "description": "Epiphany is a national holiday in Italy celebrated annually on January 6.",
+                "country": {
+                    "id": "it",
+                    "name": "Italy"
+                },
+                "date": {
+                    "iso": "2021-01-06",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 1,
+                        "day": 6
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "March Equinox",
+                "description": "March Equinox in Italy (Rome)",
+                "country": {
+                    "id": "it",
+                    "name": "Italy"
+                },
+                "date": {
+                    "iso": "2021-03-20T10:37:30+01:00",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 3,
+                        "day": 20,
+                        "hour": 10,
+                        "minute": 37,
+                        "second": 30
+                    },
+                    "timezone": {
+                        "offset": "+01:00",
+                        "zoneabb": "CET",
+                        "zoneoffset": 3600,
+                        "zonedst": 0,
+                        "zonetotaloffset": 3600
+                    }
+                },
+                "type": [
+                    "Season"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Good Friday",
+                "description": "Good Friday is part of the Holy Week of Easter. The Pope leads a large procession, the Way of the Cross, in Rome.",
+                "country": {
+                    "id": "it",
+                    "name": "Italy"
+                },
+                "date": {
+                    "iso": "2021-04-02",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 4,
+                        "day": 2
+                    }
+                },
+                "type": [
+                    "Observance"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Easter Sunday",
+                "description": "Easter Day is a public holiday that is celebrated widely throughout Italy each year.",
+                "country": {
+                    "id": "it",
+                    "name": "Italy"
+                },
+                "date": {
+                    "iso": "2021-04-04",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 4,
+                        "day": 4
+                    }
+                },
+                "type": [
+                    "Observance"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Easter Monday",
+                "description": "Easter Monday is a public holiday in Italy that is celebrated annually on the day after Easter Day.",
+                "country": {
+                    "id": "it",
+                    "name": "Italy"
+                },
+                "date": {
+                    "iso": "2021-04-05",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 4,
+                        "day": 5
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Liberation Day",
+                "description": "Celebrated on April 25 each year, Italy\u2019s Liberation Day commemorates when the Allied troops liberated the country from the Nazi occupation during World War II.",
+                "country": {
+                    "id": "it",
+                    "name": "Italy"
+                },
+                "date": {
+                    "iso": "2021-04-25",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 4,
+                        "day": 25
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "The Feast of St Mark (Venice)",
+                "description": "The Italian city of Venice has its own local public holiday, St Mark\u2019s Day (Festa di San Marco) on April 25 each year.",
+                "country": {
+                    "id": "it",
+                    "name": "Italy"
+                },
+                "date": {
+                    "iso": "2021-04-25",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 4,
+                        "day": 25
+                    }
+                },
+                "type": [
+                    "Local holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Labor Day \/ May Day",
+                "description": "Labor Day is a national holiday annually held in Italy on May 1.",
+                "country": {
+                    "id": "it",
+                    "name": "Italy"
+                },
+                "date": {
+                    "iso": "2021-05-01",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 5,
+                        "day": 1
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Republic Day",
+                "description": "Italy\u2019s Republic Day is an annual public holiday on June 2 to commemorates the date Italians voted for their country end the monarchy and become a republic.",
+                "country": {
+                    "id": "it",
+                    "name": "Italy"
+                },
+                "date": {
+                    "iso": "2021-06-02",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 6,
+                        "day": 2
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "June Solstice",
+                "description": "June Solstice in Italy (Rome)",
+                "country": {
+                    "id": "it",
+                    "name": "Italy"
+                },
+                "date": {
+                    "iso": "2021-06-21T05:32:08+02:00",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 6,
+                        "day": 21,
+                        "hour": 5,
+                        "minute": 32,
+                        "second": 8
+                    },
+                    "timezone": {
+                        "offset": "+02:00",
+                        "zoneabb": "CEST",
+                        "zoneoffset": 3600,
+                        "zonedst": 3600,
+                        "zonetotaloffset": 7200
+                    }
+                },
+                "type": [
+                    "Season"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "The Feast of St. John (Florence, Genoa, Turin)",
+                "description": "Florence, Turin and Genoa, in Italy, celebrate their own local holiday, the Feast of St John (Festa di San Giovanni) on June 24 each year.",
+                "country": {
+                    "id": "it",
+                    "name": "Italy"
+                },
+                "date": {
+                    "iso": "2021-06-24",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 6,
+                        "day": 24
+                    }
+                },
+                "type": [
+                    "Local holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "The Feast of St. Peter and St. Paul (Rome)",
+                "description": "Rome, in Italy, celebrates its own local holiday, the Feast of Saints Peter and Paul on June 29 each year.",
+                "country": {
+                    "id": "it",
+                    "name": "Italy"
+                },
+                "date": {
+                    "iso": "2021-06-29",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 6,
+                        "day": 29
+                    }
+                },
+                "type": [
+                    "Local holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Assumption of Mary",
+                "description": "Assumption Day, also known as the Feast of the Assumption, is an annual public holiday in Italy on August 15.",
+                "country": {
+                    "id": "it",
+                    "name": "Italy"
+                },
+                "date": {
+                    "iso": "2021-08-15",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 8,
+                        "day": 15
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Ferragosto",
+                "description": "Ferragosto is a observance in Italy",
+                "country": {
+                    "id": "it",
+                    "name": "Italy"
+                },
+                "date": {
+                    "iso": "2021-08-15",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 8,
+                        "day": 15
+                    }
+                },
+                "type": [
+                    "Observance"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "The Feast of Saint Januarius (Naples)",
+                "description": "Naples, in Italy, celebrates its own local holiday, the Feast of Saint Januarius on September 19 each year.",
+                "country": {
+                    "id": "it",
+                    "name": "Italy"
+                },
+                "date": {
+                    "iso": "2021-09-19",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 9,
+                        "day": 19
+                    }
+                },
+                "type": [
+                    "Local holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "September Equinox",
+                "description": "September Equinox in Italy (Rome)",
+                "country": {
+                    "id": "it",
+                    "name": "Italy"
+                },
+                "date": {
+                    "iso": "2021-09-22T21:21:10+02:00",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 9,
+                        "day": 22,
+                        "hour": 21,
+                        "minute": 21,
+                        "second": 10
+                    },
+                    "timezone": {
+                        "offset": "+02:00",
+                        "zoneabb": "CEST",
+                        "zoneoffset": 3600,
+                        "zonedst": 3600,
+                        "zonetotaloffset": 7200
+                    }
+                },
+                "type": [
+                    "Season"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "All Saints' Day",
+                "description": "In Italy All Saints\u2019 Day is a national public holiday celebrated on November 1 to commemorate the Catholic saints.",
+                "country": {
+                    "id": "it",
+                    "name": "Italy"
+                },
+                "date": {
+                    "iso": "2021-11-01",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 11,
+                        "day": 1
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "The Feast of St. Ambrose (Milan)",
+                "description": "The Feast of Saint Ambrose is a day off for most people in Milan, one of Italy\u2019s largest cities, on December 7 every year.",
+                "country": {
+                    "id": "it",
+                    "name": "Italy"
+                },
+                "date": {
+                    "iso": "2021-12-07",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 12,
+                        "day": 7
+                    }
+                },
+                "type": [
+                    "Local holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Feast of the Immaculate Conception",
+                "description": "Immaculate Conception Day is a nationwide holiday in Italy on December 8 that celebrates the belief that Jesus\u2019 mother Mary is \u201cfree of sin\u201d.",
+                "country": {
+                    "id": "it",
+                    "name": "Italy"
+                },
+                "date": {
+                    "iso": "2021-12-08",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 12,
+                        "day": 8
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "December Solstice",
+                "description": "December Solstice in Italy (Rome)",
+                "country": {
+                    "id": "it",
+                    "name": "Italy"
+                },
+                "date": {
+                    "iso": "2021-12-21T16:59:17+01:00",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 12,
+                        "day": 21,
+                        "hour": 16,
+                        "minute": 59,
+                        "second": 17
+                    },
+                    "timezone": {
+                        "offset": "+01:00",
+                        "zoneabb": "CET",
+                        "zoneoffset": 3600,
+                        "zonedst": 0,
+                        "zonetotaloffset": 3600
+                    }
+                },
+                "type": [
+                    "Season"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Christmas Day",
+                "description": "Christmas Day is a public holiday in Italy on December 25 to celebrate the birth of Jesus Christ.",
+                "country": {
+                    "id": "it",
+                    "name": "Italy"
+                },
+                "date": {
+                    "iso": "2021-12-25",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 12,
+                        "day": 25
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "St. Stephen's Day",
+                "description": "St Stephen\u2019s Day is a public holiday in Italy on December 26.",
+                "country": {
+                    "id": "it",
+                    "name": "Italy"
+                },
+                "date": {
+                    "iso": "2021-12-26",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 12,
+                        "day": 26
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "New Year's Eve",
+                "description": "Many Italians celebrate New Year\u2019s Eve on December 31 to farewell the old year and prepare for the New Year.",
+                "country": {
+                    "id": "it",
+                    "name": "Italy"
+                },
+                "date": {
+                    "iso": "2021-12-31",
+                    "datetime": {
+                        "year": 2021,
+                        "month": 12,
+                        "day": 31
+                    }
+                },
+                "type": [
+                    "Observance"
+                ],
+                "locations": "All",
+                "states": "All"
+            }
+        ]
+    }
+}
