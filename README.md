@@ -1,9 +1,9 @@
 # World Data League
 **The quest to find the best data scientists by solving social-oriented problems.**
 
-Website: https://worlddataleague.com/
-Linkedin: https://www.linkedin.com/company/71782062/
-Twitter: https://twitter.com/worlddataleague
+- Website: https://worlddataleague.com/
+- Linkedin: https://www.linkedin.com/company/71782062/
+- Twitter: https://twitter.com/worlddataleague
 
 ## This repo
 Here you can find all the code that was produced throughout the several editions of WDL. It is completely **open-source and free to use**, under the MIT License

@@ -1,0 +1,4 @@
+# Residual files
+.DS_Store
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
