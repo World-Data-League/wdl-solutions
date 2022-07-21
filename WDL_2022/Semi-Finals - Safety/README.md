@@ -1,5 +1,5 @@
 # Semi-Finals - Safety
-In many cities, gender violence, specifically in public spaces, has become an increasingly public issue. This has increased further during the COVID-19 pandemic. The lack of adequate urban infrastructure, policies, and governance models exacerbates the problem.. Thus, addressing the main obstacles women face regarding their right to an inclusive and safe city, becomes a priority.
+In many cities, gender violence, specifically in public spaces, has become an increasingly public issue. This has increased further during the COVID-19 pandemic. The lack of adequate urban infrastructure, policies, and governance models exacerbates the problem. Thus, addressing the main obstacles women face regarding their right to an inclusive and safe city becomes a priority.
 
 **Stage presentation video:**
 https://youtu.be/_JUXejcE0L8?t=6103
@@ -14,7 +14,7 @@ Best solution pitch: https://www.youtube.com/watch?v=3JQihhsVOYY
 ## Leaderboard
 |Position|Team                          |Country       |Points|
 |--------|------------------------------|--------------|------|
-|01🥇    |GeoNEAS                       |Columbia      |242   |
+|01🥇    |GeoNEAS                       |Colombia      |242   |
 |02🥈    |Pablitos                      |Internaional  |235   |
 |02🥉    |YODAS                         |Portugal      |234   |
 |04      |CAPE                          |International |208   |
