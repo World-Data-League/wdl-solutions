@@ -25,7 +25,7 @@ Best solution pitch: https://www.youtube.com/watch?v=yX8rDuDvF6k
 
 |Position|Team                          |Country       |Points|
 |--------|------------------------------|--------------|------|
-|01🥇    |GeoNEAS                       |Columbia      |276   |
+|01🥇    |GeoNEAS                       |Colombia      |276   |
 |02🥈    |Shiny Pandas                  |Hungary       |243   |
 |03🥉    |YODAS                         |Portugal      |240   |
 |04      |AKITA                         |China         |234   |
@@ -40,8 +40,8 @@ Best solution pitch: https://www.youtube.com/watch?v=yX8rDuDvF6k
 |13      |Padrão dos Descobrimentos     |Portugal      |170   |
 |14      |CAPE                          |International |164   |
 |15      |Data Crocodiles               |Portugal      |164   |
-|16      |CalmCod3rs                    |Brasil        |162   |
-|17      |Dungeons, Data & Dragons (3D) |Brasil        |161   |
+|16      |CalmCod3rs                    |Brazil        |162   |
+|17      |Dungeons, Data & Dragons (3D) |Brazil        |161   |
 |18      |ISEG                          |International |158   |
 |19      |Veni, Vidi, Vici              |Portugal      |56    |
 |20      |French Data Girls             |France        |19    |
