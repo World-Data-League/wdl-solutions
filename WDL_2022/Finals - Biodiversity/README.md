@@ -17,6 +17,6 @@ Best solution pitch: https://www.youtube.com/watch?v=mFnfE2ZxhSU
 |--------|------------------------------|--------------|------|--------------------------------------------|
 |01🥇    |YODAS                         |Portugal      |250   |https://www.youtube.com/watch?v=mFnfE2ZxhSU |
 |02🥈    |Pablitos                      |Internaional  |234   |https://www.youtube.com/watch?v=OyFoWeYonlY |
-|03🥉    |GeoNEAS                       |Columbia      |233   |https://www.youtube.com/watch?v=svWcc0LwLu4 |
+|03🥉    |GeoNEAS                       |Colombia      |233   |https://www.youtube.com/watch?v=svWcc0LwLu4 |
 |04      |Bayesciamella                 |Italy         |220   |https://www.youtube.com/watch?v=R-a-miUVR-w |
 |05      |CAPE                          |International |172   |https://www.youtube.com/watch?v=3mZ3OBEsIOw |
