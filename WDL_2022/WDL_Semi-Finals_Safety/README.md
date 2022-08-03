@@ -6,7 +6,7 @@ https://youtu.be/_JUXejcE0L8?t=6103
 
 ## Challenges
 
-### Optimization of public transport routes during road interruptions
+### Predicting a safety score for women in Costa Rica
 The goal was to address poor conditions, insecurity and gender violence in public spaces where citizens who identify themselves as women and girls can find useful information that supports their daily activities in public spaces.
 
 Best solution pitch: https://www.youtube.com/watch?v=3JQihhsVOYY
