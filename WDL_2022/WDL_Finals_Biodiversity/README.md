@@ -6,7 +6,7 @@ https://youtu.be/rT8c0YpSB4I?t=6624
 
 ## Challenges
 
-### Optimization of public transport routes during road interruptions
+### Identification of Dark Ecological Corridors
 The goal of this challenge was to reduce the impact of ALAN on the bats in the city of Bristol and therefore reduce its adverse effect on the ecosystem. The output of this challenge was to be applied to the decision making on which lighting needs to be turned off.
 
 Best solution pitch: https://www.youtube.com/watch?v=mFnfE2ZxhSU
