@@ -4,18 +4,20 @@
 - Website: https://worlddataleague.com/
 - Linkedin: https://www.linkedin.com/company/71782062/
 - Twitter: https://twitter.com/worlddataleague
+- Youtube: https://www.youtube.com/channel/UCbx7Vbn2NHhAr43Upxpd5oQ
 
 ## This repo
-Here you can find all the code that was produced throughout the several editions of WDL. It is completely **open-source and free to use**, under the MIT License
+Here you can find all the code that was produced throughout the several editions of WDL. It is completely **open-source and free to use**, under the MIT License.
 
 ## WDL Editions
 In this repository you can find all the submissions made during the WDL competitions.
-Every edition will be focused on one of the [Sustainable Development Goals](https://sdgs.un.org/goals) from the United Nations.
+Every edition features challenges surrounding the topic `Data-driven communities`, focussing around one or more of the [Sustainable Development Goals](https://sdgs.un.org/goals) from the United Nations.
 
-| Year | Topic |
+| Year | Topics |
 | ------ | ------ |
-| 2021 | [SDG11 - Data-Driven Cities](https://sdgs.un.org/goals/goal11) |
-| 2022 | TBA|
+| 2021 | [SDG11 - Sustainable Cities and Communities](https://sdgs.un.org/goals/goal11) |
+| 2022 | [SDG11 - Sustainable Cities and Communities](https://sdgs.un.org/goals/goal11), [SDG15 - Life on Land](https://sdgs.un.org/goals/goal15) |
+| 2023 | [SDG11 - Sustainable Cities and Communities](https://sdgs.un.org/goals/goal11), [SDG14 - Life Below Water](https://sdgs.un.org/goals/goal14), [SDG7 - Affordable and clean energy](https://sdgs.un.org/goals/goal7) |
 
 ## About Us
 Hey world, we are the **World Data League team**!
