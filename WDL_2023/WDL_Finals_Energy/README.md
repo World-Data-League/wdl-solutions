@@ -20,7 +20,7 @@ Best solution pitch: https://www.youtube.com/watch?v=cUO9XjRORAw
 
 |Position|Team                          |Country       |Points|
 |--------|------------------------------|--------------|------|
-|01🥇    |AI Wonder Girls               |Internaional  |241   |
+|01🥇    |AI Wonder Girls               |International  |241   |
 |02🥈    |The Bayes Bunch               |UK            |233   |
 |03🥉    |CEOS                          |Portugal      |182   |
 |04      |Data Warriors                 |Portugal      |155   |
