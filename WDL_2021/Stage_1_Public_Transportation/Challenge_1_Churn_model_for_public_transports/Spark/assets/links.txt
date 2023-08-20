@@ -1,5 +1,0 @@
-Tableau Link:
-https://public.tableau.com/app/profile/b7220/viz/WDLMap/Dashboard1
-
-Data Sources for Latitude and Longitude data:
-https://simplemaps.com/data/pt-cities
