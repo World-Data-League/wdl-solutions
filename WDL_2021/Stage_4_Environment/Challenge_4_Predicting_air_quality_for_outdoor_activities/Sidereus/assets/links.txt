@@ -1,2 +1,0 @@
-Open Elevation API:
-https://github.com/Jorl17/open-elevation/blob/master/docs/api.md
