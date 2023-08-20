@@ -1,5 +1,0 @@
-Pothole Dataset:
-https://public.roboflow.com/object-detection/pothole/1
-
-YoloV5 repo:
-https://github.com/ultralytics/yolov5

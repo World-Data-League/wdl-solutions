@@ -1,5 +1,0 @@
-GIRA stations:
-https://dados.gov.pt/pt/datasets/gira-bicicletas-de-lisboa-historico/
-
-Lisbon inclinations:
-https://github.com/U-Shift/Declives-RedeViaria/tree/main/shapefiles
